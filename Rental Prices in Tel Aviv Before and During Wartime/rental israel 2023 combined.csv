@@ -1,0 +1,4156 @@
+city,rooms_semi_integer,rooms,extra_space,floor,surface_m2,NIS,property_type,price_surface
+Tel Aviv,3,3,0,19,75,8990,apartment,119.87
+Tel Aviv,4,4,0,5,110,14500,apartment,131.82
+Tel Aviv,2,2,0,4,50,4650,apartment,93
+Tel Aviv,3,3,0,24,104,13000,apartment,125
+Tel Aviv,3,3,0,4,85,6700,apartment,78.82
+Tel Aviv,5,5,0,7,132,11900,apartment,90.15
+Tel Aviv,3,3,0,1,85,10900,garden apartment,128.24
+Tel Aviv,2,2,0,0,40,5800,apartment,145
+Tel Aviv,3,3,0,4,60,5000,apartment,83.33
+Tel Aviv,1,1,0,5,86,10900,apartment,126.74
+Tel Aviv,1,1,0,2,25,3300,apartment,132
+Tel Aviv,3,3,0,3,78,7000,apartment,89.74
+Tel Aviv,3.5,3,1,3,75,10000,apartment,133.33
+Tel Aviv,3,3,0,3,85,8900,apartment,104.71
+Tel Aviv,3,3,0,3,70,7350,apartment,105
+Tel Aviv,2,2,0,1,65,7200,apartment,110.77
+Tel Aviv,4,4,0,5,111,8750,apartment,78.83
+Tel Aviv,2,2,0,2,52,5300,apartment,101.92
+Tel Aviv,4,4,0,0,90,9900,apartment,110
+Tel Aviv,2,2,0,0,70,4300,other,61.43
+Tel Aviv,4,4,0,4,104,9000,apartment,86.54
+Tel Aviv,4,4,0,3,100,13000,apartment,130
+Tel Aviv,5,5,0,15,125,11500,apartment,92
+Tel Aviv,4,4,0,6,150,13000,apartment,86.67
+Tel Aviv,3,3,0,1,60,8750,apartment,145.83
+Tel Aviv,4,4,0,1,112,11000,apartment,98.21
+Tel Aviv,4,4,0,1,125,12500,apartment,100
+Tel Aviv,3,3,0,27,67,11000,apartment,164.18
+Tel Aviv,2,2,0,4,60,8500,apartment,141.67
+Tel Aviv,2,2,0,1,60,6500,apartment,108.33
+Tel Aviv,2,2,0,1,50,10000,apartment,200
+Tel Aviv,2,2,0,5,54,5400,apartment,100
+Tel Aviv,3,3,0,0,135,9000,garden apartment,66.67
+Tel Aviv,4,4,0,3,350,25000,penthouse,71.43
+Tel Aviv,5,5,0,6,210,27500,penthouse,130.95
+Tel Aviv,3.5,3,1,3,85,9200,apartment,108.24
+Tel Aviv,2,2,0,0,55,6700,apartment,121.82
+Tel Aviv,3,3,0,1,75,9200,apartment,122.67
+Tel Aviv,4,4,0,1,85,6900,apartment,81.18
+Tel Aviv,2,2,0,5,82,11500,duplex,140.24
+Tel Aviv,7,7,0,12,400,35000,duplex,87.5
+Tel Aviv,4,4,0,3,110,11500,apartment,104.55
+Tel Aviv,5,5,0,0,230,15500,house,67.39
+Tel Aviv,3,3,0,3,65,7500,apartment,115.38
+Tel Aviv,3,3,0,1,89,9000,apartment,101.12
+Tel Aviv,4,4,0,2,92,8600,apartment,93.48
+Tel Aviv,3,3,0,3,68,5500,apartment,80.88
+Tel Aviv,2.5,2,1,2,48,6500,apartment,135.42
+Tel Aviv,4,4,0,1,80,10200,apartment,127.5
+Tel Aviv,2.5,2,1,0,60,6100,apartment,101.67
+Tel Aviv,3,3,0,4,60,4600,apartment,76.67
+Tel Aviv,3.5,3,1,2,110,9900,apartment,90
+Tel Aviv,3.5,3,1,2,110,8800,apartment,80
+Tel Aviv,4.5,4,1,10,160,13000,apartment,81.25
+Tel Aviv,1.5,1,1,1,41,5500,apartment,134.15
+Tel Aviv,4,4,0,10,90,10500,apartment,116.67
+Tel Aviv,4,4,0,4,90,12500,apartment,138.89
+Tel Aviv,3.5,3,1,2,72,10200,apartment,141.67
+Tel Aviv,3,3,0,2,84,8400,apartment,100
+Tel Aviv,4,4,0,1,85,6900,apartment,81.18
+Tel Aviv,4,4,0,1,120,13400,apartment,111.67
+Tel Aviv,3,3,0,4,75,12000,apartment,160
+Tel Aviv,4,4,0,30,200,18900,penthouse,94.5
+Tel Aviv,2,2,0,3,38,5500,apartment,144.74
+Tel Aviv,4,4,0,0,260,11800,other,45.38
+Tel Aviv,2,2,0,0,50,6950,apartment,139
+Tel Aviv,3,3,0,12,100,15500,apartment,155
+Tel Aviv,2,2,0,1,50,6300,apartment,126
+Tel Aviv,5,5,0,5,128,10500,apartment,82.03
+Tel Aviv,5,5,0,5,120,11200,apartment,93.33
+Tel Aviv,4,4,0,5,150,16900,penthouse,112.67
+Tel Aviv,3.5,3,1,2,115,11000,apartment,95.65
+Tel Aviv,4,4,0,2,105,9500,apartment,90.48
+Tel Aviv,4,4,0,26,119,19500,apartment,163.87
+Tel Aviv,3,3,0,1,80,7500,apartment,93.75
+Tel Aviv,5,5,0,0,130,14000,garden apartment,107.69
+Tel Aviv,1,1,0,0,25,4200,apartment,168
+Tel Aviv,5,5,0,6,210,27500,penthouse,130.95
+Tel Aviv,3,3,0,14,77,9000,apartment,116.88
+Tel Aviv,4,4,0,26,80,11000,apartment,137.5
+Tel Aviv,3,3,0,1,70,7200,apartment,102.86
+Tel Aviv,2,2,0,0,50,3550,house,71
+Tel Aviv,4,4,0,8,88,7000,apartment,79.55
+Tel Aviv,4,4,0,46,245,29900,penthouse,122.04
+Tel Aviv,4,4,0,35,110,10700,apartment,97.27
+Tel Aviv,3,3,0,5,65,7500,apartment,115.38
+Tel Aviv,5,5,0,2,115,11500,apartment,100
+Tel Aviv,3,3,0,3,85,13500,apartment,158.82
+Tel Aviv,2.5,2,1,1,70,6800,apartment,97.14
+Tel Aviv,3,3,0,1,70,5300,apartment,75.71
+Tel Aviv,3,3,0,0,89,5500,basement,61.8
+Tel Aviv,3,3,0,2,60,7500,apartment,125
+Tel Aviv,3,3,0,2,70,7500,apartment,107.14
+Tel Aviv,7,7,0,24,332,40000,apartment,120.48
+Tel Aviv,2,2,0,1,61,6280,apartment,102.95
+Tel Aviv,1,1,0,2,30,5200,apartment,173.33
+Tel Aviv,1,1,0,11,125,15000,apartment,120
+Tel Aviv,2,2,0,1,60,8200,apartment,136.67
+Tel Aviv,3,3,0,0,95,8900,house,93.68
+Tel Aviv,4,4,0,21,143,18000,apartment,125.87
+Tel Aviv,2,2,0,21,55,9200,apartment,167.27
+Tel Aviv,3,3,0,3,100,12000,apartment,120
+Tel Aviv,3,3,0,2,70,7250,apartment,103.57
+Tel Aviv,3,3,0,4,115,16500,apartment,143.48
+Tel Aviv,3,3,0,25,78,8500,apartment,108.97
+Tel Aviv,3,3,0,18,75,10000,apartment,133.33
+Tel Aviv,4,4,0,1,140,13000,apartment,92.86
+Tel Aviv,4,4,0,3,95,12000,apartment,126.32
+Tel Aviv,3,3,0,1,92,14400,apartment,156.52
+Tel Aviv,3.5,3,1,3,86,12000,apartment,139.53
+Tel Aviv,5,5,0,2,137,10000,apartment,72.99
+Tel Aviv,4,4,0,2,100,15900,apartment,159
+Tel Aviv,4,4,0,3,90,10000,apartment,111.11
+Tel Aviv,4,4,0,4,280,23000,penthouse,82.14
+Tel Aviv,3,3,0,3,100,9200,apartment,92
+Tel Aviv,3,3,0,1,70,5000,apartment,71.43
+Tel Aviv,4,4,0,2,110,14800,apartment,134.55
+Tel Aviv,2,2,0,1,40,6000,apartment,150
+Tel Aviv,2,2,0,13,50,10500,apartment,210
+Tel Aviv,3,3,0,1,70,5300,apartment,75.71
+Tel Aviv,3,3,0,2,60,7500,apartment,125
+Tel Aviv,3,3,0,2,70,7500,apartment,107.14
+Tel Aviv,2,2,0,1,61,6280,apartment,102.95
+Tel Aviv,2,2,0,1,60,8200,apartment,136.67
+Tel Aviv,3,3,0,10,72,10000,apartment,138.89
+Tel Aviv,2.5,2,1,3,80,6000,apartment,75
+Tel Aviv,2,2,0,2,70,7499,apartment,107.13
+Tel Aviv,4,4,0,2,113,10500,apartment,92.92
+Tel Aviv,3,3,0,2,65,6200,apartment,95.38
+Tel Aviv,3,3,0,3,96,10900,apartment,113.54
+Tel Aviv,3.5,3,1,3,82,10500,apartment,128.05
+Tel Aviv,2,2,0,1,40,6000,apartment,150
+Tel Aviv,5,5,0,9,155,24900,apartment,160.65
+Tel Aviv,4,4,0,8,100,8500,apartment,85
+Tel Aviv,4,4,0,2,92,7800,apartment,84.78
+Tel Aviv,4,4,0,4,100,13000,apartment,130
+Tel Aviv,3,3,0,1,96,10000,other,104.17
+Tel Aviv,3,3,0,24,82,13000,apartment,158.54
+Tel Aviv,3,3,0,5,76,8500,apartment,111.84
+Tel Aviv,3,3,0,14,75,9500,apartment,126.67
+Tel Aviv,3.5,3,1,3,81,8500,apartment,104.94
+Tel Aviv,2.5,2,1,0,175,13900,garden apartment,79.43
+Tel Aviv,3,3,0,4,65,8200,apartment,126.15
+Tel Aviv,3,3,0,2,90,7700,apartment,85.56
+Tel Aviv,4,4,0,1,85,8000,apartment,94.12
+Tel Aviv,3,3,0,1,75,8000,apartment,106.67
+Tel Aviv,5,5,0,9,236,25000,penthouse,105.93
+Tel Aviv,3,3,0,3,85,10500,apartment,123.53
+Tel Aviv,1.5,1,1,3,40,5900,apartment,147.5
+Tel Aviv,4,4,0,3,130,15000,apartment,115.38
+Tel Aviv,4,4,0,4,110,11500,apartment,104.55
+Tel Aviv,1,1,0,4,55,4000,other,72.73
+Tel Aviv,3,3,0,2,80,9450,apartment,118.13
+Tel Aviv,3,3,0,2,90,8200,apartment,91.11
+Tel Aviv,2,2,0,4,60,7200,apartment,120
+Tel Aviv,3,3,0,4,70,8500,apartment,121.43
+Tel Aviv,3,3,0,13,76,9900,apartment,130.26
+Tel Aviv,3,3,0,0,240,11500,house,47.92
+Tel Aviv,3,3,0,2,80,8000,apartment,100
+Tel Aviv,3,3,0,2,72,6950,apartment,96.53
+Tel Aviv,4,4,0,2,90,7900,penthouse,87.78
+Tel Aviv,3,3,0,2,80,8500,apartment,106.25
+Tel Aviv,4,4,0,22,108,10200,duplex,94.44
+Tel Aviv,3,3,0,28,148,23000,apartment,155.41
+Tel Aviv,4,4,0,20,102,8900,apartment,87.25
+Tel Aviv,4,4,0,4,110,12500,apartment,113.64
+Tel Aviv,3,3,0,3,77,7300,apartment,94.81
+Tel Aviv,2,2,0,1,51,7500,apartment,147.06
+Tel Aviv,2,2,0,0,67,12900,garden apartment,192.54
+Tel Aviv,2,2,0,2,70,8000,apartment,114.29
+Tel Aviv,3,3,0,4,80,10900,apartment,136.25
+Tel Aviv,3.5,3,1,2,85,7000,apartment,82.35
+Tel Aviv,5,5,0,11,125,15000,apartment,120
+Tel Aviv,4,4,0,13,110,9500,apartment,86.36
+Tel Aviv,1.5,1,1,1,35,3600,apartment,102.86
+Tel Aviv,5,5,0,1,125,11500,apartment,92
+Tel Aviv,5,5,0,15,117,13700,apartment,117.09
+Tel Aviv,2,2,0,2,52,7000,apartment,134.62
+Tel Aviv,2,2,0,4,53,7800,apartment,147.17
+Tel Aviv,2.5,2,1,1,65,7500,apartment,115.38
+Tel Aviv,4,4,0,2,100,9800,apartment,98
+Tel Aviv,5,5,0,2,107,11000,apartment,102.8
+Tel Aviv,3,3,0,3,88,5500,apartment,62.5
+Tel Aviv,2,2,0,1,71,7000,apartment,98.59
+Tel Aviv,3,3,0,2,105,12000,apartment,114.29
+Tel Aviv,3,3,0,29,76,12000,apartment,157.89
+Tel Aviv,3,3,0,3,75,6100,apartment,81.33
+Tel Aviv,3.5,3,1,1,82,9799,apartment,119.5
+Tel Aviv,3,3,0,6,76,7400,apartment,97.37
+Tel Aviv,3,3,0,3,110,8500,penthouse,77.27
+Tel Aviv,1,1,0,0,28,2900,apartment,103.57
+Tel Aviv,4,4,0,3,140,11700,penthouse,83.57
+Tel Aviv,2.5,2,1,0,60,6800,apartment,113.33
+Tel Aviv,4,4,0,1,87,8500,apartment,97.7
+Tel Aviv,3.5,3,1,5,90,8000,apartment,88.89
+Tel Aviv,2.5,2,1,3,57,7500,apartment,131.58
+Tel Aviv,2.5,2,1,2,75,5500,apartment,73.33
+Tel Aviv,2.5,2,1,0,80,7900,apartment,98.75
+Tel Aviv,3,3,0,2,70,9800,apartment,140
+Tel Aviv,5,5,0,3,135,11000,apartment,81.48
+Tel Aviv,3,3,0,3,73,8150,apartment,111.64
+Tel Aviv,3,3,0,2,85,10200,apartment,120
+Tel Aviv,2,2,0,1,50,6500,apartment,130
+Tel Aviv,4,4,0,0,246,25000,apartment,101.63
+Tel Aviv,1,1,0,0,85,6000,garden apartment,70.59
+Tel Aviv,5,5,0,1,110,6800,apartment,61.82
+Tel Aviv,3.5,3,1,5,90,7500,apartment,83.33
+Tel Aviv,2,2,0,3,68,8900,other,130.88
+Tel Aviv,4,4,0,1,120,10500,apartment,87.5
+Tel Aviv,3,3,0,4,70,8700,apartment,124.29
+Tel Aviv,5,5,0,7,144,11000,penthouse,76.39
+Tel Aviv,2.5,2,1,4,54,4400,apartment,81.48
+Tel Aviv,2,2,0,3,34,5500,apartment,161.76
+Tel Aviv,3,3,0,3,93,10000,apartment,107.53
+Tel Aviv,3,3,0,4,75,8200,apartment,109.33
+Tel Aviv,4,4,0,28,90,14500,apartment,161.11
+Tel Aviv,4,4,0,2,117,17000,apartment,145.3
+Tel Aviv,3,3,0,2,85,11500,apartment,135.29
+Tel Aviv,5,5,0,3,180,11500,penthouse,63.89
+Tel Aviv,2,2,0,6,92,10500,apartment,114.13
+Tel Aviv,3,3,0,0,120,22000,house,183.33
+Tel Aviv,4,4,0,8,127,15500,apartment,122.05
+Tel Aviv,2.5,2,1,0,82,6950,apartment,84.76
+Tel Aviv,3,3,0,1,60,7500,apartment,125
+Tel Aviv,3,3,0,2,75,7500,apartment,100
+Tel Aviv,1,1,0,2,95,9300,apartment,97.89
+Tel Aviv,4,4,0,1,82,6500,apartment,79.27
+Tel Aviv,3,3,0,2,85,7600,apartment,89.41
+Tel Aviv,3,3,0,3,100,14000,apartment,140
+Tel Aviv,3,3,0,21,80,8300,apartment,103.75
+Tel Aviv,3,3,0,8,80,7500,apartment,93.75
+Tel Aviv,4,4,0,23,102,15000,apartment,147.06
+Tel Aviv,2,2,0,2,54,7900,apartment,146.3
+Tel Aviv,3,3,0,13,76,9700,apartment,127.63
+Tel Aviv,3.5,3,1,3,85,6900,apartment,81.18
+Tel Aviv,1,1,0,2,12,1500,apartment,125
+Tel Aviv,3,3,0,1,72,7800,apartment,108.33
+Tel Aviv,3,3,0,2,68,7000,apartment,102.94
+Tel Aviv,4,4,0,2,100,10000,apartment,100
+Tel Aviv,3,3,0,4,73,4970,apartment,68.08
+Tel Aviv,5,5,0,3,130,10500,apartment,80.77
+Tel Aviv,2,2,0,2,63,6500,apartment,103.17
+Tel Aviv,2,2,0,0,67,7500,garden apartment,111.94
+Tel Aviv,4.5,4,1,3,241,18000,penthouse,74.69
+Tel Aviv,2,2,0,5,55,6000,apartment,109.09
+Tel Aviv,4,4,0,2,140,13950,duplex,99.64
+Tel Aviv,3,3,0,1,90,8500,apartment,94.44
+Tel Aviv,2,2,0,0,49,7250,garden apartment,147.96
+Tel Aviv,4,4,0,3,112,19500,apartment,174.11
+Tel Aviv,3,3,0,3,80,7500,apartment,93.75
+Tel Aviv,4.5,4,1,3,132,13000,apartment,98.48
+Tel Aviv,2.5,2,1,4,52,6700,apartment,128.85
+Tel Aviv,6,6,0,0,305,24000,house,78.69
+Tel Aviv,4,4,0,20,102,9200,apartment,90.2
+Tel Aviv,2,2,0,4,73,10500,apartment,143.84
+Tel Aviv,3,3,0,0,85,9000,garden apartment,105.88
+Tel Aviv,5,5,0,2,135,11500,duplex,85.19
+Tel Aviv,4,4,0,23,105,11200,apartment,106.67
+Tel Aviv,4,4,0,1,90,8500,apartment,94.44
+Tel Aviv,3,3,0,0,70,9000,apartment,128.57
+Tel Aviv,5,5,0,4,145,14000,apartment,96.55
+Tel Aviv,5.5,5,1,2,205,13500,duplex,65.85
+Tel Aviv,4,4,0,10,110,9000,apartment,81.82
+Tel Aviv,2,2,0,0,90,4500,apartment,50
+Tel Aviv,4,4,0,1,110,11000,apartment,100
+Tel Aviv,2,2,0,1,56,7800,apartment,139.29
+Tel Aviv,1.5,1,1,2,50,5900,other,118
+Tel Aviv,4,4,0,3,90,3700,apartment,41.11
+Tel Aviv,3,3,0,1,107,11500,garden apartment,107.48
+Tel Aviv,2,2,0,1,57,6800,apartment,119.3
+Tel Aviv,1,1,0,2,126,11000,apartment,87.3
+Tel Aviv,5,5,0,9,150,12500,duplex,83.33
+Tel Aviv,2.5,2,1,2,78,8100,apartment,103.85
+Tel Aviv,3,3,0,8,90,8300,apartment,92.22
+Tel Aviv,4,4,0,3,85,5800,apartment,68.24
+Tel Aviv,2,2,0,3,45,6500,apartment,144.44
+Tel Aviv,2.5,2,1,13,67,10400,apartment,155.22
+Tel Aviv,5,5,0,2,135,11500,duplex,85.19
+Tel Aviv,5,5,0,4,210,29000,other,138.1
+Tel Aviv,5,5,0,1,160,27000,house,168.75
+Tel Aviv,5.5,5,1,4,125,12000,apartment,96
+Tel Aviv,3,3,0,3,70,8200,apartment,117.14
+Tel Aviv,3,3,0,22,100,13000,apartment,130
+Tel Aviv,8,8,0,3,255,57000,penthouse,223.53
+Tel Aviv,5.5,5,1,8,137,16500,apartment,120.44
+Tel Aviv,1,1,0,0,25,5500,apartment,220
+Tel Aviv,2,2,0,0,50,10000,apartment,200
+Tel Aviv,3,3,0,2,100,7300,apartment,73
+Tel Aviv,4,4,0,0,210,25000,garden apartment,119.05
+Tel Aviv,5,5,0,6,134,11400,apartment,85.07
+Tel Aviv,4,4,0,12,134,11500,other,85.82
+Tel Aviv,2.5,2,1,6,85,12900,apartment,151.76
+Tel Aviv,3,3,0,14,79,9900,apartment,125.32
+Tel Aviv,4,4,0,6,204,23000,penthouse,112.75
+Tel Aviv,4,4,0,3,120,9500,apartment,79.17
+Tel Aviv,2,2,0,4,50,6600,apartment,132
+Tel Aviv,4.5,4,1,26,155,23000,apartment,148.39
+Tel Aviv,4.5,4,1,3,132,11500,apartment,87.12
+Tel Aviv,3,3,0,5,117,26000,apartment,222.22
+Tel Aviv,2.5,2,1,3,59,7800,apartment,132.2
+Tel Aviv,3.5,3,1,2,95,10000,apartment,105.26
+Tel Aviv,4,4,0,2,108,11000,apartment,101.85
+Tel Aviv,1,1,0,2,32,3800,apartment,118.75
+Tel Aviv,2,2,0,2,72,11500,apartment,159.72
+Tel Aviv,4,4,0,3,108,9300,apartment,86.11
+Tel Aviv,3,3,0,9,94,10000,other,106.38
+Tel Aviv,4,4,0,5,105,12500,apartment,119.05
+Tel Aviv,5,5,0,0,120,8900,garden apartment,74.17
+Tel Aviv,3,3,0,0,70,5500,apartment,78.57
+Tel Aviv,2.5,2,1,2,60,5500,apartment,91.67
+Tel Aviv,3,3,0,1,90,8000,apartment,88.89
+Tel Aviv,4,4,0,16,105,12000,apartment,114.29
+Tel Aviv,2.5,2,1,0,60,7200,apartment,120
+Tel Aviv,3,3,0,3,65,8600,apartment,132.31
+Tel Aviv,3,3,0,4,60,8200,apartment,136.67
+Tel Aviv,2,2,0,5,64,9500,apartment,148.44
+Tel Aviv,4.5,4,1,32,200,25000,apartment,125
+Tel Aviv,3,3,0,3,66,4800,apartment,72.73
+Tel Aviv,4,4,0,3,157,24000,penthouse,152.87
+Tel Aviv,3,3,0,2,70,10500,apartment,150
+Tel Aviv,3,3,0,18,102,13000,apartment,127.45
+Tel Aviv,3,3,0,0,100,9000,apartment,90
+Tel Aviv,2,2,0,1,56,6300,apartment,112.5
+Tel Aviv,4,4,0,17,120,14000,apartment,116.67
+Tel Aviv,3,3,0,3,85,8000,apartment,94.12
+Tel Aviv,3,3,0,30,78,10990,apartment,140.9
+Tel Aviv,5,5,0,36,159,40000,apartment,251.57
+Tel Aviv,3,3,0,11,76,10000,apartment,131.58
+Tel Aviv,4.5,4,1,3,120,8500,apartment,70.83
+Tel Aviv,2,2,0,2,50,6500,apartment,130
+Tel Aviv,4,4,0,43,105,9500,apartment,90.48
+Tel Aviv,4,4,0,1,95,8000,apartment,84.21
+Tel Aviv,4,4,0,13,108,11000,apartment,101.85
+Tel Aviv,3,3,0,30,75,9000,apartment,120
+Tel Aviv,5,5,0,33,125,11300,apartment,90.4
+Tel Aviv,3,3,0,0,63,9800,apartment,155.56
+Tel Aviv,2.5,2,1,1,58,6250,apartment,107.76
+Tel Aviv,2.5,2,1,3,55,7600,apartment,138.18
+Tel Aviv,2,2,0,2,40,4700,apartment,117.5
+Tel Aviv,3,3,0,5,67,5499,apartment,82.07
+Tel Aviv,1,1,0,2,30,5200,apartment,173.33
+Tel Aviv,4,4,0,6,112,10800,apartment,96.43
+Tel Aviv,4,4,0,5,105,8400,apartment,80
+Tel Aviv,3,3,0,6,60,10200,house,170
+Tel Aviv,1,1,0,3,22,3700,housing unit,168.18
+Tel Aviv,1,1,0,7,52,6400,apartment,123.08
+Tel Aviv,3.5,3,1,4,76,5200,apartment,68.42
+Tel Aviv,1.5,1,1,3,30,4600,apartment,153.33
+Tel Aviv,4,4,0,4,134,11000,apartment,82.09
+Tel Aviv,2,2,0,2,60,5900,duplex,98.33
+Tel Aviv,3,3,0,4,82,8000,apartment,97.56
+Tel Aviv,4,4,0,1,90,10000,apartment,111.11
+Tel Aviv,2.5,2,1,0,70,6500,other,92.86
+Tel Aviv,6,6,0,1,360,15500,garden apartment,43.06
+Tel Aviv,3,3,0,3,70,8900,apartment,127.14
+Tel Aviv,2,2,0,1,50,7200,apartment,144
+Tel Aviv,3,3,0,10,106,9500,apartment,89.62
+Tel Aviv,3,3,0,2,75,8000,apartment,106.67
+Tel Aviv,2.5,2,1,4,100,7300,penthouse,73
+Tel Aviv,3,3,0,27,87,8250,apartment,94.83
+Tel Aviv,4,4,0,1,97,8000,apartment,82.47
+Tel Aviv,4,4,0,2,120,10000,apartment,83.33
+Tel Aviv,3.5,3,1,0,165,12400,garden apartment,75.15
+Tel Aviv,3,3,0,1,75,8000,apartment,106.67
+Tel Aviv,3,3,0,1,90,6900,apartment,76.67
+Tel Aviv,2,2,0,1,50,6800,apartment,136
+Tel Aviv,5,5,0,5,150,14000,other,93.33
+Tel Aviv,4,4,0,7,122,11500,other,94.26
+Tel Aviv,4,4,0,32,102,10500,apartment,102.94
+Tel Aviv,3,3,0,3,75,10250,other,136.67
+Tel Aviv,7,7,0,0,400,30000,other,75
+Tel Aviv,3,3,0,6,76,10600,apartment,139.47
+Tel Aviv,3,3,0,6,93,11500,apartment,123.66
+Tel Aviv,3,3,0,1,85,8500,apartment,100
+Tel Aviv,4,4,0,14,200,22000,duplex,110
+Tel Aviv,4,4,0,0,145,12800,apartment,88.28
+Tel Aviv,3,3,0,1,85,7700,apartment,90.59
+Tel Aviv,3.5,3,1,1,86,7500,apartment,87.21
+Tel Aviv,4,4,0,7,105,12000,apartment,114.29
+Tel Aviv,2,2,0,3,40,7100,apartment,177.5
+Tel Aviv,4,4,0,5,112,8500,apartment,75.89
+Tel Aviv,3,3,0,4,66,8500,apartment,128.79
+Tel Aviv,3.5,3,1,4,80,5450,apartment,68.13
+Tel Aviv,3,3,0,2,76,8200,apartment,107.89
+Tel Aviv,2,2,0,1,40,2700,apartment,67.5
+Tel Aviv,2,2,0,2,45,3700,apartment,82.22
+Tel Aviv,3,3,0,2,90,5850,apartment,65
+Tel Aviv,3,3,0,4,75,4800,apartment,64
+Tel Aviv,4,4,0,4,87,6450,apartment,74.14
+Tel Aviv,3,3,0,2,65,9200,apartment,141.54
+Tel Aviv,1,1,0,0,30,3200,apartment,106.67
+Tel Aviv,1.5,1,1,3,30,4240,apartment,141.33
+Tel Aviv,7,7,0,0,400,30000,other,75
+Tel Aviv,5,5,0,33,280,60000,apartment,214.29
+Tel Aviv,3,3,0,1,75,5500,apartment,73.33
+Tel Aviv,4,4,0,4,126,10250,other,81.35
+Tel Aviv,3,3,0,25,85,8900,apartment,104.71
+Tel Aviv,3,3,0,1,70,7500,apartment,107.14
+Tel Aviv,3,3,0,5,75,8000,apartment,106.67
+Tel Aviv,5,5,0,25,113,12000,apartment,106.19
+Tel Aviv,5,5,0,6,130,10500,apartment,80.77
+Tel Aviv,5,5,0,5,161,18500,apartment,114.91
+Tel Aviv,2.5,2,1,1,80,6400,apartment,80
+Tel Aviv,3,3,0,23,66,11000,apartment,166.67
+Tel Aviv,4,4,0,31,122,18000,apartment,147.54
+Tel Aviv,4,4,0,1,130,10250,apartment,78.85
+Tel Aviv,3,3,0,0,75,8000,apartment,106.67
+Tel Aviv,6,6,0,25,280,32500,apartment,116.07
+Tel Aviv,2,2,0,7,75,6800,apartment,90.67
+Tel Aviv,3.5,3,1,4,78,6500,apartment,83.33
+Tel Aviv,3.5,3,1,4,100,9200,penthouse,92
+Tel Aviv,3,3,0,1,55,7900,apartment,143.64
+Tel Aviv,3,3,0,4,87,13000,apartment,149.43
+Tel Aviv,3.5,3,1,3,95,10000,apartment,105.26
+Tel Aviv,4,4,0,4,100,7100,apartment,71
+Tel Aviv,2.5,2,1,2,49,5700,apartment,116.33
+Tel Aviv,3.5,3,1,3,83,6000,apartment,72.29
+Tel Aviv,5.5,5,1,0,220,13950,garden apartment,63.41
+Tel Aviv,3,3,0,2,104,11000,apartment,105.77
+Tel Aviv,3.5,3,1,3,120,7800,penthouse,65
+Tel Aviv,3.5,3,1,0,80,6000,housing unit,75
+Tel Aviv,6,6,0,0,310,15000,garden apartment,48.39
+Tel Aviv,1,1,0,2,150,16000,apartment,106.67
+Tel Aviv,2,2,0,3,60,6500,apartment,108.33
+Tel Aviv,3,3,0,1,90,8600,apartment,95.56
+Tel Aviv,3,3,0,2,70,8400,apartment,120
+Tel Aviv,2,2,0,1,57,6000,apartment,105.26
+Tel Aviv,5,5,0,0,305,28000,house,91.8
+Tel Aviv,4,4,0,1,105,13000,other,123.81
+Tel Aviv,1.5,1,1,0,45,4900,apartment,108.89
+Tel Aviv,4,4,0,7,108,10000,apartment,92.59
+Tel Aviv,4,4,0,3,164,40000,apartment,243.9
+Tel Aviv,4,4,0,6,210,20000,penthouse,95.24
+Tel Aviv,4,4,0,2,120,12900,apartment,107.5
+Tel Aviv,3,3,0,1,75,7500,apartment,100
+Tel Aviv,3,3,0,3,80,11000,apartment,137.5
+Tel Aviv,3,3,0,2,75,8750,apartment,116.67
+Tel Aviv,4,4,0,1,105,14500,duplex,138.1
+Tel Aviv,4,4,0,8,108,9500,apartment,87.96
+Tel Aviv,4,4,0,39,172,45000,apartment,261.63
+Tel Aviv,5,5,0,30,210,21000,penthouse,100
+Tel Aviv,3,3,0,20,75,8800,other,117.33
+Tel Aviv,3,3,0,1,70,7500,apartment,107.14
+Tel Aviv,3,3,0,2,78,10800,apartment,138.46
+Tel Aviv,3,3,0,1,92,14000,other,152.17
+Tel Aviv,2,2,0,4,1,4850,apartment,4850
+Tel Aviv,4,4,0,20,108,11500,apartment,106.48
+Tel Aviv,3,3,0,5,140,10800,penthouse,77.14
+Tel Aviv,3.5,3,1,3,120,7800,penthouse,65
+Tel Aviv,1,1,0,2,150,16000,apartment,106.67
+Tel Aviv,2,2,0,0,52,7000,apartment,134.62
+Tel Aviv,3,3,0,1,90,8600,apartment,95.56
+Tel Aviv,2,2,0,1,57,6000,apartment,105.26
+Tel Aviv,3,3,0,9,95,11900,apartment,125.26
+Tel Aviv,3,3,0,9,83,10300,apartment,124.1
+Tel Aviv,3,3,0,2,52,5000,apartment,96.15
+Tel Aviv,3,3,0,1,92,14000,other,152.17
+Tel Aviv,4,4,0,7,115,12500,apartment,108.7
+Tel Aviv,5,5,0,15,121,13900,apartment,114.88
+Tel Aviv,4,4,0,22,93,10500,apartment,112.9
+Tel Aviv,3,3,0,28,148,23000,apartment,155.41
+Tel Aviv,3.5,3,1,5,85,8500,duplex,100
+Tel Aviv,2,2,0,1,60,6450,apartment,107.5
+Tel Aviv,5,5,0,8,150,12450,apartment,83
+Tel Aviv,4,4,0,4,105,8700,apartment,82.86
+Tel Aviv,5,5,0,0,210,22000,garden apartment,104.76
+Tel Aviv,4.5,4,1,1,148,16500,apartment,111.49
+Tel Aviv,2,2,0,3,49,8000,other,163.27
+Tel Aviv,4,4,0,1,100,12500,apartment,125
+Tel Aviv,3,3,0,1,90,8600,apartment,95.56
+Tel Aviv,3,3,0,2,90,8900,penthouse,98.89
+Tel Aviv,3,3,0,5,115,9000,apartment,78.26
+Tel Aviv,4.5,4,1,7,145,11000,apartment,75.86
+Tel Aviv,4,4,0,31,107,11000,apartment,102.8
+Tel Aviv,3,3,0,1,85,8500,apartment,100
+Tel Aviv,3.5,3,1,3,110,11000,apartment,100
+Tel Aviv,6,6,0,0,180,18500,garden apartment,102.78
+Tel Aviv,1.5,1,1,8,35,5500,apartment,157.14
+Tel Aviv,4,4,0,9,142,17000,apartment,119.72
+Tel Aviv,4,4,0,2,90,7000,apartment,77.78
+Tel Aviv,4,4,0,8,100,8800,apartment,88
+Tel Aviv,4,4,0,1,97,9000,apartment,92.78
+Tel Aviv,2,2,0,1,60,6200,apartment,103.33
+Tel Aviv,2.5,2,1,2,75,8000,apartment,106.67
+Tel Aviv,2,2,0,4,57,9000,apartment,157.89
+Tel Aviv,3,3,0,4,70,7500,apartment,107.14
+Tel Aviv,4,4,0,2,115,11000,apartment,95.65
+Tel Aviv,2,2,0,1,45,7800,apartment,173.33
+Tel Aviv,2,2,0,4,80,5500,housing unit,68.75
+Tel Aviv,2.5,2,1,0,56,6100,apartment,108.93
+Tel Aviv,3,3,0,4,80,9500,apartment,118.75
+Tel Aviv,4,4,0,2,120,10800,apartment,90
+Tel Aviv,4,4,0,0,254,9900,house,38.98
+Tel Aviv,3,3,0,3,60,5900,apartment,98.33
+Tel Aviv,3,3,0,1,76,8600,apartment,113.16
+Tel Aviv,4,4,0,31,107,11000,apartment,102.8
+Tel Aviv,5,5,0,11,125,13000,apartment,104
+Tel Aviv,5,5,0,2,129,11500,apartment,89.15
+Tel Aviv,3,3,0,4,65,9000,apartment,138.46
+Tel Aviv,3,3,0,16,79,10000,apartment,126.58
+Tel Aviv,3,3,0,3,75,13800,apartment,184
+Tel Aviv,2.5,2,1,0,45,6000,apartment,133.33
+Tel Aviv,4,4,0,5,100,8600,apartment,86
+Tel Aviv,3,3,0,0,100,9000,garden apartment,90
+Tel Aviv,4,4,0,14,145,15000,apartment,103.45
+Tel Aviv,2,2,0,0,48,6000,apartment,125
+Tel Aviv,4.5,4,1,2,280,25000,penthouse,89.29
+Tel Aviv,3,3,0,2,107,11000,apartment,102.8
+Tel Aviv,3.5,3,1,1,125,8200,apartment,65.6
+Tel Aviv,4,4,0,2,75,8900,apartment,118.67
+Tel Aviv,3,3,0,3,108,12000,penthouse,111.11
+Tel Aviv,3,3,0,36,101,12000,apartment,118.81
+Tel Aviv,4.5,4,1,7,142,11000,apartment,77.46
+Tel Aviv,6.5,6,1,0,320,16500,other,51.56
+Tel Aviv,3,3,0,3,50,9000,apartment,180
+Tel Aviv,4,4,0,13,110,12700,apartment,115.45
+Tel Aviv,2.5,2,1,3,65,7300,apartment,112.31
+Tel Aviv,5,5,0,0,420,12500,house,29.76
+Tel Aviv,3,3,0,0,96,10500,apartment,109.38
+Tel Aviv,1,1,0,1,27,3900,other,144.44
+Tel Aviv,2,2,0,1,50,8000,apartment,160
+Tel Aviv,3.5,3,1,3,80,8000,apartment,100
+Tel Aviv,3,3,0,2,90,9900,apartment,110
+Tel Aviv,3,3,0,21,67,12500,apartment,186.57
+Tel Aviv,2,2,0,4,77,8300,penthouse,107.79
+Tel Aviv,4,4,0,2,107,6950,apartment,64.95
+Tel Aviv,3,3,0,1,70,9200,apartment,131.43
+Tel Aviv,4,4,0,8,103,10800,apartment,104.85
+Tel Aviv,3,3,0,4,70,4750,apartment,67.86
+Tel Aviv,2,2,0,1,38,5800,apartment,152.63
+Tel Aviv,3,3,0,6,140,12000,penthouse,85.71
+Tel Aviv,2,2,0,1,80,6700,other,83.75
+Tel Aviv,4,4,0,23,102,10000,apartment,98.04
+Tel Aviv,3,3,0,2,60,4700,apartment,78.33
+Tel Aviv,2,2,0,0,67,6400,apartment,95.52
+Tel Aviv,3.5,3,1,1,90,7500,apartment,83.33
+Tel Aviv,4,4,0,1,100,10500,apartment,105
+Tel Aviv,3,3,0,30,67,11500,apartment,171.64
+Tel Aviv,4,4,0,3,110,13000,apartment,118.18
+Tel Aviv,1.5,1,1,0,25,2700,apartment,108
+Tel Aviv,3,3,0,6,80,14000,apartment,175
+Tel Aviv,2,2,0,3,55,8500,apartment,154.55
+Tel Aviv,3,3,0,3,100,13000,apartment,130
+Tel Aviv,3,3,0,3,100,8500,apartment,85
+Tel Aviv,4,4,0,2,120,10000,apartment,83.33
+Tel Aviv,2,2,0,1,70,6800,apartment,97.14
+Tel Aviv,4,4,0,1,92,11000,apartment,119.57
+Tel Aviv,1.5,1,1,3,38,4400,apartment,115.79
+Tel Aviv,3,3,0,0,110,9000,garden apartment,81.82
+Tel Aviv,3,3,0,2,65,6000,apartment,92.31
+Tel Aviv,3,3,0,2,57,5600,apartment,98.25
+Tel Aviv,3,3,0,7,69,7900,apartment,114.49
+Tel Aviv,5,5,0,3,125,11000,apartment,88
+Tel Aviv,3,3,0,2,97,8000,apartment,82.47
+Tel Aviv,1,1,0,1,27,4500,other,166.67
+Tel Aviv,4,4,0,1,100,12900,apartment,129
+Tel Aviv,3,3,0,2,100,8700,apartment,87
+Tel Aviv,3.5,3,1,2,80,8000,apartment,100
+Tel Aviv,6,6,0,5,300,25000,penthouse,83.33
+Tel Aviv,3.5,3,1,9,136,7000,penthouse,51.47
+Tel Aviv,4,4,0,2,125,13000,apartment,104
+Tel Aviv,2,2,0,3,45,5950,apartment,132.22
+Tel Aviv,3,3,0,10,92,10700,apartment,116.3
+Tel Aviv,4,4,0,6,80,9000,apartment,112.5
+Tel Aviv,3,3,0,2,82,7000,apartment,85.37
+Tel Aviv,3,3,0,3,83,7750,apartment,93.37
+Tel Aviv,3,3,0,0,55,4500,housing unit,81.82
+Tel Aviv,4,4,0,24,103,12250,apartment,118.93
+Tel Aviv,1.5,1,1,0,52,5300,apartment,101.92
+Tel Aviv,1,1,0,2,20,3300,apartment,165
+Tel Aviv,3,3,0,2,100,4900,apartment,49
+Tel Aviv,3,3,0,2,57,5600,apartment,98.25
+Tel Aviv,3,3,0,4,130,19000,apartment,146.15
+Tel Aviv,4,4,0,1,225,12000,penthouse,53.33
+Tel Aviv,2,2,0,0,65,4800,apartment,73.85
+Tel Aviv,3,3,0,4,67,4450,apartment,66.42
+Tel Aviv,4,4,0,1,100,12500,apartment,125
+Tel Aviv,3.5,3,1,1,90,12500,apartment,138.89
+Tel Aviv,2.5,2,1,3,60,7500,apartment,125
+Tel Aviv,4,4,0,3,90,8000,apartment,88.89
+Tel Aviv,5,5,0,4,178,11750,penthouse,66.01
+Tel Aviv,5,5,0,4,142,12800,other,90.14
+Tel Aviv,3,3,0,7,71,7200,apartment,101.41
+Tel Aviv,4,4,0,0,1,8000,house,8000
+Tel Aviv,5,5,0,11,284,55000,penthouse,193.66
+Tel Aviv,3,3,0,1,80,10500,apartment,131.25
+Tel Aviv,2,2,0,4,65,6500,apartment,100
+Tel Aviv,3,3,0,3,85,8500,apartment,100
+Tel Aviv,1,1,0,2,30,5700,apartment,190
+Tel Aviv,3,3,0,0,70,7800,apartment,111.43
+Tel Aviv,3.5,3,1,0,330,14900,house,45.15
+Tel Aviv,3,3,0,5,80,9500,apartment,118.75
+Tel Aviv,4,4,0,3,102,12000,apartment,117.65
+Tel Aviv,5,5,0,5,300,22000,penthouse,73.33
+Tel Aviv,3,3,0,1,105,9350,apartment,89.05
+Tel Aviv,1,1,0,2,35,4500,other,128.57
+Tel Aviv,3,3,0,2,85,5500,apartment,64.71
+Tel Aviv,2.5,2,1,2,70,6600,apartment,94.29
+Tel Aviv,2.5,2,1,1,65,8000,apartment,123.08
+Tel Aviv,2,2,0,2,100,6700,penthouse,67
+Tel Aviv,2.5,2,1,4,70,7600,apartment,108.57
+Tel Aviv,2,2,0,1,70,7200,apartment,102.86
+Tel Aviv,2,2,0,2,35,4500,apartment,128.57
+Tel Aviv,2,2,0,1,35,5900,apartment,168.57
+Tel Aviv,4,4,0,2,110,8000,apartment,72.73
+Tel Aviv,4,4,0,3,120,10100,apartment,84.17
+Tel Aviv,2.5,2,1,1,70,5500,apartment,78.57
+Tel Aviv,3,3,0,0,70,7400,apartment,105.71
+Tel Aviv,5,5,0,7,180,27000,penthouse,150
+Tel Aviv,3,3,0,12,110,23000,apartment,209.09
+Tel Aviv,3,3,0,14,135,16000,apartment,118.52
+Tel Aviv,2,2,0,0,52,7300,other,140.38
+Tel Aviv,3,3,0,25,67,13000,apartment,194.03
+Tel Aviv,1.5,1,1,2,25,3600,apartment,144
+Tel Aviv,5,5,0,8,130,9000,apartment,69.23
+Tel Aviv,3,3,0,11,85,8400,apartment,98.82
+Tel Aviv,3,3,0,18,65,8000,apartment,123.08
+Tel Aviv,4,4,0,6,107,9300,apartment,86.92
+Tel Aviv,3,3,0,1,70,5500,apartment,78.57
+Tel Aviv,3,3,0,3,75,9250,apartment,123.33
+Tel Aviv,4,4,0,3,240,16500,house,68.75
+Tel Aviv,6,6,0,5,260,33000,penthouse,126.92
+Tel Aviv,3,3,0,11,100,8700,apartment,87
+Tel Aviv,2,2,0,1,40,4050,other,101.25
+Tel Aviv,4,4,0,2,115,9800,other,85.22
+Tel Aviv,4,4,0,12,120,15000,apartment,125
+Tel Aviv,2.5,2,1,2,71,7500,apartment,105.63
+Tel Aviv,4,4,0,39,126,15000,apartment,119.05
+Tel Aviv,2,2,0,0,45,3500,apartment,77.78
+Tel Aviv,3,3,0,3,70,7200,apartment,102.86
+Tel Aviv,2,2,0,27,87,8500,apartment,97.7
+Tel Aviv,5,5,0,0,280,25000,garden apartment,89.29
+Tel Aviv,3,3,0,2,70,8900,apartment,127.14
+Tel Aviv,3,3,0,2,70,700,other,10
+Tel Aviv,3,3,0,1,79,7700,apartment,97.47
+Tel Aviv,4,4,0,7,130,10400,apartment,80
+Tel Aviv,2,2,0,2,50,6500,apartment,130
+Tel Aviv,3,3,0,1,90,7700,apartment,85.56
+Tel Aviv,3.5,3,1,2,70,8000,apartment,114.29
+Tel Aviv,3.5,3,1,3,86,8000,apartment,93.02
+Tel Aviv,1.5,1,1,1,33,3400,apartment,103.03
+Tel Aviv,3,3,0,2,86,9200,apartment,106.98
+Tel Aviv,3,3,0,2,90,11700,apartment,130
+Tel Aviv,2,2,0,1,45,5900,apartment,131.11
+Tel Aviv,2.5,2,1,1,80,9500,apartment,118.75
+Tel Aviv,7,7,0,1,180,20000,apartment,111.11
+Tel Aviv,4.5,4,1,4,132,11500,apartment,87.12
+Tel Aviv,3,3,0,3,123,14250,apartment,115.85
+Tel Aviv,2,2,0,0,35,5600,apartment,160
+Tel Aviv,3,3,0,1,140,11900,apartment,85
+Tel Aviv,2.5,2,1,1,70,8500,other,121.43
+Tel Aviv,3,3,0,0,55,6000,apartment,109.09
+Tel Aviv,3,3,0,0,80,6500,garden apartment,81.25
+Tel Aviv,3,3,0,4,80,6800,apartment,85
+Tel Aviv,6,6,0,4,185,15500,other,83.78
+Tel Aviv,2,2,0,3,45,4700,other,104.44
+Tel Aviv,1,1,0,1,32,4800,apartment,150
+Tel Aviv,3,3,0,8,77,6000,apartment,77.92
+Tel Aviv,4,4,0,34,125,16000,apartment,128
+Tel Aviv,3.5,3,1,26,100,11500,apartment,115
+Tel Aviv,5,5,0,7,142,13000,apartment,91.55
+Tel Aviv,3.5,3,1,6,115,12000,apartment,104.35
+Tel Aviv,4,4,0,2,114,11200,other,98.25
+Tel Aviv,4.5,4,1,22,158,20800,apartment,131.65
+Tel Aviv,3,3,0,5,96,10600,apartment,110.42
+Tel Aviv,3,3,0,8,88,9900,apartment,112.5
+Tel Aviv,3,3,0,3,88,11000,apartment,125
+Tel Aviv,3,3,0,7,97,13200,apartment,136.08
+Tel Aviv,1,1,0,1,40,3200,apartment,80
+Tel Aviv,3,3,0,2,65,5200,apartment,80
+Tel Aviv,3,3,0,1,78,10000,apartment,128.21
+Tel Aviv,4,4,0,3,110,10500,apartment,95.45
+Tel Aviv,4,4,0,5,120,11000,apartment,91.67
+Tel Aviv,1,1,0,2,25,4500,other,180
+Tel Aviv,3,3,0,3,83,7900,apartment,95.18
+Tel Aviv,1,1,0,0,16,2500,apartment,156.25
+Tel Aviv,5,5,0,1,108,11900,apartment,110.19
+Tel Aviv,1,1,0,3,25,3900,apartment,156
+Tel Aviv,4,4,0,7,111,7300,apartment,65.77
+Tel Aviv,4,4,0,3,112,10000,apartment,89.29
+Tel Aviv,6.5,6,1,2,2250,18500,garden apartment,8.22
+Tel Aviv,6,6,0,2,176,13500,apartment,76.7
+Tel Aviv,4,4,0,1,116,11800,apartment,101.72
+Tel Aviv,5,5,0,5,118,12500,other,105.93
+Tel Aviv,3,3,0,5,100,9500,apartment,95
+Tel Aviv,3,3,0,1,65,6000,apartment,92.31
+Tel Aviv,4,4,0,0,175,8000,garden apartment,45.71
+Tel Aviv,4,4,0,12,102,10500,apartment,102.94
+Tel Aviv,5,5,0,2,150,10500,other,70
+Tel Aviv,3,3,0,0,70,7000,apartment,100
+Tel Aviv,3,3,0,2,75,9500,apartment,126.67
+Tel Aviv,4,4,0,23,100,10500,apartment,105
+Tel Aviv,3,3,0,4,72,9000,apartment,125
+Tel Aviv,3,3,0,1,75,7500,apartment,100
+Tel Aviv,3,3,0,1,70,6500,apartment,92.86
+Tel Aviv,3,3,0,2,70,5500,apartment,78.57
+Tel Aviv,4,4,0,0,360,14300,house,39.72
+Tel Aviv,5,5,0,1,129,11000,apartment,85.27
+Tel Aviv,3,3,0,2,70,8900,apartment,127.14
+Tel Aviv,3,3,0,1,70,8500,duplex,121.43
+Tel Aviv,4,4,0,1,121,9100,apartment,75.21
+Tel Aviv,4,4,0,5,100,9000,apartment,90
+Tel Aviv,3,3,0,3,65,7250,apartment,111.54
+Tel Aviv,3,3,0,3,115,9500,apartment,82.61
+Tel Aviv,3,3,0,1,84,8432,apartment,100.38
+Tel Aviv,3.5,3,1,6,80,7000,duplex,87.5
+Tel Aviv,2.5,2,1,2,72,8300,apartment,115.28
+Tel Aviv,1,1,0,1,18,3300,other,183.33
+Tel Aviv,3,3,0,0,70,6500,basement,92.86
+Tel Aviv,2,2,0,11,65,14500,apartment,223.08
+Tel Aviv,2,2,0,1,57,6837,apartment,119.95
+Tel Aviv,3,3,0,3,56,7500,apartment,133.93
+Tel Aviv,2,2,0,3,130,5500,penthouse,42.31
+Tel Aviv,4,4,0,1,125,11200,apartment,89.6
+Tel Aviv,4,4,0,0,112,11500,apartment,102.68
+Tel Aviv,1,1,0,7,28,3900,apartment,139.29
+Tel Aviv,1,1,0,1,35,4700,apartment,134.29
+Tel Aviv,1,1,0,1,60,7200,apartment,120
+Tel Aviv,4,4,0,0,140,7431,garden apartment,53.08
+Tel Aviv,3,3,0,1,120,6795,garden apartment,56.63
+Tel Aviv,2,2,0,6,65,13000,apartment,200
+Tel Aviv,3,3,0,2,70,8200,apartment,117.14
+Tel Aviv,3,3,0,3,65,7000,apartment,107.69
+Tel Aviv,3,3,0,6,115,11000,apartment,95.65
+Tel Aviv,4.5,4,1,5,110,6750,apartment,61.36
+Tel Aviv,4,4,0,5,90,7000,apartment,77.78
+Tel Aviv,4.5,4,1,24,160,20000,apartment,125
+Tel Aviv,3,3,0,14,100,24500,apartment,245
+Tel Aviv,2,2,0,1,50,6000,apartment,120
+Tel Aviv,2.5,2,1,1,70,9000,apartment,128.57
+Tel Aviv,4,4,0,1,136,14500,apartment,106.62
+Tel Aviv,2,2,0,2,55,5200,apartment,94.55
+Tel Aviv,2,2,0,1,59,7000,apartment,118.64
+Tel Aviv,2,2,0,4,80,8700,penthouse,108.75
+Tel Aviv,3,3,0,5,70,7000,apartment,100
+Tel Aviv,4,4,0,1,80,5100,apartment,63.75
+Tel Aviv,4,4,0,7,100,6900,apartment,69
+Tel Aviv,3,3,0,3,85,8500,apartment,100
+Tel Aviv,3,3,0,1,70,4800,apartment,68.57
+Tel Aviv,6,6,0,0,250,42000,garden apartment,168
+Rishon LeTzion,4.5,4,1,3,110,5500,apartment,50
+Rishon LeTzion,4,4,0,4,95,5500,apartment,57.89
+Rishon LeTzion,3.5,3,1,3,90,4900,apartment,54.44
+Rishon LeTzion,5,5,0,3,136,7600,apartment,55.88
+Rishon LeTzion,2.5,2,1,0,75,4350,apartment,58
+Rishon LeTzion,4,4,0,2,90,5000,apartment,55.56
+Rishon LeTzion,2,2,0,9,69,5000,housing unit,72.46
+Rishon LeTzion,4,4,0,2,115,5700,apartment,49.57
+Rishon LeTzion,4,4,0,2,90,5500,apartment,61.11
+Rishon LeTzion,2.5,2,1,1,50,4200,apartment,84
+Rishon LeTzion,1,1,0,4,100,2900,housing unit,29
+Rishon LeTzion,2,2,0,1,62,4200,apartment,67.74
+Rishon LeTzion,2.5,2,1,3,68,3950,apartment,58.09
+Rishon LeTzion,4,4,0,4,90,5000,apartment,55.56
+Rishon LeTzion,2,2,0,0,50,3300,housing unit,66
+Rishon LeTzion,2.5,2,1,4,60,4250,apartment,70.83
+Rishon LeTzion,3,3,0,3,100,4500,apartment,45
+Rishon LeTzion,3.5,3,1,2,75,4600,apartment,61.33
+Rishon LeTzion,5,5,0,0,600,16000,house,26.67
+Rishon LeTzion,4.5,4,1,2,104,4500,apartment,43.27
+Rishon LeTzion,2,2,0,0,40,3750,apartment,93.75
+Rishon LeTzion,4,4,0,2,100,5700,apartment,57
+Rishon LeTzion,4,4,0,3,104,6500,apartment,62.5
+Rishon LeTzion,5,5,0,0,350,19000,house,54.29
+Rishon LeTzion,3.5,3,1,18,85,6500,apartment,76.47
+Rishon LeTzion,7,7,0,0,250,11000,house,44
+Rishon LeTzion,3,3,0,0,500,11800,house,23.6
+Rishon LeTzion,6,6,0,1,250,10900,house,43.6
+Rishon LeTzion,3,3,0,2,84,4600,apartment,54.76
+Rishon LeTzion,5,5,0,5,120,7100,apartment,59.17
+Rishon LeTzion,7,7,0,1,440,19999,house,45.45
+Rishon LeTzion,4,4,0,5,105,6200,apartment,59.05
+Rishon LeTzion,3,3,0,3,75,3950,apartment,52.67
+Rishon LeTzion,4,4,0,1,100,5500,apartment,55
+Rishon LeTzion,4.5,4,1,2,117,5950,apartment,50.85
+Rishon LeTzion,4,4,0,11,105,7700,apartment,73.33
+Rishon LeTzion,1,1,0,4,32,3200,apartment,100
+Rishon LeTzion,4,4,0,5,135,7500,duplex,55.56
+Rishon LeTzion,5,5,0,1,128,6300,apartment,49.22
+Rishon LeTzion,2.5,2,1,1,65,4900,apartment,75.38
+Rishon LeTzion,3.5,3,1,2,80,4700,apartment,58.75
+Rishon LeTzion,4.5,4,1,1,100,5300,apartment,53
+Rishon LeTzion,4,4,0,11,150,15000,apartment,100
+Rishon LeTzion,5,5,0,3,125,5500,apartment,44
+Rishon LeTzion,1.5,1,1,0,50,3500,basement,70
+Rishon LeTzion,6,6,0,0,300,10700,other,35.67
+Rishon LeTzion,3,3,0,3,65,4400,apartment,67.69
+Rishon LeTzion,3,3,0,2,86,4500,apartment,52.33
+Rishon LeTzion,6,6,0,0,360,11499,house,31.94
+Rishon LeTzion,2,2,0,1,45,4200,housing unit,93.33
+Rishon LeTzion,5,5,0,18,144,7200,apartment,50
+Rishon LeTzion,4,4,0,2,120,6700,apartment,55.83
+Rishon LeTzion,3,3,0,6,100,5200,apartment,52
+Rishon LeTzion,4,4,0,1,90,5700,apartment,63.33
+Rishon LeTzion,2,2,0,0,45,3200,housing unit,71.11
+Rishon LeTzion,3,3,0,3,67,4800,apartment,71.64
+Rishon LeTzion,2,2,0,3,45,4200,apartment,93.33
+Rishon LeTzion,2,2,0,0,40,3500,basement,87.5
+Rishon LeTzion,3,3,0,2,60,4700,penthouse,78.33
+Rishon LeTzion,2,2,0,0,52,4200,housing unit,80.77
+Rishon LeTzion,2,2,0,0,40,3500,housing unit,87.5
+Rishon LeTzion,4,4,0,3,110,6100,apartment,55.45
+Rishon LeTzion,4,4,0,1,115,6200,apartment,53.91
+Rishon LeTzion,4,4,0,17,120,7000,apartment,58.33
+Rishon LeTzion,5,5,0,17,138,6800,apartment,49.28
+Rishon LeTzion,4,4,0,2,120,7499,apartment,62.49
+Rishon LeTzion,4,4,0,4,90,3900,apartment,43.33
+Rishon LeTzion,2,2,0,1,45,3800,apartment,84.44
+Rishon LeTzion,6,6,0,7,135,7500,apartment,55.56
+Rishon LeTzion,2,2,0,0,40,3200,apartment,80
+Rishon LeTzion,5,5,0,5,120,7600,apartment,63.33
+Rishon LeTzion,3,3,0,1,60,3500,apartment,58.33
+Rishon LeTzion,2,2,0,0,45,4000,housing unit,88.89
+Rishon LeTzion,5,5,0,7,150,11500,penthouse,76.67
+Rishon LeTzion,5,5,0,7,220,7500,penthouse,34.09
+Rishon LeTzion,5,5,0,17,139,6800,apartment,48.92
+Rishon LeTzion,2,2,0,0,40,4200,house,105
+Rishon LeTzion,5,5,0,1,128,7000,apartment,54.69
+Rishon LeTzion,6,6,0,0,275,12000,house,43.64
+Rishon LeTzion,4,4,0,11,115,7200,apartment,62.61
+Rishon LeTzion,2,2,0,4,38,3850,apartment,101.32
+Rishon LeTzion,3.5,3,1,4,90,5000,apartment,55.56
+Rishon LeTzion,3.5,3,1,3,90,5000,apartment,55.56
+Rishon LeTzion,1,1,0,0,50,2900,basement,58
+Rishon LeTzion,3.5,3,1,1,120,5000,apartment,41.67
+Rishon LeTzion,5,5,0,1,134,7200,apartment,53.73
+Rishon LeTzion,2,2,0,0,55,3900,housing unit,70.91
+Rishon LeTzion,4,4,0,4,100,4700,apartment,47
+Rishon LeTzion,2,2,0,0,60,4000,housing unit,66.67
+Rishon LeTzion,5,5,0,4,130,6700,apartment,51.54
+Rishon LeTzion,4,4,0,1,129,6900,apartment,53.49
+Rishon LeTzion,4,4,0,1,87,6150,apartment,70.69
+Rishon LeTzion,2,2,0,0,60,4500,housing unit,75
+Rishon LeTzion,3,3,0,2,70,4400,apartment,62.86
+Rishon LeTzion,3,3,0,1,90,4500,apartment,50
+Rishon LeTzion,4.5,4,1,0,150,8900,house,59.33
+Rishon LeTzion,2,2,0,2,70,3500,housing unit,50
+Rishon LeTzion,5,5,0,14,125,8000,apartment,64
+Rishon LeTzion,5,5,0,3,130,7800,apartment,60
+Rishon LeTzion,4,4,0,13,112,6700,apartment,59.82
+Rishon LeTzion,3,3,0,2,80,4800,apartment,60
+Rishon LeTzion,6,6,0,5,152,7500,apartment,49.34
+Rishon LeTzion,4,4,0,5,100,6800,apartment,68
+Rishon LeTzion,6,6,0,7,250,8500,penthouse,34
+Rishon LeTzion,4,4,0,4,85,4900,apartment,57.65
+Rishon LeTzion,4,4,0,2,90,4800,apartment,53.33
+Rishon LeTzion,7,7,0,1,350,13500,house,38.57
+Rishon LeTzion,3,3,0,5,80,5200,apartment,65
+Rishon LeTzion,4,4,0,4,110,5300,apartment,48.18
+Rishon LeTzion,4,4,0,3,100,6300,apartment,63
+Rishon LeTzion,2,2,0,2,40,3750,apartment,93.75
+Rishon LeTzion,4,4,0,2,110,5196,apartment,47.24
+Rishon LeTzion,2.5,2,1,0,87,4000,housing unit,45.98
+Rishon LeTzion,4,4,0,4,180,7800,penthouse,43.33
+Rishon LeTzion,2,2,0,-1,30,3500,housing unit,116.67
+Rishon LeTzion,7,7,0,1,440,19999,house,45.45
+Rishon LeTzion,4,4,0,5,105,6200,apartment,59.05
+Rishon LeTzion,2.5,2,1,1,65,4900,apartment,75.38
+Rishon LeTzion,2,2,0,0,60,4500,housing unit,75
+Rishon LeTzion,2,2,0,2,70,3500,housing unit,50
+Rishon LeTzion,4,4,0,6,125,6100,apartment,48.8
+Rishon LeTzion,3.5,3,1,3,82,4400,apartment,53.66
+Rishon LeTzion,3,3,0,1,72,5500,apartment,76.39
+Rishon LeTzion,3,3,0,4,65,4500,apartment,69.23
+Rishon LeTzion,5,5,0,2,135,7000,apartment,51.85
+Rishon LeTzion,1,1,0,0,50,3500,housing unit,70
+Rishon LeTzion,5,5,0,5,150,7500,duplex,50
+Rishon LeTzion,4,4,0,5,112,7350,apartment,65.63
+Rishon LeTzion,2,2,0,0,45,3800,housing unit,84.44
+Rishon LeTzion,5,5,0,8,200,8500,penthouse,42.5
+Rishon LeTzion,3.5,3,1,3,82,5700,apartment,69.51
+Rishon LeTzion,2,2,0,1,40,3200,housing unit,80
+Rishon LeTzion,3,3,0,2,100,5400,apartment,54
+Rishon LeTzion,4,4,0,5,108,7900,apartment,73.15
+Rishon LeTzion,5,5,0,1,90,5000,apartment,55.56
+Rishon LeTzion,4,4,0,2,120,5000,apartment,41.67
+Rishon LeTzion,3.5,3,1,4,115,3900,apartment,33.91
+Rishon LeTzion,4,4,0,2,92,6000,apartment,65.22
+Rishon LeTzion,5.5,5,1,3,120,7500,apartment,62.5
+Rishon LeTzion,5,5,0,10,130,6500,apartment,50
+Rishon LeTzion,5.5,5,1,3,120,6700,apartment,55.83
+Rishon LeTzion,3,3,0,0,65,3500,basement,53.85
+Rishon LeTzion,4.5,4,1,3,122,6800,apartment,55.74
+Rishon LeTzion,5,5,0,14,137,7200,apartment,52.55
+Rishon LeTzion,7,7,0,0,250,12500,house,50
+Rishon LeTzion,3,3,0,1,78,5500,apartment,70.51
+Rishon LeTzion,5,5,0,1,130,5800,apartment,44.62
+Rishon LeTzion,3,3,0,9,250,6500,penthouse,26
+Rishon LeTzion,3,3,0,1,90,4800,apartment,53.33
+Rishon LeTzion,7,7,0,0,250,11900,house,47.6
+Rishon LeTzion,4.5,4,1,2,110,5900,apartment,53.64
+Rishon LeTzion,5,5,0,1,135,7000,apartment,51.85
+Rishon LeTzion,5,5,0,2,129,6000,apartment,46.51
+Rishon LeTzion,3.5,3,1,3,70,4300,apartment,61.43
+Rishon LeTzion,1,1,0,7,20,3000,housing unit,150
+Rishon LeTzion,4,4,0,4,90,5000,apartment,55.56
+Rishon LeTzion,1,1,0,0,50,3500,housing unit,70
+Rishon LeTzion,4,4,0,1,85,4200,apartment,49.41
+Rishon LeTzion,4,4,0,1,80,5300,apartment,66.25
+Rishon LeTzion,2,2,0,0,74,3600,housing unit,48.65
+Rishon LeTzion,1,1,0,0,30,3200,housing unit,106.67
+Rishon LeTzion,2,2,0,0,50,3800,housing unit,76
+Rishon LeTzion,4,4,0,8,115,7800,apartment,67.83
+Rishon LeTzion,1,1,0,1,28,2500,housing unit,89.29
+Rishon LeTzion,3,3,0,1,100,5500,apartment,55
+Rishon LeTzion,5,5,0,19,147,7300,apartment,49.66
+Rishon LeTzion,5,5,0,4,160,7100,duplex,44.38
+Rishon LeTzion,3,3,0,0,55,4500,housing unit,81.82
+Rishon LeTzion,6,6,0,24,271,11500,penthouse,42.44
+Rishon LeTzion,2,2,0,0,30,3300,housing unit,110
+Rishon LeTzion,3,3,0,1,70,4100,apartment,58.57
+Rishon LeTzion,5,5,0,1,400,16500,house,41.25
+Rishon LeTzion,4,4,0,8,97,5000,apartment,51.55
+Rishon LeTzion,3,3,0,3,95,5750,apartment,60.53
+Rishon LeTzion,3,3,0,5,90,5600,apartment,62.22
+Rishon LeTzion,3.5,3,1,1,85,5100,apartment,60
+Rishon LeTzion,4,4,0,1,85,5500,apartment,64.71
+Rishon LeTzion,5.5,5,1,7,130,8000,penthouse,61.54
+Rishon LeTzion,3,3,0,3,75,6200,apartment,82.67
+Rishon LeTzion,4,4,0,1,110,5400,apartment,49.09
+Rishon LeTzion,4,4,0,2,100,6300,apartment,63
+Rishon LeTzion,2,2,0,6,52,4100,apartment,78.85
+Rishon LeTzion,5,5,0,7,220,8800,penthouse,40
+Rishon LeTzion,3,3,0,3,67,5000,apartment,74.63
+Rishon LeTzion,2,2,0,1,50,4700,apartment,94
+Rishon LeTzion,9,9,0,0,620,25000,house,40.32
+Rishon LeTzion,3,3,0,3,75,4200,apartment,56
+Rishon LeTzion,4.5,4,1,1,100,5300,apartment,53
+Rishon LeTzion,1,1,0,0,40,3500,housing unit,87.5
+Rishon LeTzion,2,2,0,2,42,4000,apartment,95.24
+Rishon LeTzion,5,5,0,7,145,7900,apartment,54.48
+Rishon LeTzion,2,2,0,0,56,3800,housing unit,67.86
+Rishon LeTzion,5,5,0,9,140,6800,apartment,48.57
+Rishon LeTzion,4,4,0,2,100,6200,apartment,62
+Rishon LeTzion,4,4,0,2,110,6000,apartment,54.55
+Rishon LeTzion,1,1,0,0,20,2650,housing unit,132.5
+Rishon LeTzion,3,3,0,0,75,4500,housing unit,60
+Rishon LeTzion,5.5,5,1,3,137,7500,apartment,54.74
+Rishon LeTzion,3,3,0,2,60,4300,apartment,71.67
+Rishon LeTzion,6,6,0,5,166,7200,apartment,43.37
+Rishon LeTzion,2,2,0,0,53,4000,apartment,75.47
+Rishon LeTzion,2,2,0,0,47,3000,apartment,63.83
+Rishon LeTzion,4,4,0,1,130,5700,housing unit,43.85
+Rishon LeTzion,5,5,0,6,182,9100,penthouse,50
+Rishon LeTzion,1.5,1,1,0,65,3400,housing unit,52.31
+Rishon LeTzion,2,2,0,0,55,3750,housing unit,68.18
+Rishon LeTzion,3,3,0,3,75,4200,apartment,56
+Rishon LeTzion,3.5,3,1,3,85,4800,apartment,56.47
+Rishon LeTzion,2,2,0,0,40,3400,housing unit,85
+Rishon LeTzion,6,6,0,0,269,11900,house,44.24
+Rishon LeTzion,3,3,0,3,83,5400,apartment,65.06
+Rishon LeTzion,1,1,0,3,30,3000,apartment,100
+Rishon LeTzion,4,4,0,3,90,4900,apartment,54.44
+Rishon LeTzion,3,3,0,0,100,5000,housing unit,50
+Rishon LeTzion,3,3,0,4,78,2500,apartment,32.05
+Rishon LeTzion,3,3,0,2,75,5200,apartment,69.33
+Rishon LeTzion,4,4,0,1,100,6000,apartment,60
+Rishon LeTzion,3,3,0,1,83,5500,apartment,66.27
+Rishon LeTzion,2,2,0,-1,70,3899,basement,55.7
+Rishon LeTzion,2.5,2,1,0,70,3800,housing unit,54.29
+Rishon LeTzion,2,2,0,2,40,4008,apartment,100.2
+Rishon LeTzion,5,5,0,17,137,7000,apartment,51.09
+Rishon LeTzion,4,4,0,2,90,5800,apartment,64.44
+Rishon LeTzion,2,2,0,0,45,3700,housing unit,82.22
+Rishon LeTzion,3,3,0,1,75,5600,apartment,74.67
+Rishon LeTzion,2,2,0,1,74,5450,apartment,73.65
+Rishon LeTzion,1,1,0,1,120,6100,apartment,50.83
+Rishon LeTzion,2,2,0,0,60,4000,housing unit,66.67
+Rishon LeTzion,1,1,0,7,40,3600,apartment,90
+Rishon LeTzion,3,3,0,2,60,3900,apartment,65
+Rishon LeTzion,3,3,0,13,85,6600,apartment,77.65
+Rishon LeTzion,3,3,0,1,70,4500,apartment,64.29
+Rishon LeTzion,3.5,3,1,2,80,5000,apartment,62.5
+Rishon LeTzion,3,3,0,1,70,5350,apartment,76.43
+Rishon LeTzion,4,4,0,2,107,5500,apartment,51.4
+Rishon LeTzion,1,1,0,0,23,2700,housing unit,117.39
+Rishon LeTzion,5,5,0,1,120,5780,apartment,48.17
+Rishon LeTzion,3,3,0,2,70,5000,apartment,71.43
+Rishon LeTzion,4,4,0,5,100,5200,apartment,52
+Rishon LeTzion,3.5,3,1,3,72,4600,apartment,63.89
+Rishon LeTzion,1.5,1,1,0,35,3500,housing unit,100
+Rishon LeTzion,2,2,0,0,70,4000,housing unit,57.14
+Rishon LeTzion,3,3,0,1,70,4850,apartment,69.29
+Rishon LeTzion,2,2,0,2,40,3900,housing unit,97.5
+Rishon LeTzion,3.5,3,1,0,100,6900,house,69
+Rishon LeTzion,4,4,0,6,122,6600,apartment,54.1
+Rishon LeTzion,2.5,2,1,2,60,5500,apartment,91.67
+Rishon LeTzion,5,5,0,4,130,7700,apartment,59.23
+Rishon LeTzion,3,3,0,3,84,6200,apartment,73.81
+Rishon LeTzion,3,3,0,4,65,3500,apartment,53.85
+Rishon LeTzion,5,5,0,8,145,9000,apartment,62.07
+Rishon LeTzion,2,2,0,0,100,4200,apartment,42
+Rishon LeTzion,5,5,0,7,140,9000,apartment,64.29
+Rishon LeTzion,4,4,0,8,110,7500,apartment,68.18
+Rishon LeTzion,3,3,0,3,78,4700,apartment,60.26
+Rishon LeTzion,4,4,0,3,100,6200,apartment,62
+Rishon LeTzion,3,3,0,1,75,5200,apartment,69.33
+Rishon LeTzion,2,2,0,0,165,4300,housing unit,26.06
+Rishon LeTzion,4,4,0,4,100,6000,apartment,60
+Rishon LeTzion,2,2,0,1,73,4300,apartment,58.9
+Rishon LeTzion,3,3,0,0,500,11800,house,23.6
+Rishon LeTzion,2,2,0,0,70,4000,housing unit,57.14
+Rishon LeTzion,4,4,0,3,112,6000,apartment,53.57
+Rishon LeTzion,4,4,0,3,93,6700,apartment,72.04
+Rishon LeTzion,6,6,0,2,150,7500,apartment,50
+Rishon LeTzion,2,2,0,0,50,3650,housing unit,73
+Rishon LeTzion,4,4,0,1,110,7000,apartment,63.64
+Rishon LeTzion,3,3,0,3,60,3850,apartment,64.17
+Rishon LeTzion,4,4,0,3,94,4900,apartment,52.13
+Rishon LeTzion,4,4,0,1,110,5400,apartment,49.09
+Rishon LeTzion,3.5,3,1,2,95,5500,apartment,57.89
+Rishon LeTzion,4,4,0,0,85,4200,apartment,49.41
+Rishon LeTzion,3,3,0,2,70,4200,apartment,60
+Rishon LeTzion,3,3,0,3,70,4300,apartment,61.43
+Rishon LeTzion,3.5,3,1,3,75,4000,apartment,53.33
+Rishon LeTzion,6,6,0,0,280,10000,house,35.71
+Rishon LeTzion,2,2,0,1,55,3800,housing unit,69.09
+Rishon LeTzion,2,2,0,0,35,3350,housing unit,95.71
+Rishon LeTzion,4,4,0,1,127,5400,apartment,42.52
+Rishon LeTzion,4,4,0,6,125,6500,apartment,52
+Rishon LeTzion,9,9,0,0,320,21999,house,68.75
+Rishon LeTzion,5,5,0,0,225,11000,other,48.89
+Rishon LeTzion,6,6,0,15,151,14000,apartment,92.72
+Rishon LeTzion,5,5,0,6,130,7000,apartment,53.85
+Rishon LeTzion,4,4,0,16,128,8400,apartment,65.63
+Rishon LeTzion,4,4,0,3,94,6100,apartment,64.89
+Rishon LeTzion,4,4,0,4,110,7150,apartment,65
+Rishon LeTzion,2,2,0,-1,48,3800,housing unit,79.17
+Rishon LeTzion,4,4,0,3,108,6500,apartment,60.19
+Rishon LeTzion,3,3,0,2,80,5400,apartment,67.5
+Rishon LeTzion,2,2,0,0,54,4199,apartment,77.76
+Rishon LeTzion,4,4,0,5,110,5000,apartment,45.45
+Rishon LeTzion,6,6,0,1,350,18000,house,51.43
+Rishon LeTzion,2.5,2,1,4,55,3700,apartment,67.27
+Rishon LeTzion,3.5,3,1,2,69,4300,apartment,62.32
+Rishon LeTzion,2,2,0,0,60,3999,housing unit,66.65
+Rishon LeTzion,4,4,0,4,95,5500,apartment,57.89
+Rishon LeTzion,3,3,0,3,80,3200,apartment,40
+Rishon LeTzion,4,4,0,2,115,7500,apartment,65.22
+Rishon LeTzion,1,1,0,1,92,4900,apartment,53.26
+Rishon LeTzion,4,4,0,3,64,6500,apartment,101.56
+Rishon LeTzion,1,1,0,4,35,3200,apartment,91.43
+Rishon LeTzion,3,3,0,3,65,3800,apartment,58.46
+Rishon LeTzion,5,5,0,2,149,6900,apartment,46.31
+Rishon LeTzion,4,4,0,2,110,6300,apartment,57.27
+Rishon LeTzion,2,2,0,0,135,4000,housing unit,29.63
+Rishon LeTzion,3,3,0,2,75,5450,apartment,72.67
+Rishon LeTzion,4,4,0,2,115,5500,apartment,47.83
+Rishon LeTzion,3,3,0,1,80,5500,apartment,68.75
+Rishon LeTzion,3.5,3,1,2,80,4600,apartment,57.5
+Rishon LeTzion,1.5,1,1,9,25,3200,apartment,128
+Rishon LeTzion,2,2,0,1,60,3800,housing unit,63.33
+Rishon LeTzion,5,5,0,8,140,7000,apartment,50
+Rishon LeTzion,3.5,3,1,1,70,4500,housing unit,64.29
+Rishon LeTzion,7,7,0,0,270,13500,house,50
+Rishon LeTzion,3.5,3,1,2,69,4300,apartment,62.32
+Rishon LeTzion,4,4,0,2,110,4700,apartment,42.73
+Rishon LeTzion,5,5,0,0,167,13000,other,77.84
+Rishon LeTzion,4,4,0,3,88,5800,apartment,65.91
+Rishon LeTzion,1,1,0,0,50,2200,garden apartment,44
+Rishon LeTzion,4,4,0,5,120,6500,apartment,54.17
+Rishon LeTzion,4,4,0,7,240,6700,penthouse,27.92
+Rishon LeTzion,2,2,0,0,58,3800,basement,65.52
+Rishon LeTzion,2.5,2,1,1,55,3800,apartment,69.09
+Rishon LeTzion,4,4,0,11,110,6900,apartment,62.73
+Rishon LeTzion,3,3,0,1,80,3000,apartment,37.5
+Rishon LeTzion,4,4,0,2,120,4700,apartment,39.17
+Rishon LeTzion,2,2,0,3,40,4200,apartment,105
+Rishon LeTzion,3,3,0,2,80,3900,apartment,48.75
+Rishon LeTzion,2.5,2,1,2,72,4000,apartment,55.56
+Rishon LeTzion,2,2,0,0,55,3800,basement,69.09
+Rishon LeTzion,3,3,0,1,80,5800,apartment,72.5
+Rishon LeTzion,4,4,0,7,100,7000,apartment,70
+Rishon LeTzion,2,2,0,3,45,4100,apartment,91.11
+Rishon LeTzion,2,2,0,8,30,100,housing unit,3.33
+Rishon LeTzion,4,4,0,0,85,4500,apartment,52.94
+Rishon LeTzion,3,3,0,1,75,4800,apartment,64
+Rishon LeTzion,2,2,0,0,40,4500,basement,112.5
+Rishon LeTzion,2,2,0,1,40,3300,housing unit,82.5
+Rishon LeTzion,3,3,0,4,87,5200,apartment,59.77
+Rishon LeTzion,2,2,0,0,120,4300,garden apartment,35.83
+Rishon LeTzion,3,3,0,7,92,6500,apartment,70.65
+Rishon LeTzion,3,3,0,1,90,5000,apartment,55.56
+Rishon LeTzion,3,3,0,1,90,5500,apartment,61.11
+Rishon LeTzion,3,3,0,4,100,4600,apartment,46
+Rishon LeTzion,4,4,0,5,100,4990,apartment,49.9
+Rishon LeTzion,2,2,0,0,50,3900,housing unit,78
+Rishon LeTzion,3.5,3,1,3,75,5000,apartment,66.67
+Rishon LeTzion,2,2,0,0,45,3650,apartment,81.11
+Rishon LeTzion,1,1,0,1,45,3100,basement,68.89
+Rishon LeTzion,1,1,0,1,38,2950,housing unit,77.63
+Rishon LeTzion,4,4,0,7,100,7000,apartment,70
+Rishon LeTzion,2,2,0,-1,80,4800,housing unit,60
+Rishon LeTzion,2,2,0,3,60,3500,apartment,58.33
+Rishon LeTzion,5,5,0,0,289,11000,house,38.06
+Rishon LeTzion,3,3,0,4,60,4400,apartment,73.33
+Rishon LeTzion,4,4,0,4,115,6300,apartment,54.78
+Rishon LeTzion,4,4,0,5,90,5500,apartment,61.11
+Rishon LeTzion,3,3,0,2,80,4500,apartment,56.25
+Rishon LeTzion,5,5,0,0,250,9000,house,36
+Rishon LeTzion,3,3,0,0,90,5000,basement,55.56
+Rishon LeTzion,4,4,0,1,100,4000,apartment,40
+Rishon LeTzion,7,7,0,0,300,11000,house,36.67
+Rishon LeTzion,3.5,3,1,2,81,4500,apartment,55.56
+Rishon LeTzion,4,4,0,4,120,6500,apartment,54.17
+Rishon LeTzion,2.5,2,1,4,55,3600,apartment,65.45
+Rishon LeTzion,5,5,0,6,380,13000,penthouse,34.21
+Rishon LeTzion,3,3,0,1,80,5700,apartment,71.25
+Rishon LeTzion,1,1,0,0,30,2900,housing unit,96.67
+Rishon LeTzion,3,3,0,5,75,5700,apartment,76
+Rishon LeTzion,5,5,0,6,140,7400,apartment,52.86
+Rishon LeTzion,4,4,0,1,100,5950,apartment,59.5
+Rishon LeTzion,4,4,0,5,102,6800,apartment,66.67
+Rishon LeTzion,4,4,0,3,100,5400,apartment,54
+Rishon LeTzion,4,4,0,3,95,5500,apartment,57.89
+Rishon LeTzion,4,4,0,1,110,4500,apartment,40.91
+Rishon LeTzion,2,2,0,0,49,3300,housing unit,67.35
+Rishon LeTzion,4.5,4,1,2,110,3500,apartment,31.82
+Rishon LeTzion,2.5,2,1,6,55,5200,apartment,94.55
+Rishon LeTzion,3,3,0,17,78,5600,apartment,71.79
+Rishon LeTzion,3,3,0,3,88,5000,apartment,56.82
+Rishon LeTzion,2,2,0,0,300,4000,house,13.33
+Rishon LeTzion,3,3,0,0,200,6700,house,33.5
+Rishon LeTzion,4,4,0,4,123,5000,apartment,40.65
+Rishon LeTzion,4.5,4,1,8,100,5890,apartment,58.9
+Rishon LeTzion,2,2,0,0,50,3500,housing unit,70
+Rishon LeTzion,3,3,0,1,228,7000,garden apartment,30.7
+Rishon LeTzion,5,5,0,4,130,7000,apartment,53.85
+Rishon LeTzion,3,3,0,4,74,5450,apartment,73.65
+Rishon LeTzion,7,7,0,5,160,13000,penthouse,81.25
+Rishon LeTzion,3.5,3,1,1,78,4500,apartment,57.69
+Rishon LeTzion,2,2,0,0,40,3700,housing unit,92.5
+Rishon LeTzion,3,3,0,3,85,3300,apartment,38.82
+Rishon LeTzion,5,5,0,9,137,9000,apartment,65.69
+Rishon LeTzion,5,5,0,2,115,6500,apartment,56.52
+Rishon LeTzion,3,3,0,1,83,5000,apartment,60.24
+Rishon LeTzion,2,2,0,1,55,3400,housing unit,61.82
+Rishon LeTzion,4.5,4,1,2,90,4150,apartment,46.11
+Rishon LeTzion,5,5,0,0,130,8300,garden apartment,63.85
+Rishon LeTzion,6,6,0,3,138,7700,apartment,55.8
+Rishon LeTzion,5,5,0,12,130,6800,apartment,52.31
+Rishon LeTzion,3,3,0,2,85,4500,apartment,52.94
+Rishon LeTzion,2,2,0,0,50,3300,apartment,66
+Rishon LeTzion,3,3,0,1,82,4800,apartment,58.54
+Rishon LeTzion,2.5,2,1,0,55,3850,housing unit,70
+Rishon LeTzion,3,3,0,3,70,5000,apartment,71.43
+Rishon LeTzion,4,4,0,4,105,7500,apartment,71.43
+Rishon LeTzion,1,1,0,0,20,2600,housing unit,130
+Rishon LeTzion,3,3,0,4,60,3800,apartment,63.33
+Rishon LeTzion,2,2,0,4,35,3200,apartment,91.43
+Rishon LeTzion,4,4,0,4,92,5400,apartment,58.7
+Rishon LeTzion,3,3,0,2,66,4400,apartment,66.67
+Rishon LeTzion,4,4,0,3,100,850,other,8.5
+Rishon LeTzion,2.5,2,1,3,75,4500,apartment,60
+Rishon LeTzion,4,4,0,1,120,5999,apartment,49.99
+Rishon LeTzion,4,4,0,1,96,5600,apartment,58.33
+Rishon LeTzion,3,3,0,3,94,4900,apartment,52.13
+Rishon LeTzion,3.5,3,1,4,82,4950,apartment,60.37
+Rishon LeTzion,4,4,0,3,90,4600,apartment,51.11
+Rishon LeTzion,1,1,0,1,45,3500,housing unit,77.78
+Rishon LeTzion,3,3,0,2,74,5500,apartment,74.32
+Rishon LeTzion,3,3,0,5,92,6000,apartment,65.22
+Rishon LeTzion,2.5,2,1,3,600,4200,apartment,7
+Rishon LeTzion,5,5,0,2,138,7300,apartment,52.9
+Rishon LeTzion,4,4,0,4,90,5700,apartment,63.33
+Rishon LeTzion,4,4,0,5,110,5200,apartment,47.27
+Rishon LeTzion,5.5,5,1,17,130,6700,apartment,51.54
+Rishon LeTzion,6,6,0,0,180,11900,house,66.11
+Rishon LeTzion,1,1,0,2,40,5000,other,125
+Rishon LeTzion,4,4,0,4,120,6300,apartment,52.5
+Rishon LeTzion,4,4,0,1,110,5500,other,50
+Rishon LeTzion,2,2,0,0,60,3999,housing unit,66.65
+Rishon LeTzion,3.5,3,1,3,90,5000,apartment,55.56
+Rishon LeTzion,3,3,0,1,80,5700,apartment,71.25
+Rishon LeTzion,3,3,0,1,60,2999,apartment,49.98
+Rishon LeTzion,6,6,0,0,400,16500,house,41.25
+Rishon LeTzion,3,3,0,2,70,5000,apartment,71.43
+Rishon LeTzion,6,6,0,11,300,15000,penthouse,50
+Rishon LeTzion,1,1,0,0,30,2800,housing unit,93.33
+Rishon LeTzion,5,5,0,4,125,7490,apartment,59.92
+Rishon LeTzion,2,2,0,0,45,3700,housing unit,82.22
+Rishon LeTzion,3,3,0,5,92,6000,apartment,65.22
+Rishon LeTzion,5,5,0,8,145,6800,apartment,46.9
+Rishon LeTzion,2,2,0,0,60,4100,basement,68.33
+Rishon LeTzion,2,2,0,1,50,3700,housing unit,74
+Rishon LeTzion,3,3,0,6,76,5800,apartment,76.32
+Rishon LeTzion,1.5,1,1,0,50,3300,housing unit,66
+Rishon LeTzion,1,1,0,4,90,6700,apartment,74.44
+Rishon LeTzion,2,2,0,0,45,4000,housing unit,88.89
+Rishon LeTzion,4,4,0,7,112,6300,apartment,56.25
+Rishon LeTzion,4.5,4,1,19,124,6700,apartment,54.03
+Rishon LeTzion,2,2,0,0,58,4600,apartment,79.31
+Rishon LeTzion,2,2,0,2,50,3800,apartment,76
+Rishon LeTzion,4,4,0,1,72,5100,apartment,70.83
+Rishon LeTzion,3,3,0,1,70,4000,apartment,57.14
+Rishon LeTzion,3.5,3,1,3,70,4400,apartment,62.86
+Rishon LeTzion,4.5,4,1,6,110,7900,apartment,71.82
+Rishon LeTzion,4,4,0,4,100,4300,apartment,43
+Rishon LeTzion,3.5,3,1,4,85,4300,apartment,50.59
+Rishon LeTzion,5,5,0,4,125,7490,apartment,59.92
+Rishon LeTzion,3.5,3,1,1,80,6700,apartment,83.75
+Rishon LeTzion,4,4,0,4,100,4800,apartment,48
+Rishon LeTzion,5,5,0,7,130,6800,apartment,52.31
+Rishon LeTzion,4,4,0,4,105,6500,apartment,61.9
+Rishon LeTzion,4,4,0,0,140,5900,garden apartment,42.14
+Rishon LeTzion,3,3,0,0,90,4750,apartment,52.78
+Rishon LeTzion,3,3,0,3,65,4400,apartment,67.69
+Rishon LeTzion,2,2,0,0,50,4000,housing unit,80
+Rishon LeTzion,5,5,0,9,250,9500,penthouse,38
+Rishon LeTzion,6,6,0,0,275,12000,house,43.64
+Rishon LeTzion,3.5,3,1,7,100,5700,apartment,57
+Rishon LeTzion,3,3,0,2,90,4600,apartment,51.11
+Rishon LeTzion,3,3,0,2,64,4600,apartment,71.88
+Rishon LeTzion,4,4,0,1,80,5900,housing unit,73.75
+Rishon LeTzion,3.5,3,1,3,85,4499,apartment,52.93
+Rishon LeTzion,5,5,0,0,250,13000,house,52
+Rishon LeTzion,2,2,0,3,50,4200,apartment,84
+Rishon LeTzion,3,3,0,1,60,2999,apartment,49.98
+Rishon LeTzion,1,1,0,0,40,2800,basement,70
+Rishon LeTzion,6,6,0,0,180,10900,house,60.56
+Rishon LeTzion,1,1,0,1,35,2950,garden apartment,84.29
+Rishon LeTzion,1,1,0,0,25,3300,housing unit,132
+Rishon LeTzion,4,4,0,5,115,5500,apartment,47.83
+Rishon LeTzion,3.5,3,1,2,75,5100,apartment,68
+Rishon LeTzion,2,2,0,2,45,4000,housing unit,88.89
+Rishon LeTzion,6.5,6,1,0,160,100,other,0.63
+Rishon LeTzion,3,3,0,2,75,4800,apartment,64
+Rishon LeTzion,1,1,0,0,35,3450,housing unit,98.57
+Rishon LeTzion,2,2,0,1,35,3300,apartment,94.29
+Rishon LeTzion,2.5,2,1,1,50,4780,apartment,95.6
+Rishon LeTzion,1,1,0,0,50,3300,housing unit,66
+Rishon LeTzion,2,2,0,0,80,4500,housing unit,56.25
+Rishon LeTzion,2,2,0,0,40,3600,housing unit,90
+Rishon LeTzion,4,4,0,6,120,7000,apartment,58.33
+Rishon LeTzion,2,2,0,0,60,3800,housing unit,63.33
+Rishon LeTzion,2,2,0,3,50,4200,apartment,84
+Rishon LeTzion,3.5,3,1,3,90,5200,apartment,57.78
+Rishon LeTzion,4,4,0,6,110,7200,apartment,65.45
+Rishon LeTzion,2,2,0,0,60,4300,basement,71.67
+Rishon LeTzion,4.5,4,1,3,110,5500,apartment,50
+Rishon LeTzion,4,4,0,5,90,6200,apartment,68.89
+Rishon LeTzion,3,3,0,-1,90,4800,housing unit,53.33
+Rishon LeTzion,4,4,0,2,115,5200,apartment,45.22
+Rishon LeTzion,2,2,0,3,55,4300,penthouse,78.18
+Rishon LeTzion,4,4,0,8,180,7200,penthouse,40
+Rishon LeTzion,4,4,0,5,95,5500,apartment,57.89
+Rishon LeTzion,4,4,0,5,102,5800,apartment,56.86
+Rishon LeTzion,3.5,3,1,1,85,5500,apartment,64.71
+Rishon LeTzion,5,5,0,13,127,6800,apartment,53.54
+Rishon LeTzion,4,4,0,1,100,6200,apartment,62
+Rishon LeTzion,9,9,0,0,220,11999,house,54.54
+Rishon LeTzion,4,4,0,1,85,5500,apartment,64.71
+Rishon LeTzion,4.5,4,1,4,112,6600,apartment,58.93
+Rishon LeTzion,2,2,0,1,60,3950,housing unit,65.83
+Rishon LeTzion,2,2,0,0,82,3650,housing unit,44.51
+Rishon LeTzion,5,5,0,0,250,10500,house,42
+Rishon LeTzion,4,4,0,15,128,9200,penthouse,71.88
+Rishon LeTzion,1,1,0,3,30,2850,housing unit,95
+Rishon LeTzion,3.5,3,1,1,80,4800,apartment,60
+Rishon LeTzion,3.5,3,1,7,74,5400,apartment,72.97
+Rishon LeTzion,5,5,0,5,155,8700,penthouse,56.13
+Rishon LeTzion,2,2,0,3,60,4200,apartment,70
+Rishon LeTzion,3,3,0,4,70,4100,apartment,58.57
+Rishon LeTzion,1,1,0,0,40,2200,housing unit,55
+Rishon LeTzion,5,5,0,4,210,8200,penthouse,39.05
+Rishon LeTzion,2,2,0,0,70,4400,housing unit,62.86
+Rishon LeTzion,2,2,0,0,40,3900,housing unit,97.5
+Rishon LeTzion,3,3,0,4,80,5300,apartment,66.25
+Rishon LeTzion,3,3,0,0,80,4800,garden apartment,60
+Rishon LeTzion,4,4,0,0,80,5500,apartment,68.75
+Rishon LeTzion,6,6,0,3,170,8497,apartment,49.98
+Rishon LeTzion,5,5,0,6,152,9500,apartment,62.5
+Rishon LeTzion,4,4,0,1,95,5500,apartment,57.89
+Rishon LeTzion,3.5,3,1,3,85,4499,apartment,52.93
+Rishon LeTzion,3,3,0,5,100,5496,apartment,54.96
+Rishon LeTzion,3.5,3,1,1,90,4500,apartment,50
+Rishon LeTzion,4,4,0,14,135,12000,apartment,88.89
+Rishon LeTzion,3,3,0,3,73,4900,apartment,67.12
+Rishon LeTzion,4,4,0,2,105,6700,apartment,63.81
+Rishon LeTzion,2,2,0,0,40,4000,housing unit,100
+Rishon LeTzion,4,4,0,1,96,5300,apartment,55.21
+Rishon LeTzion,1,1,0,0,16,2500,housing unit,156.25
+Rishon LeTzion,3,3,0,4,80,4100,apartment,51.25
+Rishon LeTzion,4,4,0,3,80,5500,apartment,68.75
+Rishon LeTzion,4,4,0,14,115,8800,apartment,76.52
+Rishon LeTzion,5,5,0,1,120,5500,duplex,45.83
+Rishon LeTzion,3,3,0,2,84,4600,apartment,54.76
+Rishon LeTzion,3,3,0,2,60,5650,apartment,94.17
+Rishon LeTzion,2,2,0,0,50,3700,housing unit,74
+Rishon LeTzion,2,2,0,2,50,4100,housing unit,82
+Rishon LeTzion,3.5,3,1,3,86,5200,apartment,60.47
+Rishon LeTzion,2,2,0,0,45,3600,housing unit,80
+Rishon LeTzion,1.5,1,1,1,45,3900,other,86.67
+Rishon LeTzion,2,2,0,0,40,3500,apartment,87.5
+Rishon LeTzion,2.5,2,1,2,65,4350,apartment,66.92
+Rishon LeTzion,3,3,0,0,77,4000,housing unit,51.95
+Rishon LeTzion,2,2,0,0,37,3600,housing unit,97.3
+Rishon LeTzion,2,2,0,0,55,3900,housing unit,70.91
+Rishon LeTzion,3.5,3,1,0,90,4800,apartment,53.33
+Rishon LeTzion,4,4,0,2,80,5500,apartment,68.75
+Rishon LeTzion,3,3,0,0,75,5300,apartment,70.67
+Rishon LeTzion,4,4,0,4,110,5800,apartment,52.73
+Rishon LeTzion,2,2,0,4,45,4000,penthouse,88.89
+Rishon LeTzion,2,2,0,1,50,3350,housing unit,67
+Rishon LeTzion,2,2,0,2,35,3500,housing unit,100
+Rishon LeTzion,6,6,0,4,155,7200,apartment,46.45
+Rishon LeTzion,4,4,0,4,90,4900,apartment,54.44
+Rishon LeTzion,4,4,0,3,90,4000,apartment,44.44
+Rishon LeTzion,4,4,0,4,93,5500,apartment,59.14
+Rishon LeTzion,3,3,0,0,155,7300,garden apartment,47.1
+Rishon LeTzion,7,7,0,0,400,16500,house,41.25
+Rishon LeTzion,4,4,0,0,90,7000,house,77.78
+Rishon LeTzion,3,3,0,0,90,4750,apartment,52.78
+Rishon LeTzion,4,4,0,4,90,1600,apartment,17.78
+Rishon LeTzion,5,5,0,5,120,7100,apartment,59.17
+Rishon LeTzion,6,6,0,0,350,18000,house,51.43
+Rishon LeTzion,3.5,3,1,2,80,4700,apartment,58.75
+Rishon LeTzion,3.5,3,1,0,110,4600,apartment,41.82
+Rishon LeTzion,2,2,0,0,50,3950,housing unit,79
+Rishon LeTzion,2,2,0,0,40,3500,housing unit,87.5
+Rishon LeTzion,2,2,0,4,40,4500,apartment,112.5
+Rishon LeTzion,4,4,0,2,135,7500,apartment,55.56
+Rishon LeTzion,5,5,0,3,140,7250,apartment,51.79
+Rishon LeTzion,5,5,0,6,120,6900,apartment,57.5
+Rishon LeTzion,2,2,0,0,50,3350,housing unit,67
+Rishon LeTzion,5,5,0,3,139,6800,apartment,48.92
+Rishon LeTzion,4,4,0,5,110,5500,apartment,50
+Rishon LeTzion,2,2,0,1,60,4000,apartment,66.67
+Rishon LeTzion,3,3,0,0,65,4300,housing unit,66.15
+Rishon LeTzion,2,2,0,0,60,3800,housing unit,63.33
+Rishon LeTzion,1,1,0,0,40,3300,housing unit,82.5
+Rishon LeTzion,2,2,0,0,75,3600,basement,48
+Rishon LeTzion,3,3,0,1,80,5600,apartment,70
+Rishon LeTzion,2,2,0,0,40,4000,housing unit,100
+Rishon LeTzion,4,4,0,2,90,5900,apartment,65.56
+Rishon LeTzion,3,3,0,5,70,6000,apartment,85.71
+Rishon LeTzion,3,3,0,2,60,3900,apartment,65
+Rishon LeTzion,5,5,0,7,144,7000,apartment,48.61
+Rishon LeTzion,1,1,0,1,50,3600,housing unit,72
+Rishon LeTzion,3.5,3,1,2,87,5699,apartment,65.51
+Rishon LeTzion,3,3,0,1,68,4500,housing unit,66.18
+Rishon LeTzion,5,5,0,13,179,10900,penthouse,60.89
+Rishon LeTzion,4.5,4,1,16,120,7000,apartment,58.33
+Rishon LeTzion,3,3,0,4,68,4300,apartment,63.24
+Rishon LeTzion,2,2,0,1,40,3500,housing unit,87.5
+Rishon LeTzion,4,4,0,1,90,6000,apartment,66.67
+Rishon LeTzion,1.5,1,1,1,25,3250,housing unit,130
+Rishon LeTzion,4,4,0,9,210,7500,penthouse,35.71
+Rishon LeTzion,3,3,0,2,90,5600,apartment,62.22
+Rishon LeTzion,2,2,0,1,45,3500,housing unit,77.78
+Rishon LeTzion,4,4,0,4,110,6000,apartment,54.55
+Rishon LeTzion,5,5,0,6,200,7700,duplex,38.5
+Rishon LeTzion,5,5,0,0,230,11000,house,47.83
+Rishon LeTzion,4,4,0,15,117,6500,apartment,55.56
+Rishon LeTzion,7,7,0,4,250,12000,house,48
+Rishon LeTzion,4,4,0,2,100,4500,apartment,45
+Rishon LeTzion,4,4,0,3,90,5800,apartment,64.44
+Rishon LeTzion,3,3,0,2,90,4100,apartment,45.56
+Rishon LeTzion,3,3,0,1,68,4500,housing unit,66.18
+Rishon LeTzion,3.5,3,1,3,82,4300,apartment,52.44
+Rishon LeTzion,3,3,0,1,110,4990,housing unit,45.36
+Rishon LeTzion,2,2,0,0,45,3600,housing unit,80
+Rishon LeTzion,3.5,3,1,4,85,5000,apartment,58.82
+Rishon LeTzion,2,2,0,0,60,4550,housing unit,75.83
+Rishon LeTzion,3,3,0,5,85,5750,apartment,67.65
+Rishon LeTzion,4,4,0,3,140,5500,apartment,39.29
+Rishon LeTzion,4,4,0,1,90,4700,apartment,52.22
+Rishon LeTzion,5,5,0,6,137,7300,apartment,53.28
+Rishon LeTzion,1,1,0,0,130,5000,housing unit,38.46
+Rishon LeTzion,3,3,0,1,60,4300,apartment,71.67
+Rishon LeTzion,2,2,0,1,45,4000,housing unit,88.89
+Rishon LeTzion,3,3,0,3,77,5500,apartment,71.43
+Rishon LeTzion,3,3,0,2,108,8000,apartment,74.07
+Rishon LeTzion,3,3,0,2,100,5700,housing unit,57
+Rishon LeTzion,3.5,3,1,8,86,5600,apartment,65.12
+Rishon LeTzion,3,3,0,1,55,4700,apartment,85.45
+Rishon LeTzion,3,3,0,2,90,4100,apartment,45.56
+Rishon LeTzion,1,1,0,4,25,2500,apartment,100
+Rishon LeTzion,4,4,0,0,90,7000,garden apartment,77.78
+Rishon LeTzion,5,5,0,16,139,6800,apartment,48.92
+Rishon LeTzion,2.5,2,1,2,70,4800,apartment,68.57
+Rishon LeTzion,4,4,0,14,110,7500,apartment,68.18
+Rishon LeTzion,3,3,0,2,92,5700,apartment,61.96
+Rishon LeTzion,4,4,0,0,300,16500,house,55
+Rishon LeTzion,3,3,0,2,75,6000,apartment,80
+Rishon LeTzion,5,5,0,3,130,7000,apartment,53.85
+Rishon LeTzion,2,2,0,0,35,3600,housing unit,102.86
+Rishon LeTzion,4,4,0,6,110,6400,apartment,58.18
+Rishon LeTzion,3,3,0,1,55,4700,apartment,85.45
+Rishon LeTzion,1.5,1,1,1,225,4100,garden apartment,18.22
+Rishon LeTzion,2.5,2,1,1,50,5000,apartment,100
+Rishon LeTzion,2,2,0,1,40,3900,housing unit,97.5
+Rishon LeTzion,3,3,0,3,74,6000,apartment,81.08
+Rishon LeTzion,4,4,0,4,100,7200,apartment,72
+Rishon LeTzion,4,4,0,6,121,6400,apartment,52.89
+Rishon LeTzion,5,5,0,3,137,7100,apartment,51.82
+Rishon LeTzion,3,3,0,2,70,4500,apartment,64.29
+Rishon LeTzion,2,2,0,0,60,3200,housing unit,53.33
+Rishon LeTzion,7,7,0,0,275,12000,house,43.64
+Rishon LeTzion,4,4,0,4,95,4800,apartment,50.53
+Rishon LeTzion,2,2,0,9,45,3650,housing unit,81.11
+Rishon LeTzion,3.5,3,1,4,100,4500,apartment,45
+Rishon LeTzion,2,2,0,0,55,3900,housing unit,70.91
+Rishon LeTzion,2,2,0,1,60,3500,apartment,58.33
+Rishon LeTzion,3,3,0,4,106,4900,apartment,46.23
+Rishon LeTzion,4,4,0,2,100,5000,apartment,50
+Rishon LeTzion,4,4,0,4,100,5200,apartment,52
+Rishon LeTzion,4,4,0,2,110,5000,apartment,45.45
+Rishon LeTzion,4,4,0,6,100,5700,apartment,57
+Rishon LeTzion,2,2,0,3,45,4900,apartment,108.89
+Rishon LeTzion,1.5,1,1,1,25,3250,housing unit,130
+Rishon LeTzion,3.5,3,1,1,80,4200,apartment,52.5
+Rishon LeTzion,3.5,3,1,1,82,6500,apartment,79.27
+Rishon LeTzion,3,3,0,4,80,5000,apartment,62.5
+Rishon LeTzion,3,3,0,9,80,5500,apartment,68.75
+Rishon LeTzion,3.5,3,1,2,89,5100,apartment,57.3
+Rishon LeTzion,5,5,0,7,169,9000,duplex,53.25
+Rishon LeTzion,2,2,0,0,52,3500,housing unit,67.31
+Rishon LeTzion,1,1,0,3,20,2100,apartment,105
+Rishon LeTzion,4,4,0,4,120,6000,apartment,50
+Rishon LeTzion,3,3,0,3,85,4400,apartment,51.76
+Rishon LeTzion,4,4,0,4,110,5500,apartment,50
+Rishon LeTzion,2,2,0,3,50,3500,apartment,70
+Rishon LeTzion,4,4,0,0,85,5300,apartment,62.35
+Rishon LeTzion,3,3,0,1,89,5000,apartment,56.18
+Rishon LeTzion,2.5,2,1,3,50,5000,apartment,100
+Rishon LeTzion,4,4,0,2,110,5200,apartment,47.27
+Rishon LeTzion,4,4,0,4,90,6300,apartment,70
+Rishon LeTzion,3,3,0,2,60,4500,apartment,75
+Rishon LeTzion,2.5,2,1,1,70,4600,apartment,65.71
+Rishon LeTzion,4,4,0,4,105,6800,apartment,64.76
+Rishon LeTzion,3,3,0,4,85,5500,apartment,64.71
+Rishon LeTzion,4,4,0,1,91,5800,apartment,63.74
+Rishon LeTzion,8,8,0,0,250,12000,other,48
+Rishon LeTzion,3,3,0,4,173,6000,penthouse,34.68
+Rishon LeTzion,3,3,0,0,90,4500,housing unit,50
+Rishon LeTzion,3,3,0,5,96,6750,apartment,70.31
+Rishon LeTzion,1,1,0,0,40,3250,housing unit,81.25
+Rishon LeTzion,2,2,0,0,25,2900,apartment,116
+Rishon LeTzion,3,3,0,0,80,4000,housing unit,50
+Rishon LeTzion,4,4,0,4,110,5100,apartment,46.36
+Rishon LeTzion,4.5,4,1,4,120,7800,apartment,65
+Rishon LeTzion,5,5,0,5,113,7000,apartment,61.95
+Rishon LeTzion,4,4,0,6,100,6300,apartment,63
+Rishon LeTzion,5,5,0,1,130,6500,apartment,50
+Rishon LeTzion,5,5,0,3,125,7000,apartment,56
+Rishon LeTzion,4,4,0,4,95,5500,apartment,57.89
+Rishon LeTzion,5,5,0,3,120,7500,apartment,62.5
+Rishon LeTzion,4,4,0,11,130,8000,apartment,61.54
+Rishon LeTzion,4,4,0,4,170,7600,penthouse,44.71
+Rishon LeTzion,3,3,0,4,83,4900,apartment,59.04
+Rishon LeTzion,4,4,0,1,95,4000,penthouse,42.11
+Rishon LeTzion,6,6,0,4,160,7400,duplex,46.25
+Rishon LeTzion,5,5,0,9,160,9700,penthouse,60.63
+Rishon LeTzion,3,3,0,2,86,4200,apartment,48.84
+Rishon LeTzion,4,4,0,11,130,8700,apartment,66.92
+Rishon LeTzion,3,3,0,0,70,3700,housing unit,52.86
+Rishon LeTzion,8,8,0,0,320,15000,house,46.88
+Rishon LeTzion,7,7,0,6,250,8900,duplex,35.6
+Rehovot,5,5,0,6,150,10000,duplex,66.67
+Rehovot,3,3,0,2,65,3900,apartment,60
+Rehovot,4,4,0,4,115,5500,apartment,47.83
+Rehovot,3.5,3,1,2,70,4900,apartment,70
+Rehovot,1,1,0,0,45,3500,housing unit,77.78
+Rehovot,8,8,0,0,290,8500,other,29.31
+Rehovot,4,4,0,2,85,5800,apartment,68.24
+Rehovot,3.5,3,1,4,84,4500,apartment,53.57
+Rehovot,5,5,0,1,110,5300,apartment,48.18
+Rehovot,3,3,0,1,60,4900,apartment,81.67
+Rehovot,5,5,0,0,230,8000,house,34.78
+Rehovot,5,5,0,7,137,7000,apartment,51.09
+Rehovot,3.5,3,1,3,90,3700,apartment,41.11
+Rehovot,6,6,0,0,250,9900,house,39.6
+Rehovot,3.5,3,1,3,70,4600,apartment,65.71
+Rehovot,3.5,3,1,3,110,4800,apartment,43.64
+Rehovot,3,3,0,3,70,4400,apartment,62.86
+Rehovot,5.5,5,1,0,270,8800,house,32.59
+Rehovot,2.5,2,1,0,70,3800,housing unit,54.29
+Rehovot,2,2,0,1,40,3600,apartment,90
+Rehovot,4,4,0,1,111,6250,apartment,56.31
+Rehovot,3.5,3,1,1,100,5500,house,55
+Rehovot,4,4,0,2,100,6500,apartment,65
+Rehovot,5,5,0,19,150,8300,penthouse,55.33
+Rehovot,4,4,0,2,80,3700,apartment,46.25
+Rehovot,3,3,0,2,65,3900,apartment,60
+Rehovot,3,3,0,1,80,4500,apartment,56.25
+Rehovot,4.5,4,1,0,115,5000,house,43.48
+Rehovot,5,5,0,7,143,7500,apartment,52.45
+Rehovot,4,4,0,5,107,5400,apartment,50.47
+Rehovot,3.5,3,1,3,95,4300,apartment,45.26
+Rehovot,4,4,0,9,105,6000,apartment,57.14
+Rehovot,4,4,0,1,120,5300,apartment,44.17
+Rehovot,3,3,0,3,60,3200,apartment,53.33
+Rehovot,4,4,0,1,113,6000,apartment,53.1
+Rehovot,4,4,0,4,75,3800,apartment,50.67
+Rehovot,4,4,0,6,120,5700,apartment,47.5
+Rehovot,5,5,0,7,146,9000,penthouse,61.64
+Rehovot,3,3,0,0,70,5450,garden apartment,77.86
+Rehovot,5,5,0,3,115,7000,apartment,60.87
+Rehovot,7,7,0,0,372,11500,house,30.91
+Rehovot,2,2,0,0,40,3800,housing unit,95
+Rehovot,5,5,0,6,145,7000,apartment,48.28
+Rehovot,2,2,0,1,56,4300,housing unit,76.79
+Rehovot,3,3,0,3,100,4300,apartment,43
+Rehovot,4,4,0,5,110,5300,apartment,48.18
+Rehovot,4,4,0,6,102,5500,apartment,53.92
+Rehovot,4,4,0,3,78,6000,apartment,76.92
+Rehovot,5.5,5,1,0,500,12000,house,24
+Rehovot,2,2,0,1,40,3500,housing unit,87.5
+Rehovot,3.5,3,1,2,90,4400,apartment,48.89
+Rehovot,3,3,0,3,92,6000,apartment,65.22
+Rehovot,4,4,0,3,120,5400,apartment,45
+Rehovot,2,2,0,0,55,3800,garden apartment,69.09
+Rehovot,2,2,0,1,46,3900,apartment,84.78
+Rehovot,1,1,0,2,35,2900,apartment,82.86
+Rehovot,5,5,0,4,123,7000,apartment,56.91
+Rehovot,4,4,0,1,104,5400,apartment,51.92
+Rehovot,3,3,0,2,77,4650,apartment,60.39
+Rehovot,5,5,0,2,120,7000,apartment,58.33
+Rehovot,4,4,0,6,102,5800,apartment,56.86
+Rehovot,4,4,0,8,100,5500,apartment,55
+Rehovot,2,2,0,7,40,3800,apartment,95
+Rehovot,4,4,0,1,110,5600,other,50.91
+Rehovot,4,4,0,1,110,5500,apartment,50
+Rehovot,4,4,0,2,100,4950,apartment,49.5
+Rehovot,4,4,0,4,117,6500,apartment,55.56
+Rehovot,3,3,0,0,100,5200,house,52
+Rehovot,5,5,0,5,125,4900,apartment,39.2
+Rehovot,5,5,0,5,142,7500,apartment,52.82
+Rehovot,3,3,0,1,160,5999,garden apartment,37.49
+Rehovot,6,6,0,9,325,12000,duplex,36.92
+Rehovot,4,4,0,1,81,4500,apartment,55.56
+Rehovot,6,6,0,0,280,11000,house,39.29
+Rehovot,4,4,0,3,86,5400,apartment,62.79
+Rehovot,5,5,0,1,130,7000,house,53.85
+Rehovot,2,2,0,0,37,3200,basement,86.49
+Rehovot,3,3,0,0,75,4100,apartment,54.67
+Rehovot,4,4,0,4,120,5900,apartment,49.17
+Rehovot,4,4,0,1,90,5000,apartment,55.56
+Rehovot,4,4,0,4,75,4500,apartment,60
+Rehovot,3.5,3,1,2,72,4300,apartment,59.72
+Rehovot,3.5,3,1,1,97,5300,apartment,54.64
+Rehovot,1,1,0,1,32,2800,apartment,87.5
+Rehovot,2.5,2,1,1,70,3700,basement,52.86
+Rehovot,2,2,0,0,40,3000,housing unit,75
+Rehovot,3.5,3,1,1,65,4300,apartment,66.15
+Rehovot,2.5,2,1,0,55,3500,housing unit,63.64
+Rehovot,2,2,0,2,60,3800,apartment,63.33
+Rehovot,3,3,0,3,92,4300,apartment,46.74
+Rehovot,3.5,3,1,4,81,4600,apartment,56.79
+Rehovot,3.5,3,1,1,100,4500,apartment,45
+Rehovot,1.5,1,1,0,40,2800,apartment,70
+Rehovot,3,3,0,3,70,3400,apartment,48.57
+Rehovot,4,4,0,4,100,5500,apartment,55
+Rehovot,3.5,3,1,3,105,4400,apartment,41.9
+Rehovot,3,3,0,4,65,3550,apartment,54.62
+Rehovot,4,4,0,1,117,6300,apartment,53.85
+Rehovot,4,4,0,4,120,6500,apartment,54.17
+Rehovot,3.5,3,1,2,95,3500,apartment,36.84
+Rehovot,3.5,3,1,3,90,5700,apartment,63.33
+Rehovot,3,3,0,4,68,5000,apartment,73.53
+Rehovot,2,2,0,0,40,3500,apartment,87.5
+Rehovot,5,5,0,6,142,7000,apartment,49.3
+Rehovot,5,5,0,3,130,6650,apartment,51.15
+Rehovot,6,6,0,5,135,7900,penthouse,58.52
+Rehovot,5,5,0,0,125,12000,garden apartment,96
+Rehovot,2,2,0,1,40,4000,apartment,100
+Rehovot,3,3,0,2,80,5400,apartment,67.5
+Rehovot,5,5,0,6,130,6800,apartment,52.31
+Rehovot,3,3,0,2,60,4000,apartment,66.67
+Rehovot,7,7,0,0,250,9700,house,38.8
+Rehovot,4,4,0,3,100,5500,apartment,55
+Rehovot,4,4,0,2,117,6500,apartment,55.56
+Rehovot,5,5,0,6,150,10000,duplex,66.67
+Rehovot,4,4,0,4,115,5500,apartment,47.83
+Rehovot,3.5,3,1,2,120,799,other,6.66
+Rehovot,4.5,4,1,4,85,5400,apartment,63.53
+Rehovot,1,1,0,0,20,2500,housing unit,125
+Rehovot,4,4,0,2,90,5500,apartment,61.11
+Rehovot,4,4,0,3,90,4900,apartment,54.44
+Rehovot,4.5,4,1,5,118,5450,apartment,46.19
+Rehovot,2.5,2,1,3,50,4000,apartment,80
+Rehovot,3.5,3,1,1,88,4700,apartment,53.41
+Rehovot,2,2,0,2,40,3400,apartment,85
+Rehovot,2,2,0,2,45,3600,apartment,80
+Rehovot,3,3,0,1,50,4200,basement,84
+Rehovot,3,3,0,2,65,3500,apartment,53.85
+Rehovot,1,1,0,1,22,2000,housing unit,90.91
+Rehovot,2.5,2,1,0,90,4300,housing unit,47.78
+Rehovot,3,3,0,1,70,4800,apartment,68.57
+Rehovot,1,1,0,0,35,3000,apartment,85.71
+Rehovot,5,5,0,2,120,7200,apartment,60
+Rehovot,2,2,0,3,45,4100,apartment,91.11
+Rehovot,2,2,0,0,40,3000,apartment,75
+Rehovot,2,2,0,1,40,3350,apartment,83.75
+Rehovot,4,4,0,9,101,6000,apartment,59.41
+Rehovot,4,4,0,5,105,6000,apartment,57.14
+Rehovot,4.5,4,1,2,125,6500,apartment,52
+Rehovot,1,1,0,0,45,4000,housing unit,88.89
+Rehovot,4,4,0,1,120,4700,apartment,39.17
+Rehovot,3.5,3,1,3,100,5000,apartment,50
+Rehovot,5,5,0,4,130,7000,apartment,53.85
+Rehovot,2.5,2,1,2,60,3800,apartment,63.33
+Rehovot,5,5,0,16,140,6900,apartment,49.29
+Rehovot,7,7,0,0,330,12500,house,37.88
+Rehovot,4,4,0,3,94,5000,apartment,53.19
+Rehovot,2.5,2,1,1,55,4000,apartment,72.73
+Rehovot,5,5,0,4,125,6500,apartment,52
+Rehovot,3,3,0,3,80,4800,apartment,60
+Rehovot,7,7,0,0,330,12000,house,36.36
+Rehovot,3,3,0,1,160,5999,garden apartment,37.49
+Rehovot,5,5,0,5,130,7250,apartment,55.77
+Rehovot,5,5,0,2,125,6600,apartment,52.8
+Rehovot,1.5,1,1,0,25,2000,housing unit,80
+Rehovot,5,5,0,1,120,5700,apartment,47.5
+Rehovot,3,3,0,2,95,4300,apartment,45.26
+Rehovot,2,2,0,2,40,3300,apartment,82.5
+Rehovot,1,1,0,3,28,2800,apartment,100
+Rehovot,2,2,0,2,55,3000,apartment,54.55
+Rehovot,3.5,3,1,1,85,4400,apartment,51.76
+Rehovot,1,1,0,5,18,2950,housing unit,163.89
+Rehovot,6,6,0,0,150,8900,house,59.33
+Rehovot,5,5,0,3,115,7000,apartment,60.87
+Rehovot,3.5,3,1,3,90,4150,apartment,46.11
+Rehovot,3,3,0,3,75,4500,apartment,60
+Rehovot,1,1,0,4,86,2990,housing unit,34.77
+Rehovot,4,4,0,14,108,6200,apartment,57.41
+Rehovot,3.5,3,1,1,87,5500,apartment,63.22
+Rehovot,4,4,0,4,96,4700,apartment,48.96
+Rehovot,3,3,0,7,115,4500,penthouse,39.13
+Rehovot,4,4,0,1,100,5500,apartment,55
+Rehovot,4,4,0,1,550,7000,house,12.73
+Rehovot,5,5,0,5,161,11000,penthouse,68.32
+Rehovot,3,3,0,3,65,4300,apartment,66.15
+Rehovot,4.5,4,1,4,110,6500,apartment,59.09
+Rehovot,5,5,0,5,130,7250,apartment,55.77
+Rehovot,4.5,4,1,3,108,6000,apartment,55.56
+Rehovot,5,5,0,3,110,5500,apartment,50
+Rehovot,7,7,0,1,240,18000,house,75
+Rehovot,7,7,0,0,330,12000,house,36.36
+Rehovot,3,3,0,3,80,5000,apartment,62.5
+Rehovot,2,2,0,2,40,3700,apartment,92.5
+Rehovot,2,2,0,2,40,3900,apartment,97.5
+Rehovot,7,7,0,0,340,12500,house,36.76
+Rehovot,3.5,3,1,3,90,5300,apartment,58.89
+Rehovot,4.5,4,1,0,140,11000,other,78.57
+Rehovot,5,5,0,5,130,6900,apartment,53.08
+Rehovot,3,3,0,4,75,3500,apartment,46.67
+Rehovot,2.5,2,1,2,58,3800,apartment,65.52
+Rehovot,3,3,0,1,70,3950,apartment,56.43
+Rehovot,5,5,0,2,125,6600,apartment,52.8
+Rehovot,3.5,3,1,3,91,5000,apartment,54.95
+Rehovot,4,4,0,6,90,5500,apartment,61.11
+Rehovot,2,2,0,3,50,2900,apartment,58
+Rehovot,5,5,0,4,110,6200,apartment,56.36
+Rehovot,4,4,0,1,90,4700,apartment,52.22
+Rehovot,5,5,0,0,336,7750,house,23.07
+Rehovot,4,4,0,2,90,5700,apartment,63.33
+Rehovot,5,5,0,18,148,6700,apartment,45.27
+Rehovot,4,4,0,16,120,6300,apartment,52.5
+Rehovot,5,5,0,4,120,6900,apartment,57.5
+Rehovot,3,3,0,2,90,5100,apartment,56.67
+Rehovot,3.5,3,1,3,86,4950,apartment,57.56
+Rehovot,3,3,0,3,60,3800,apartment,63.33
+Rehovot,1.5,1,1,1,25,2900,housing unit,116
+Rehovot,3,3,0,3,70,3300,apartment,47.14
+Rehovot,1,1,0,1,125,6800,apartment,54.4
+Rehovot,2.5,2,1,1,40,3000,housing unit,75
+Rehovot,5,5,0,6,120,7000,apartment,58.33
+Rehovot,3,3,0,4,75,3300,apartment,44
+Rehovot,5,5,0,1,130,7000,apartment,53.85
+Rehovot,3,3,0,2,76,4400,apartment,57.89
+Rehovot,2,2,0,0,60,3500,apartment,58.33
+Rehovot,3,3,0,1,70,3950,apartment,56.43
+Rehovot,4,4,0,3,80,4500,apartment,56.25
+Rehovot,3,3,0,4,65,3200,apartment,49.23
+Rehovot,4,4,0,6,110,5800,apartment,52.73
+Rehovot,5,5,0,3,115,7000,apartment,60.87
+Rehovot,3,3,0,3,90,4500,apartment,50
+Rehovot,3,3,0,1,77,4850,apartment,62.99
+Rehovot,3,3,0,2,60,5000,apartment,83.33
+Rehovot,4,4,0,10,110,7300,duplex,66.36
+Rehovot,3,3,0,0,100,6800,house,68
+Rehovot,5,5,0,1,140,6700,apartment,47.86
+Rehovot,5,5,0,6,127,7150,apartment,56.3
+Rehovot,4,4,0,10,110,7300,apartment,66.36
+Rehovot,1,1,0,0,45,4000,housing unit,88.89
+Rehovot,8,8,0,0,170,12850,house,75.59
+Rehovot,3,3,0,7,80,5000,apartment,62.5
+Rehovot,4,4,0,2,115,6000,apartment,52.17
+Rehovot,3.5,3,1,8,85,5500,apartment,64.71
+Rehovot,2,2,0,0,40,3000,apartment,75
+Rehovot,1,1,0,0,25,2600,housing unit,104
+Rehovot,3,3,0,2,50,4000,apartment,80
+Rehovot,3,3,0,2,80,4000,apartment,50
+Rehovot,2,2,0,0,80,3900,apartment,48.75
+Rehovot,1.5,1,1,0,50,3000,housing unit,60
+Rehovot,3,3,0,3,60,3900,apartment,65
+Rehovot,4,4,0,1,105,5200,apartment,49.52
+Rehovot,4,4,0,3,100,4850,apartment,48.5
+Rehovot,2,2,0,1,40,3000,apartment,75
+Rehovot,4,4,0,3,115,5400,apartment,46.96
+Rehovot,4,4,0,2,80,3500,apartment,43.75
+Rehovot,2,2,0,0,187,4300,house,22.99
+Rehovot,1,1,0,0,20,2500,other,125
+Rehovot,2,2,0,2,50,3200,apartment,64
+Rehovot,3,3,0,1,70,4100,housing unit,58.57
+Rehovot,1,1,0,1,30,200,apartment,6.67
+Rehovot,3,3,0,0,75,4100,apartment,54.67
+Rehovot,4,4,0,11,127,7600,apartment,59.84
+Rehovot,4,4,0,4,120,5900,apartment,49.17
+Rehovot,8,8,0,0,170,12850,house,75.59
+Rehovot,5,5,0,4,110,6500,apartment,59.09
+Rehovot,6,6,0,0,180,12000,house,66.67
+Rehovot,3,3,0,0,65,5200,house,80
+Rehovot,3,3,0,3,60,4000,apartment,66.67
+Rehovot,4,4,0,2,80,4500,apartment,56.25
+Rehovot,3,3,0,0,80,5000,housing unit,62.5
+Rehovot,5,5,0,3,130,6800,apartment,52.31
+Rehovot,5,5,0,1,120,6750,garden apartment,56.25
+Rehovot,2,2,0,1,55,3000,apartment,54.55
+Rehovot,5,5,0,6,123,6800,apartment,55.28
+Rehovot,4,4,0,3,120,4900,apartment,40.83
+Rehovot,3.5,3,1,3,90,5300,apartment,58.89
+Rehovot,3,3,0,1,60,3400,apartment,56.67
+Rehovot,4,4,0,5,112,6200,apartment,55.36
+Rehovot,4,4,0,1,90,5800,apartment,64.44
+Rehovot,3,3,0,0,55,4800,housing unit,87.27
+Rehovot,3,3,0,0,60,4400,house,73.33
+Rehovot,3,3,0,4,70,3350,apartment,47.86
+Rehovot,3,3,0,0,55,3650,housing unit,66.36
+Rehovot,5,5,0,3,130,6000,apartment,46.15
+Rehovot,4,4,0,4,100,6000,apartment,60
+Rehovot,2,2,0,0,40,4000,housing unit,100
+Rehovot,3,3,0,2,70,4200,apartment,60
+Rehovot,2.5,2,1,2,77,4000,apartment,51.95
+Rehovot,3,3,0,3,80,3800,apartment,47.5
+Rehovot,3,3,0,2,70,3850,apartment,55
+Rehovot,3,3,0,1,96,5400,apartment,56.25
+Rehovot,3,3,0,1,70,4250,apartment,60.71
+Rehovot,1.5,1,1,0,30,3300,housing unit,110
+Rehovot,3,3,0,2,55,4000,housing unit,72.73
+Rehovot,4,4,0,3,90,5500,apartment,61.11
+Rehovot,2,2,0,1,80,3500,housing unit,43.75
+Rehovot,3,3,0,4,65,4000,apartment,61.54
+Rehovot,3,3,0,1,75,4200,apartment,56
+Rehovot,1,1,0,4,16,2790,apartment,174.38
+Rehovot,1,1,0,2,20,2000,apartment,100
+Rehovot,3.5,3,1,3,110,4900,apartment,44.55
+Rehovot,5,5,0,2,125,6800,apartment,54.4
+Rehovot,6,6,0,0,300,9000,other,30
+Rehovot,3,3,0,3,78,5000,apartment,64.1
+Rehovot,5,5,0,3,139,7500,apartment,53.96
+Rehovot,4,4,0,3,120,5200,apartment,43.33
+Rehovot,7,7,0,0,372,11500,house,30.91
+Rehovot,4,4,0,2,96,4600,apartment,47.92
+Rehovot,5,5,0,8,125,7700,apartment,61.6
+Rehovot,5,5,0,9,123,6300,apartment,51.22
+Rehovot,4,4,0,2,90,5000,apartment,55.56
+Rehovot,3,3,0,3,80,5000,apartment,62.5
+Rehovot,3.5,3,1,1,80,3800,apartment,47.5
+Rehovot,2,2,0,0,60,3400,housing unit,56.67
+Rehovot,4,4,0,0,350,6000,house,17.14
+Rehovot,2,2,0,0,150,2950,housing unit,19.67
+Rehovot,3,3,0,2,65,3100,apartment,47.69
+Rehovot,2.5,2,1,0,380,5000,house,13.16
+Rehovot,3,3,0,2,70,4500,apartment,64.29
+Rehovot,3.5,3,1,2,75,4000,apartment,53.33
+Rehovot,5,5,0,2,220,7700,apartment,35
+Rehovot,2,2,0,0,35,3250,housing unit,92.86
+Rehovot,1,1,0,0,20,2400,housing unit,120
+Rehovot,3,3,0,0,500,5200,house,10.4
+Rehovot,3,3,0,4,70,4000,apartment,57.14
+Rehovot,2.5,2,1,2,70,3000,apartment,42.86
+Rehovot,5,5,0,4,108,6550,apartment,60.65
+Rehovot,2,2,0,2,45,3700,apartment,82.22
+Rehovot,1,1,0,4,40,3500,apartment,87.5
+Rehovot,5,5,0,4,116,6500,apartment,56.03
+Rehovot,5,5,0,5,250,6500,penthouse,26
+Rehovot,4,4,0,3,92,5400,apartment,58.7
+Rehovot,3,3,0,1,50,3700,housing unit,74
+Rehovot,3,3,0,2,70,3400,apartment,48.57
+Rehovot,5,5,0,2,150,6500,apartment,43.33
+Rehovot,5,5,0,8,140,7700,apartment,55
+Rehovot,1,1,0,0,70,4500,other,64.29
+Rehovot,4,4,0,2,100,4500,apartment,45
+Rehovot,2,2,0,0,60,4500,house,75
+Rehovot,2.5,2,1,1,60,3000,apartment,50
+Rehovot,4,4,0,3,98,6200,apartment,63.27
+Rehovot,2,2,0,4,38,3500,apartment,92.11
+Rehovot,2,2,0,1,60,3200,housing unit,53.33
+Rehovot,2,2,0,2,50,2900,apartment,58
+Rehovot,5,5,0,0,250,6700,garden apartment,26.8
+Rehovot,3,3,0,0,65,4000,housing unit,61.54
+Rehovot,3.5,3,1,4,70,4400,apartment,62.86
+Rehovot,5,5,0,2,110,6250,apartment,56.82
+Rehovot,4,4,0,1,120,5300,apartment,44.17
+Rehovot,3,3,0,2,60,5000,apartment,83.33
+Rehovot,4.5,4,1,2,120,5500,apartment,45.83
+Rehovot,3,3,0,4,60,3200,apartment,53.33
+Rehovot,3,3,0,4,50,3500,apartment,70
+Rehovot,2,2,0,1,45,3500,apartment,77.78
+Rehovot,3,3,0,1,65,4500,apartment,69.23
+Rehovot,5,5,0,4,100,3900,apartment,39
+Rehovot,3.5,3,1,1,100,5200,apartment,52
+Rehovot,5,5,0,4,135,7500,apartment,55.56
+Rehovot,3,3,0,2,74,5200,apartment,70.27
+Rehovot,1.5,1,1,1,30,2950,apartment,98.33
+Rehovot,3.5,3,1,1,90,5000,apartment,55.56
+Rehovot,2,2,0,4,50,3000,apartment,60
+Rehovot,2.5,2,1,0,45,4100,garden apartment,91.11
+Rehovot,4,4,0,6,112,5800,apartment,51.79
+Rehovot,3,3,0,3,65,4200,apartment,64.62
+Rehovot,1,1,0,1,40,2700,apartment,67.5
+Rehovot,3,3,0,2,70,3900,apartment,55.71
+Rehovot,2,2,0,0,50,3500,housing unit,70
+Rehovot,5,5,0,3,126,7500,apartment,59.52
+Rehovot,3,3,0,2,90,4800,apartment,53.33
+Rehovot,2,2,0,1,42,2800,housing unit,66.67
+Rehovot,5,5,0,0,11111,5000,house,0.45
+Rehovot,1.5,1,1,1,32,3200,housing unit,100
+Rehovot,2,2,0,1,70,3700,apartment,52.86
+Rehovot,1,1,0,0,50,3500,housing unit,70
+Rehovot,3,3,0,2,71,4400,apartment,61.97
+Rehovot,4.5,4,1,3,120,6400,apartment,53.33
+Rehovot,5,5,0,1,110,6150,apartment,55.91
+Rehovot,1,1,0,2,74,4800,apartment,64.86
+Rehovot,2.5,2,1,0,55,4000,apartment,72.73
+Rehovot,5,5,0,2,117,6400,apartment,54.7
+Rehovot,3,3,0,0,180,5800,house,32.22
+Rehovot,3,3,0,1,70,5300,apartment,75.71
+Rehovot,3.5,3,1,2,97,6000,apartment,61.86
+Rehovot,4,4,0,5,125,5700,penthouse,45.6
+Rehovot,3,3,0,1,70,4650,apartment,66.43
+Rehovot,5,5,0,5,142,7500,apartment,52.82
+Rehovot,3,3,0,2,80,5400,apartment,67.5
+Rehovot,4,4,0,1,85,6500,garden apartment,76.47
+Rehovot,3.5,3,1,0,400,6000,house,15
+Rehovot,1.5,1,1,2,22,2800,housing unit,127.27
+Rehovot,3,3,0,4,80,4200,apartment,52.5
+Rehovot,4.5,4,1,0,256,7800,garden apartment,30.47
+Rehovot,1,1,0,0,50,2800,apartment,56
+Rehovot,3,3,0,4,74,3400,apartment,45.95
+Rehovot,3,3,0,2,65,3950,apartment,60.77
+Rehovot,2,2,0,1,40,3200,apartment,80
+Rehovot,4,4,0,4,92,5300,apartment,57.61
+Rehovot,3.5,3,1,2,69,3800,apartment,55.07
+Rehovot,3,3,0,1,65,4000,housing unit,61.54
+Rehovot,3,3,0,2,70,3900,apartment,55.71
+Rehovot,4,4,0,1,97,5500,apartment,56.7
+Rehovot,4,4,0,2,90,5500,apartment,61.11
+Rehovot,2,2,0,0,40,3100,housing unit,77.5
+Rehovot,2.5,2,1,3,52,3900,apartment,75
+Rehovot,1,1,0,1,40,3600,housing unit,90
+Rehovot,4,4,0,6,94,5700,apartment,60.64
+Rehovot,3,3,0,4,70,3350,apartment,47.86
+Rehovot,5,5,0,12,140,7300,apartment,52.14
+Rehovot,4,4,0,5,106,6000,apartment,56.6
+Rehovot,3,3,0,3,60,3800,apartment,63.33
+Rehovot,1.5,1,1,1,25,2700,apartment,108
+Rehovot,4.5,4,1,8,120,5500,apartment,45.83
+Rehovot,3,3,0,1,70,3800,apartment,54.29
+Rehovot,3,3,0,1,100,5000,apartment,50
+Rehovot,3,3,0,0,60,3800,housing unit,63.33
+Rehovot,1,1,0,0,30,2800,basement,93.33
+Rehovot,3.5,3,1,4,81,4600,apartment,56.79
+Rehovot,1,1,0,4,107,10000,apartment,93.46
+Rehovot,3,3,0,2,89,4200,apartment,47.19
+Rehovot,2,2,0,2,40,3000,housing unit,75
+Rehovot,3,3,0,6,85,3700,apartment,43.53
+Rehovot,5.5,5,1,9,135,9500,penthouse,70.37
+Rehovot,4,4,0,5,107,5400,apartment,50.47
+Rehovot,3,3,0,2,60,4000,apartment,66.67
+Rehovot,2,2,0,0,50,3500,housing unit,70
+Rehovot,4,4,0,1,108,6000,apartment,55.56
+Rehovot,1,1,0,1,35,3400,apartment,97.14
+Rehovot,4,4,0,4,116,5800,apartment,50
+Rehovot,2,2,0,1,45,3600,basement,80
+Rehovot,5,5,0,4,50,2800,apartment,56
+Rehovot,4,4,0,3,115,5500,apartment,47.83
+Rehovot,2,2,0,1,55,3900,apartment,70.91
+Rehovot,5,5,0,4,110,4500,apartment,40.91
+Rehovot,3,3,0,1,120,4000,apartment,33.33
+Rehovot,5,5,0,19,270,8500,penthouse,31.48
+Rehovot,2,2,0,1,1,3700,apartment,3700
+Rehovot,3,3,0,1,100,5000,housing unit,50
+Rehovot,3,3,0,1,80,3600,apartment,45
+Rehovot,3.5,3,1,0,130,4500,garden apartment,34.62
+Rehovot,1,1,0,1,84,6000,apartment,71.43
+Rehovot,1,1,0,4,120,7000,apartment,58.33
+Rehovot,5,5,0,10,120,7200,apartment,60
+Rehovot,4,4,0,3,100,5000,apartment,50
+Rehovot,5,5,0,6,141,6400,apartment,45.39
+Rehovot,5,5,0,3,120,7000,apartment,58.33
+Rehovot,1,1,0,0,25,2500,housing unit,100
+Rehovot,3,3,0,2,80,4500,apartment,56.25
+Rehovot,2,2,0,3,1,3500,housing unit,3500
+Rehovot,2,2,0,0,50,3500,housing unit,70
+Rehovot,1.5,1,1,4,35,2800,apartment,80
+Rehovot,3,3,0,2,65,3500,apartment,53.85
+Rehovot,2,2,0,4,46,3000,apartment,65.22
+Rehovot,4,4,0,1,100,6000,apartment,60
+Rehovot,1,1,0,2,104,5600,apartment,53.85
+Rehovot,5,5,0,3,126,7400,apartment,58.73
+Rehovot,3,3,0,3,70,4350,apartment,62.14
+Rehovot,2,2,0,3,35,3200,housing unit,91.43
+Rehovot,2.5,2,1,2,55,3200,apartment,58.18
+Rehovot,4,4,0,2,100,5400,apartment,54
+Rehovot,6,6,0,0,220,10000,house,45.45
+Rehovot,2,2,0,2,40,3900,apartment,97.5
+Rehovot,5,5,0,2,125,6200,apartment,49.6
+Rehovot,5,5,0,14,115,6700,apartment,58.26
+Rehovot,3.5,3,1,4,65,3900,apartment,60
+Rehovot,1.5,1,1,2,30,3000,housing unit,100
+Rehovot,1.5,1,1,0,65,3300,housing unit,50.77
+Rehovot,1,1,0,4,20,3100,other,155
+Rehovot,5,5,0,2,125,6600,apartment,52.8
+Rehovot,2.5,2,1,0,70,3800,basement,54.29
+Rehovot,4.5,4,1,3,100,6000,apartment,60
+Rehovot,3,3,0,4,60,3200,apartment,53.33
+Rehovot,1,1,0,1,36,2000,housing unit,55.56
+Rehovot,2,2,0,0,54,3200,housing unit,59.26
+Rehovot,5,5,0,2,137,6500,apartment,47.45
+Rehovot,4,4,0,4,117,6500,apartment,55.56
+Rehovot,1.5,1,1,4,35,2800,apartment,80
+Rehovot,3,3,0,2,60,4700,apartment,78.33
+Rehovot,2,2,0,2,35,2600,housing unit,74.29
+Rehovot,5,5,0,12,142,7500,apartment,52.82
+Rehovot,3,3,0,3,70,4150,apartment,59.29
+Rehovot,4,4,0,3,107,5300,apartment,49.53
+Rehovot,1.5,1,1,0,30,3000,apartment,100
+Rehovot,4,4,0,8,90,4500,apartment,50
+Rehovot,2.5,2,1,0,360,7000,house,19.44
+Rehovot,3,3,0,2,60,3400,apartment,56.67
+Rehovot,5,5,0,3,85,4600,apartment,54.12
+Rehovot,4,4,0,2,80,3950,apartment,49.38
+Rehovot,5.5,5,1,1,120,6200,apartment,51.67
+Rehovot,4,4,0,4,138,6200,garden apartment,44.93
+Rehovot,1,1,0,1,25,2500,apartment,100
+Rehovot,4.5,4,1,8,100,5500,apartment,55
+Rehovot,4,4,0,1,85,5500,apartment,64.71
+Rehovot,2,2,0,3,30,3250,apartment,108.33
+Rehovot,3,3,0,1,70,4300,apartment,61.43
+Rehovot,4,4,0,11,117,6000,apartment,51.28
+Rehovot,3,3,0,2,80,4500,apartment,56.25
+Rehovot,3,3,0,2,67,4200,apartment,62.69
+Rehovot,2,2,0,1,65,4550,apartment,70
+Rehovot,3,3,0,2,85,4300,apartment,50.59
+Rehovot,3.5,3,1,1,87,4850,apartment,55.75
+Rehovot,2,2,0,0,41,3500,apartment,85.37
+Rehovot,2,2,0,0,40,3500,housing unit,87.5
+Rehovot,2,2,0,1,45,2700,apartment,60
+Rehovot,3,3,0,3,80,4000,apartment,50
+Rehovot,4,4,0,1,87,4400,apartment,50.57
+Rehovot,3,3,0,2,76,4500,apartment,59.21
+Rehovot,2,2,0,2,40,3200,housing unit,80
+Rehovot,2,2,0,0,60,3700,housing unit,61.67
+Rehovot,1,1,0,2,105,6500,apartment,61.9
+Rehovot,2.5,2,1,0,35,3300,house,94.29
+Rehovot,3,3,0,4,100,3700,apartment,37
+Rehovot,3.5,3,1,1,100,4800,apartment,48
+Rehovot,3,3,0,0,70,3900,basement,55.71
+Rehovot,5,5,0,2,137,6500,apartment,47.45
+Rehovot,3,3,0,2,70,3300,apartment,47.14
+Rehovot,4,4,0,3,100,5600,apartment,56
+Rehovot,2,2,0,0,35,2850,housing unit,81.43
+Rehovot,4.5,4,1,3,95,5000,apartment,52.63
+Rehovot,3.5,3,1,4,80,5100,apartment,63.75
+Rehovot,4,4,0,1,90,5400,apartment,60
+Rehovot,1.5,1,1,1,40,2700,housing unit,67.5
+Rehovot,4,4,0,7,110,5100,apartment,46.36
+Rehovot,2,2,0,0,40,2500,basement,62.5
+Rehovot,2,2,0,2,40,3000,housing unit,75
+Rehovot,3,3,0,0,80,4200,house,52.5
+Rehovot,4,4,0,3,114,4200,apartment,36.84
+Rehovot,2,2,0,2,55,4000,apartment,72.73
+Rehovot,1,1,0,1,48,3400,apartment,70.83
+Rehovot,4.5,4,1,2,110,5500,apartment,50
+Rehovot,4,4,0,4,100,5300,apartment,53
+Rehovot,5.5,5,1,17,200,10500,penthouse,52.5
+Rehovot,5,5,0,5,140,6200,apartment,44.29
+Rehovot,3,3,0,1,68,4000,apartment,58.82
+Rehovot,5,5,0,0,200,7500,garden apartment,37.5
+Rehovot,3,3,0,2,70,4250,apartment,60.71
+Rehovot,5,5,0,2,110,5500,apartment,50
+Rehovot,3,3,0,0,96,5500,basement,57.29
+Rehovot,3,3,0,1,100,4600,apartment,46
+Rehovot,4,4,0,2,112,6500,apartment,58.04
+Holon,3,3,0,2,60,4300,apartment,71.67
+Holon,3,3,0,3,80,4500,apartment,56.25
+Holon,4,4,0,1,90,4500,apartment,50
+Holon,3,3,0,1,65,4500,apartment,69.23
+Holon,4,4,0,2,80,6400,apartment,80
+Holon,4,4,0,6,100,7000,apartment,70
+Holon,5,5,0,3,110,7500,apartment,68.18
+Holon,4,4,0,2,90,6400,apartment,71.11
+Holon,3.5,3,1,4,90,6300,apartment,70
+Holon,3,3,0,1,80,4700,apartment,58.75
+Holon,4.5,4,1,3,120,5770,apartment,48.08
+Holon,5.5,5,1,1,142,8000,apartment,56.34
+Holon,3,3,0,5,65,5000,apartment,76.92
+Holon,3.5,3,1,1,62,4800,apartment,77.42
+Holon,4,4,0,2,90,6150,apartment,68.33
+Holon,4,4,0,2,87,5000,apartment,57.47
+Holon,3,3,0,2,65,4200,apartment,64.62
+Holon,4,4,0,1,92,6000,apartment,65.22
+Holon,3,3,0,2,70,4300,apartment,61.43
+Holon,3.5,3,1,3,80,4100,apartment,51.25
+Holon,4,4,0,3,1,6700,apartment,6700
+Holon,2.5,2,1,3,63,4200,apartment,66.67
+Holon,5,5,0,2,144,8500,apartment,59.03
+Holon,4,4,0,3,95,5500,apartment,57.89
+Holon,5,5,0,0,200,8000,garden apartment,40
+Holon,5,5,0,2,130,7200,penthouse,55.38
+Holon,5,5,0,8,235,5700,penthouse,24.26
+Holon,1,1,0,11,22,2300,apartment,104.55
+Holon,5,5,0,3,126,8200,apartment,65.08
+Holon,3,3,0,3,75,4750,apartment,63.33
+Holon,2,2,0,0,50,4900,garden apartment,98
+Holon,5,5,0,7,116,7100,apartment,61.21
+Holon,3,3,0,2,60,4000,apartment,66.67
+Holon,3,3,0,2,62,5700,apartment,91.94
+Holon,2,2,0,1,55,4800,apartment,87.27
+Holon,6,6,0,8,165,8800,apartment,53.33
+Holon,4,4,0,4,100,5000,apartment,50
+Holon,3,3,0,2,70,4200,apartment,60
+Holon,4,4,0,3,110,5499,apartment,49.99
+Holon,5,5,0,2,130,7200,penthouse,55.38
+Holon,4,4,0,1,90,4500,apartment,50
+Holon,5,5,0,5,220,6500,penthouse,29.55
+Holon,4,4,0,4,130,5999,penthouse,46.15
+Holon,2,2,0,1,56,3800,apartment,67.86
+Holon,4,4,0,3,85,5200,apartment,61.18
+Holon,5,5,0,13,115,7700,apartment,66.96
+Holon,3.5,3,1,2,100,4900,apartment,49
+Holon,3,3,0,1,70,5200,apartment,74.29
+Holon,1,1,0,3,80,4600,apartment,57.5
+Holon,3,3,0,3,70,4400,apartment,62.86
+Holon,3.5,3,1,3,75,4400,apartment,58.67
+Holon,4,4,0,1,104,6800,apartment,65.38
+Holon,3,3,0,2,57,4200,apartment,73.68
+Holon,4,4,0,4,95,4950,apartment,52.11
+Holon,3.5,3,1,1,80,5500,apartment,68.75
+Holon,4,4,0,4,75,5150,apartment,68.67
+Holon,3,3,0,4,73,4000,apartment,54.79
+Holon,5.5,5,1,1,130,7000,penthouse,53.85
+Holon,5,5,0,9,120,8700,apartment,72.5
+Holon,3,3,0,2,100,5100,apartment,51
+Holon,2,2,0,3,55,3500,apartment,63.64
+Holon,4,4,0,11,105,6500,apartment,61.9
+Holon,2,2,0,4,85,3950,apartment,46.47
+Holon,5,5,0,3,125,8000,apartment,64
+Holon,2.5,2,1,1,70,4600,apartment,65.71
+Holon,4,4,0,11,89,5300,apartment,59.55
+Holon,5,5,0,1,120,7000,apartment,58.33
+Holon,5,5,0,8,125,8500,apartment,68
+Holon,3.5,3,1,3,80,4500,apartment,56.25
+Holon,3,3,0,6,70,4500,apartment,64.29
+Holon,5,5,0,5,130,8200,apartment,63.08
+Holon,5,5,0,4,1750,10500,apartment,6
+Holon,3,3,0,0,65,4200,garden apartment,64.62
+Holon,3.5,3,1,1,75,5250,apartment,70
+Holon,3.5,3,1,0,80,7000,garden apartment,87.5
+Holon,3,3,0,3,80,4900,apartment,61.25
+Holon,2.5,2,1,4,70,3200,apartment,45.71
+Holon,3,3,0,1,100,3400,apartment,34
+Holon,5,5,0,0,480,10790,house,22.48
+Holon,4,4,0,1,120,6000,apartment,50
+Holon,3,3,0,4,100,6000,apartment,60
+Holon,3,3,0,1,82,4500,apartment,54.88
+Holon,2.5,2,1,2,60,4100,apartment,68.33
+Holon,3,3,0,4,60,4850,apartment,80.83
+Holon,3,3,0,5,70,4500,apartment,64.29
+Holon,1,1,0,1,35,3000,other,85.71
+Holon,4,4,0,4,120,6300,apartment,52.5
+Holon,3.5,3,1,1,180,5500,garden apartment,30.56
+Holon,6,6,0,2,140,7500,duplex,53.57
+Holon,4,4,0,2,120,7250,apartment,60.42
+Holon,3,3,0,4,70,4750,apartment,67.86
+Holon,3.5,3,1,5,80,5900,apartment,73.75
+Holon,2.5,2,1,1,75,4250,apartment,56.67
+Holon,3,3,0,3,56,4600,apartment,82.14
+Holon,4,4,0,1,94,5500,apartment,58.51
+Holon,4,4,0,4,95,5000,apartment,52.63
+Holon,1.5,1,1,1,40,3300,housing unit,82.5
+Holon,2,2,0,2,75,2800,apartment,37.33
+Holon,4,4,0,2,90,4800,apartment,53.33
+Holon,4.5,4,1,1,130,7000,house,53.85
+Holon,2.5,2,1,1,80,4000,apartment,50
+Holon,3.5,3,1,0,90,7200,garden apartment,80
+Holon,2,2,0,0,56,5200,garden apartment,92.86
+Holon,3,3,0,1,65,4499,apartment,69.22
+Holon,4,4,0,2,110,6250,apartment,56.82
+Holon,3,3,0,3,80,4500,apartment,56.25
+Holon,3.5,3,1,1,68,4900,apartment,72.06
+Holon,4,4,0,4,100,6000,apartment,60
+Holon,4,4,0,3,100,6200,apartment,62
+Holon,5,5,0,0,200,8000,garden apartment,40
+Holon,3.5,3,1,2,95,5400,apartment,56.84
+Holon,3.5,3,1,6,88,6500,apartment,73.86
+Holon,3.5,3,1,2,140,5900,penthouse,42.14
+Holon,3,3,0,1,72,4900,apartment,68.06
+Holon,3.5,3,1,2,70,3900,apartment,55.71
+Holon,5,5,0,8,130,8400,penthouse,64.62
+Holon,4,4,0,2,75,4900,apartment,65.33
+Holon,4,4,0,1,120,6100,other,50.83
+Holon,1,1,0,4,70,4300,apartment,61.43
+Holon,5,5,0,0,288,9500,house,32.99
+Holon,3,3,0,0,1,3800,apartment,3800
+Holon,4,4,0,4,90,5500,apartment,61.11
+Holon,4,4,0,1,100,5600,apartment,56
+Holon,4,4,0,1,129,7300,apartment,56.59
+Holon,4,4,0,2,80,5900,apartment,73.75
+Holon,3,3,0,2,55,3850,apartment,70
+Holon,4.5,4,1,5,102,7000,apartment,68.63
+Holon,3,3,0,2,140,6500,penthouse,46.43
+Holon,3,3,0,1,60,4800,garden apartment,80
+Holon,3,3,0,2,70,2500,apartment,35.71
+Holon,5,5,0,1,120,7400,apartment,61.67
+Holon,3.5,3,1,0,280,6000,house,21.43
+Holon,3,3,0,1,72,4900,apartment,68.06
+Holon,4,4,0,3,1,6200,apartment,6200
+Holon,2,2,0,2,50,3650,apartment,73
+Holon,4,4,0,2,80,6000,apartment,75
+Holon,5,5,0,8,130,8400,penthouse,64.62
+Holon,2.5,2,1,3,60,3650,apartment,60.83
+Holon,5,5,0,1,120,8200,apartment,68.33
+Holon,3,3,0,2,65,4250,apartment,65.38
+Holon,5,5,0,4,110,7600,apartment,69.09
+Holon,5,5,0,9,120,7500,apartment,62.5
+Holon,4,4,0,0,250,8500,house,34
+Holon,5,5,0,0,480,10790,house,22.48
+Holon,4,4,0,2,90,6000,apartment,66.67
+Holon,3,3,0,2,60,4300,apartment,71.67
+Holon,4,4,0,0,135,6200,house,45.93
+Holon,3,3,0,3,85,4500,apartment,52.94
+Holon,5,5,0,4,175,10500,apartment,60
+Holon,3.5,3,1,3,85,4900,apartment,57.65
+Holon,4,4,0,1,90,4500,apartment,50
+Holon,4,4,0,4,90,6200,apartment,68.89
+Holon,4,4,0,1,90,5200,apartment,57.78
+Holon,4,4,0,2,95,5600,apartment,58.95
+Holon,2.5,2,1,3,60,3650,apartment,60.83
+Holon,6,6,0,3,260,7000,penthouse,26.92
+Holon,4.5,4,1,4,180,8200,penthouse,45.56
+Holon,4,4,0,3,100,6000,apartment,60
+Holon,3,3,0,0,170,5800,house,34.12
+Holon,4,4,0,2,90,5800,apartment,64.44
+Holon,3,3,0,1,125,6000,garden apartment,48
+Holon,4,4,0,1,85,5200,apartment,61.18
+Holon,3,3,0,0,100,4800,apartment,48
+Holon,5,5,0,12,120,8200,apartment,68.33
+Holon,4,4,0,4,120,5500,apartment,45.83
+Holon,2.5,2,1,1,60,4300,apartment,71.67
+Holon,3,3,0,0,70,3600,other,51.43
+Holon,4,4,0,1,90,5800,apartment,64.44
+Holon,4,4,0,1,90,7000,apartment,77.78
+Holon,3,3,0,2,80,4800,apartment,60
+Holon,5,5,0,2,110,7500,apartment,68.18
+Holon,3,3,0,2,80,4500,apartment,56.25
+Holon,1,1,0,0,115,2900,housing unit,25.22
+Holon,2,2,0,0,120,3300,housing unit,27.5
+Holon,4,4,0,2,95,5600,apartment,58.95
+Holon,6,6,0,5,140,9000,apartment,64.29
+Holon,5,5,0,5,240,6700,penthouse,27.92
+Holon,4,4,0,3,120,6500,penthouse,54.17
+Holon,4,4,0,3,95,5300,apartment,55.79
+Holon,5,5,0,7,120,6900,apartment,57.5
+Holon,3.5,3,1,2,90,5300,apartment,58.89
+Holon,4,4,0,0,300,13500,other,45
+Holon,4,4,0,2,90,6000,apartment,66.67
+Holon,3,3,0,1,70,4200,apartment,60
+Holon,3,3,0,1,70,5000,apartment,71.43
+Holon,3,3,0,3,80,4600,apartment,57.5
+Holon,4.5,4,1,1,110,6500,penthouse,59.09
+Holon,3,3,0,3,70,4200,apartment,60
+Holon,2.5,2,1,1,55,3700,apartment,67.27
+Holon,4,4,0,2,110,5400,apartment,49.09
+Holon,5,5,0,8,130,8400,penthouse,64.62
+Holon,3,3,0,1,70,4200,apartment,60
+Holon,4,4,0,2,84,5300,apartment,63.1
+Holon,3,3,0,3,70,4400,apartment,62.86
+Holon,3.5,3,1,4,90,5500,apartment,61.11
+Holon,4.5,4,1,5,85,5200,apartment,61.18
+Holon,4,4,0,3,78,5500,apartment,70.51
+Holon,3,3,0,1,70,4200,apartment,60
+Holon,3,3,0,1,80,4650,apartment,58.13
+Holon,2.5,2,1,3,52,3800,apartment,73.08
+Holon,3,3,0,3,60,4300,apartment,71.67
+Holon,3,3,0,3,65,5300,apartment,81.54
+Holon,3,3,0,4,80,4700,apartment,58.75
+Holon,1,1,0,1,24,3000,apartment,125
+Holon,4,4,0,1,100,6000,apartment,60
+Holon,2,2,0,1,40,3750,apartment,93.75
+Holon,3,3,0,3,82,5700,apartment,69.51
+Holon,2.5,2,1,0,65,3700,apartment,56.92
+Holon,5,5,0,3,125,7100,apartment,56.8
+Holon,4.5,4,1,1,100,6900,apartment,69
+Holon,3,3,0,2,65,3800,apartment,58.46
+Holon,3,3,0,3,80,4500,apartment,56.25
+Holon,1,1,0,0,18,3200,garden apartment,177.78
+Holon,3,3,0,1,65,4000,apartment,61.54
+Holon,5,5,0,5,120,7000,penthouse,58.33
+Holon,4,4,0,3,110,5900,apartment,53.64
+Holon,3.5,3,1,6,90,5200,apartment,57.78
+Holon,4,4,0,1,120,5600,apartment,46.67
+Holon,6,6,0,8,167,8400,penthouse,50.3
+Holon,4,4,0,5,100,5800,apartment,58
+Holon,3,3,0,3,70,4400,apartment,62.86
+Holon,4.5,4,1,0,250,7000,garden apartment,28
+Holon,3,3,0,2,80,4800,apartment,60
+Holon,3,3,0,3,80,4400,apartment,55
+Holon,4,4,0,1,80,4500,apartment,56.25
+Holon,4,4,0,2,110,5400,apartment,49.09
+Holon,3,3,0,4,70,3800,apartment,54.29
+Holon,4,4,0,4,100,6200,apartment,62
+Holon,2.5,2,1,2,70,4000,apartment,57.14
+Holon,4,4,0,3,100,5700,apartment,57
+Holon,3,3,0,2,65,4500,apartment,69.23
+Holon,3,3,0,2,80,4250,apartment,53.13
+Holon,3,3,0,3,55,4150,apartment,75.45
+Holon,4,4,0,1,140,7000,apartment,50
+Holon,2,2,0,0,65,6000,housing unit,92.31
+Holon,2.5,2,1,3,65,4100,apartment,63.08
+Holon,4.5,4,1,1,92,6500,apartment,70.65
+Holon,3,3,0,3,70,4200,apartment,60
+Holon,1,1,0,2,20,2200,housing unit,110
+Holon,5,5,0,5,180,6900,penthouse,38.33
+Holon,1,1,0,0,40,3000,housing unit,75
+Holon,3,3,0,2,60,3900,apartment,65
+Holon,5,5,0,4,120,8500,apartment,70.83
+Holon,3.5,3,1,3,80,4300,apartment,53.75
+Holon,4,4,0,1,80,4500,apartment,56.25
+Holon,3,3,0,1,75,4200,apartment,56
+Holon,4,4,0,2,120,5000,penthouse,41.67
+Holon,3,3,0,2,70,5900,apartment,84.29
+Holon,3.5,3,1,1,80,4700,apartment,58.75
+Holon,5.5,5,1,8,150,12000,penthouse,80
+Holon,5,5,0,1,130,6500,apartment,50
+Holon,4.5,4,1,1,114,4800,other,42.11
+Holon,3,3,0,2,65,3900,apartment,60
+Holon,6,6,0,8,260,11700,penthouse,45
+Holon,5,5,0,4,110,7700,apartment,70
+Holon,4,4,0,27,110,10500,apartment,95.45
+Holon,2.5,2,1,2,60,4200,apartment,70
+Holon,2.5,2,1,0,54,3600,apartment,66.67
+Holon,5,5,0,5,125,7700,apartment,61.6
+Holon,4,4,0,1,120,6100,other,50.83
+Holon,3.5,3,1,3,80,4300,apartment,53.75
+Holon,2.5,2,1,1,50,4000,apartment,80
+Holon,3.5,3,1,3,90,5500,apartment,61.11
+Holon,3,3,0,5,66,5650,apartment,85.61
+Holon,3,3,0,1,75,4400,apartment,58.67
+Holon,4,4,0,5,100,6000,apartment,60
+Holon,5.5,5,1,2,180,6200,penthouse,34.44
+Holon,3,3,0,3,65,4050,apartment,62.31
+Holon,2.5,2,1,3,65,3800,apartment,58.46
+Holon,3,3,0,1,65,4400,apartment,67.69
+Holon,6,6,0,5,136,8700,apartment,63.97
+Holon,4,4,0,4,159,7000,duplex,44.03
+Holon,3,3,0,3,80,4500,apartment,56.25
+Holon,4,4,0,7,120,6500,apartment,54.17
+Holon,3,3,0,1,60,3800,apartment,63.33
+Holon,4,4,0,5,98,7500,apartment,76.53
+Holon,2.5,2,1,2,60,4200,apartment,70
+Holon,2,2,0,3,50,3300,apartment,66
+Holon,4,4,0,2,100,6000,apartment,60
+Holon,4,4,0,3,100,6700,apartment,67
+Holon,3.5,3,1,0,75,5500,apartment,73.33
+Holon,2.5,2,1,0,55,4500,apartment,81.82
+Holon,4,4,0,1,120,6000,apartment,50
+Holon,3,3,0,1,74,4100,apartment,55.41
+Holon,4,4,0,2,100,7000,apartment,70
+Holon,3.5,3,1,3,65,4400,apartment,67.69
+Holon,3,3,0,2,60,4700,apartment,78.33
+Holon,3,3,0,2,75,4500,apartment,60
+Holon,1,1,0,16,15,3400,apartment,226.67
+Holon,3,3,0,2,70,4400,apartment,62.86
+Holon,4,4,0,4,92,6200,apartment,67.39
+Holon,2.5,2,1,2,80,4300,apartment,53.75
+Holon,3,3,0,4,78,4500,apartment,57.69
+Holon,4,4,0,1,105,7300,apartment,69.52
+Holon,3,3,0,1,70,5300,apartment,75.71
+Holon,3,3,0,1,70,5300,apartment,75.71
+Holon,3,3,0,1,70,4600,apartment,65.71
+Holon,3,3,0,4,70,4550,apartment,65
+Holon,3,3,0,4,70,4550,apartment,65
+Holon,3,3,0,1,70,5300,apartment,75.71
+Holon,3,3,0,3,70,4300,apartment,61.43
+Holon,4.5,4,1,4,150,5500,apartment,36.67
+Holon,2,2,0,7,99,4000,apartment,40.4
+Holon,1,1,0,3,20,2150,apartment,107.5
+Holon,4,4,0,13,95,7500,apartment,78.95
+Holon,5,5,0,4,120,8500,apartment,70.83
+Holon,6,6,0,12,180,17000,penthouse,94.44
+Holon,3.5,3,1,2,85,4800,apartment,56.47
+Holon,1,1,0,-1,29,2900,apartment,100
+Holon,4,4,0,2,100,5500,apartment,55
+Holon,4.5,4,1,3,115,7000,apartment,60.87
+Holon,3,3,0,3,120,5800,apartment,48.33
+Holon,4,4,0,1,113,7800,house,69.03
+Holon,4,4,0,3,100,100,apartment,1
+Holon,3,3,0,3,60,3500,apartment,58.33
+Holon,4,4,0,0,100,7000,house,70
+Holon,3,3,0,3,75,4500,apartment,60
+Holon,2,2,0,4,85,3950,apartment,46.47
+Holon,3,3,0,3,70,5300,apartment,75.71
+Holon,3,3,0,1,70,5000,apartment,71.43
+Holon,3,3,0,2,65,5000,apartment,76.92
+Holon,2.5,2,1,1,50,3300,apartment,66
+Holon,3.5,3,1,6,88,6500,apartment,73.86
+Holon,5,5,0,3,250,7500,penthouse,30
+Holon,3,3,0,0,108,5300,garden apartment,49.07
+Holon,1,1,0,1,37,3300,other,89.19
+Holon,3,3,0,2,74,3800,apartment,51.35
+Holon,5,5,0,5,113,7500,apartment,66.37
+Holon,3,3,0,3,80,4300,apartment,53.75
+Holon,2,2,0,1,55,4000,apartment,72.73
+Holon,4,4,0,1,160,10000,garden apartment,62.5
+Holon,4,4,0,0,135,5900,apartment,43.7
+Holon,5,5,0,4,100,7000,apartment,70
+Holon,5,5,0,4,115,7500,apartment,65.22
+Holon,1,1,0,3,90,4500,apartment,50
+Holon,4,4,0,2,115,5200,apartment,45.22
+Holon,3,3,0,2,70,4800,apartment,68.57
+Holon,4,4,0,2,105,5500,apartment,52.38
+Holon,3,3,0,0,195,6500,garden apartment,33.33
+Holon,3.5,3,1,2,70,4900,apartment,70
+Holon,3.5,3,1,3,86,4600,apartment,53.49
+Holon,5,5,0,9,130,8750,apartment,67.31
+Holon,3.5,3,1,2,90,6000,apartment,66.67
+Holon,1,1,0,3,35,3500,apartment,100
+Holon,1,1,0,1,65,4300,apartment,66.15
+Holon,6.5,6,1,3,200,6800,penthouse,34
+Holon,2.5,2,1,1,50,3300,apartment,66
+Holon,3,3,0,4,80,3250,apartment,40.63
+Holon,3,3,0,2,85,4800,apartment,56.47
+Holon,2,2,0,2,40,3500,apartment,87.5
+Holon,5,5,0,5,120,6300,apartment,52.5
+Holon,4,4,0,2,115,4800,apartment,41.74
+Holon,6,6,0,5,130,8700,apartment,66.92
+Holon,3,3,0,2,95,5100,apartment,53.68
+Holon,3,3,0,2,70,4200,apartment,60
+Holon,2,2,0,2,60,4200,apartment,70
+Holon,3,3,0,3,90,4500,apartment,50
+Holon,4.5,4,1,5,120,6300,apartment,52.5
+Holon,4,4,0,4,100,6000,apartment,60
+Holon,5,5,0,3,250,7500,penthouse,30
+Holon,3,3,0,1,65,4500,housing unit,69.23
+Holon,6.5,6,1,3,200,6800,penthouse,34
+Holon,2,2,0,0,100,4500,garden apartment,45
+Holon,5,5,0,3,125,5500,apartment,44
+Holon,5,5,0,2,145,6800,apartment,46.9
+Holon,3,3,0,0,60,4300,apartment,71.67
+Holon,4,4,0,2,30,2800,apartment,93.33
+Holon,4,4,0,1,120,5400,apartment,45
+Holon,3,3,0,2,70,5300,apartment,75.71
+Holon,3,3,0,3,80,4400,apartment,55
+Holon,2,2,0,3,50,3600,apartment,72
+Holon,1,1,0,2,28,3100,housing unit,110.71
+Holon,3,3,0,1,70,4300,apartment,61.43
+Holon,3,3,0,2,70,4200,apartment,60
+Holon,3,3,0,3,65,3950,apartment,60.77
+Holon,4,4,0,4,87,4200,apartment,48.28
+Holon,2.5,2,1,2,55,4100,apartment,74.55
+Holon,3,3,0,2,70,4100,apartment,58.57
+Holon,3,3,0,0,55,5250,house,95.45
+Holon,3,3,0,0,160,6000,house,37.5
+Holon,3,3,0,2,80,4300,apartment,53.75
+Holon,5,5,0,4,120,7000,apartment,58.33
+Holon,4,4,0,7,100,5600,apartment,56
+Holon,3,3,0,4,80,3700,apartment,46.25
+Holon,3,3,0,3,70,5500,apartment,78.57
+Holon,1.5,1,1,0,30,3500,apartment,116.67
+Holon,4,4,0,3,65,5000,apartment,76.92
+Holon,4,4,0,3,95,6700,apartment,70.53
+Holon,3,3,0,3,90,4500,apartment,50
+Holon,5,5,0,7,120,7300,apartment,60.83
+Holon,4,4,0,1,115,6500,penthouse,56.52
+Holon,4,4,0,3,85,4900,apartment,57.65
+Holon,4,4,0,3,100,6000,apartment,60
+Holon,4,4,0,0,90,8400,garden apartment,93.33
+Holon,3,3,0,0,70,5000,apartment,71.43
+Holon,3.5,3,1,3,80,4200,apartment,52.5
+Holon,5,5,0,2,120,8000,apartment,66.67
+Holon,2,2,0,0,45,3900,apartment,86.67
+Holon,3,3,0,1,60,4500,apartment,75
+Holon,4,4,0,2,80,4500,apartment,56.25
+Holon,1,1,0,3,30,3700,apartment,123.33
+Holon,5,5,0,8,116,8500,apartment,73.28
+Holon,3,3,0,2,75,5600,apartment,74.67
+Holon,4,4,0,2,90,5900,apartment,65.56
+Holon,5,5,0,1,100,3000,apartment,30
+Holon,3,3,0,4,85,4400,apartment,51.76
+Holon,4,4,0,2,75,4600,apartment,61.33
+Holon,2.5,2,1,3,65,4000,apartment,61.54
+Holon,2.5,2,1,2,60,3900,apartment,65
+Holon,3,3,0,2,60,4600,apartment,76.67
+Holon,3,3,0,1,50,3900,apartment,78
+Holon,3,3,0,1,65,4100,apartment,63.08
+Holon,4,4,0,1,90,5300,apartment,58.89
+Holon,5,5,0,2,145,6950,apartment,47.93
+Holon,2,2,0,4,45,4300,apartment,95.56
+Holon,5,5,0,1,114,5500,apartment,48.25
+Holon,5,5,0,2,120,8000,apartment,66.67
+Holon,2.5,2,1,2,75,4500,apartment,60
+Holon,4,4,0,2,105,5900,apartment,56.19
+Holon,4,4,0,3,120,5500,penthouse,45.83
+Holon,5,5,0,7,125,8000,apartment,64
+Holon,3,3,0,3,80,4600,apartment,57.5
+Holon,3.5,3,1,0,160,6900,house,43.13
+Holon,4,4,0,3,100,6900,apartment,69
+Holon,5,5,0,8,130,9500,apartment,73.08
+Holon,4,4,0,1,83,4500,apartment,54.22
+Holon,3,3,0,3,72,5700,apartment,79.17
+Holon,4,4,0,4,100,5600,apartment,56
+Holon,1.5,1,1,1,45,4500,apartment,100
+Holon,3,3,0,0,160,6000,house,37.5
+Holon,3,3,0,4,80,3700,apartment,46.25
+Holon,2,2,0,0,45,3900,apartment,86.67
+Holon,3,3,0,1,65,4950,apartment,76.15
+Holon,3,3,0,3,74,4000,apartment,54.05
+Holon,3,3,0,3,61,4000,apartment,65.57
+Holon,3,3,0,3,80,4900,apartment,61.25
+Holon,1,1,0,0,24,3700,housing unit,154.17
+Holon,1,1,0,1,90,4350,apartment,48.33
+Holon,3.5,3,1,2,78,196,other,2.51
+Holon,3.5,3,1,0,150,6800,house,45.33
+Holon,3.5,3,1,3,53,4600,apartment,86.79
+Holon,2,2,0,2,68,4000,apartment,58.82
+Holon,4,4,0,0,90,5700,apartment,63.33
+Holon,2.5,2,1,2,65,5350,other,82.31
+Holon,3,3,0,0,65,4300,apartment,66.15
+Holon,2,2,0,1,40,3900,apartment,97.5
+Holon,1,1,0,1,30,2850,apartment,95
+Holon,3,3,0,4,70,4100,apartment,58.57
+Holon,3,3,0,3,90,4700,apartment,52.22
+Holon,1,1,0,3,80,3400,apartment,42.5
+Holon,2,2,0,1,40,3500,apartment,87.5
+Holon,4,4,0,8,200,8800,penthouse,44
+Holon,5,5,0,4,180,10000,penthouse,55.56
+Holon,5,5,0,7,110,6000,apartment,54.55
+Holon,4,4,0,0,210,8000,garden apartment,38.1
+Holon,5,5,0,2,200,7500,penthouse,37.5
+Holon,2.5,2,1,1,60,3950,apartment,65.83
+Holon,4,4,0,3,110,5500,apartment,50
+Holon,3,3,0,1,65,4400,apartment,67.69
+Holon,5,5,0,7,130,8000,apartment,61.54
+Holon,1,1,0,0,40,3300,housing unit,82.5
+Holon,3.5,3,1,1,85,4500,apartment,52.94
+Holon,6,6,0,0,350,8000,house,22.86
+Holon,3,3,0,7,75,4000,apartment,53.33
+Holon,5,5,0,3,100,5000,apartment,50
+Holon,5,5,0,5,120,8500,apartment,70.83
+Holon,6,6,0,3,260,7000,penthouse,26.92
+Holon,3.5,3,1,3,80,4200,apartment,52.5
+Holon,2.5,2,1,0,54,3600,apartment,66.67
+Holon,3,3,0,1,65,4700,apartment,72.31
+Holon,3,3,0,3,90,3500,apartment,38.89
+Holon,3,3,0,3,1,4000,apartment,4000
+Holon,3.5,3,1,4,74,4300,apartment,58.11
+Holon,4,4,0,0,250,6900,house,27.6
+Holon,4,4,0,1,110,6800,apartment,61.82
+Holon,4.5,4,1,2,117,6500,apartment,55.56
+Holon,4,4,0,2,90,5400,apartment,60
+Holon,3,3,0,3,48,4200,apartment,87.5
+Holon,3,3,0,2,60,4200,apartment,70
+Holon,3,3,0,4,60,4000,apartment,66.67
+Holon,3,3,0,3,70,5000,apartment,71.43
+Holon,2,2,0,2,50,3800,apartment,76
+Holon,5,5,0,1,135,8500,garden apartment,62.96
+Holon,2,2,0,1,45,3600,apartment,80
+Holon,4.5,4,1,4,110,5600,apartment,50.91
+Holon,3,3,0,2,9033,4600,apartment,0.51
+Holon,6,6,0,6,250,6100,penthouse,24.4
+Holon,3,3,0,3,60,6000,apartment,100
+Holon,1,1,0,1,50,4500,apartment,90
+Holon,4,4,0,2,115,5200,apartment,45.22
+Holon,3,3,0,1,55,5000,housing unit,90.91
+Holon,4,4,0,2,75,4900,apartment,65.33
+Holon,3.5,3,1,2,85,4500,apartment,52.94
+Holon,4,4,0,3,120,5470,apartment,45.58
+Holon,5,5,0,15,130,7500,apartment,57.69
+Holon,3.5,3,1,3,90,4500,apartment,50
+Holon,3,3,0,1,60,4100,apartment,68.33
+Holon,5,5,0,7,125,7800,apartment,62.4
+Holon,3,3,0,2,60,4300,apartment,71.67
+Holon,1,1,0,1,45,4500,other,100
+Holon,3,3,0,4,65,100,apartment,1.54
+Holon,3,3,0,2,60,4400,apartment,73.33
+Holon,5,5,0,2,120,6500,apartment,54.17
+Holon,3,3,0,2,65,3800,apartment,58.46
+Holon,2.5,2,1,4,70,3200,apartment,45.71
+Holon,3,3,0,3,60,4000,apartment,66.67
+Holon,4,4,0,2,165,7900,penthouse,47.88
+Holon,1,1,0,4,85,3950,housing unit,46.47
+Holon,3.5,3,1,2,140,6000,penthouse,42.86
+Holon,3,3,0,1,80,3800,apartment,47.5
+Holon,3.5,3,1,1,73,3500,apartment,47.95
+Holon,3,3,0,1,90,4750,apartment,52.78
+Holon,2,2,0,3,50,4000,apartment,80
+Holon,2,2,0,1,30,3600,housing unit,120
+Holon,3,3,0,1,70,4700,apartment,67.14
+Holon,3,3,0,2,80,4700,apartment,58.75
+Holon,1,1,0,1,36,2800,apartment,77.78
+Holon,4,4,0,2,90,5600,apartment,62.22
+Holon,4,4,0,3,80,5000,apartment,62.5
+Holon,4,4,0,3,70,5100,apartment,72.86
+Holon,2.5,2,1,2,65,4300,apartment,66.15
+Holon,3,3,0,4,60,3700,apartment,61.67
+Holon,4,4,0,0,115,6800,other,59.13
+Holon,4,4,0,1,100,5200,apartment,52
+Holon,5,5,0,1,130,7000,apartment,53.85
+Holon,4,4,0,1,95,7200,apartment,75.79
+Holon,2,2,0,2,40,3500,apartment,87.5
+Holon,4,4,0,2,80,4950,apartment,61.88
+Holon,5,5,0,13,144,8500,apartment,59.03
+Holon,3,3,0,3,70,4200,apartment,60
+Holon,5,5,0,3,128,6600,apartment,51.56
+Holon,3.5,3,1,2,95,5200,garden apartment,54.74
+Holon,5,5,0,6,130,8400,penthouse,64.62
+Holon,1,1,0,0,15,3200,garden apartment,213.33
+Holon,4,4,0,4,110,7000,penthouse,63.64
+Holon,3.5,3,1,2,70,4300,apartment,61.43
+Holon,5,5,0,9,130,8500,apartment,65.38
+Holon,5,5,0,6,200,6500,penthouse,32.5
+Holon,3,3,0,2,74,6000,apartment,81.08
+Holon,5,5,0,3,110,7100,apartment,64.55
+Holon,2.5,2,1,3,60,3900,apartment,65
+Holon,4,4,0,2,80,4950,apartment,61.88
+Holon,3,3,0,0,80,4000,garden apartment,50
+Holon,3,3,0,2,90,4500,apartment,50
+Holon,3,3,0,1,76,4300,apartment,56.58
+Holon,4,4,0,1,86,6000,apartment,69.77
+Holon,3.5,3,1,0,75,5200,apartment,69.33
+Holon,3,3,0,4,52,3750,apartment,72.12
+Holon,4,4,0,6,85,6000,apartment,70.59
+Holon,3,3,0,2,75,5200,apartment,69.33
+Holon,3,3,0,3,80,4500,apartment,56.25
+Holon,4,4,0,2,88,6500,apartment,73.86
+Holon,4,4,0,2,80,5300,penthouse,66.25
+Holon,3,3,0,3,75,4650,apartment,62
+Holon,3,3,0,4,60,4700,apartment,78.33
+Holon,3.5,3,1,2,80,5500,apartment,68.75
+Holon,2,2,0,3,42,2900,apartment,69.05
+Holon,4,4,0,1,88,6200,apartment,70.45
+Holon,4,4,0,3,100,3200,apartment,32
+Holon,3.5,3,1,2,100,6750,apartment,67.5
+Holon,2.5,2,1,3,60,3900,apartment,65
+Holon,5,5,0,8,135,9500,apartment,70.37
+Holon,6,6,0,6,140,9000,apartment,64.29
+Holon,4,4,0,6,95,5000,apartment,52.63
+Holon,5,5,0,7,160,7800,duplex,48.75
+Holon,5,5,0,7,200,9700,penthouse,48.5
+Holon,1,1,0,1,35,4000,housing unit,114.29
+Holon,5.5,5,1,5,120,6300,apartment,52.5
+Holon,6,6,0,0,190,13000,garden apartment,68.42
+Holon,4,4,0,2,96,6200,apartment,64.58
+Holon,4,4,0,2,105,4900,apartment,46.67
+Holon,3,3,0,3,60,4200,apartment,70
+Holon,6,6,0,0,250,15000,house,60
+Holon,5,5,0,7,125,8000,apartment,64
+Holon,5,5,0,2,200,7500,penthouse,37.5
+Holon,3,3,0,5,80,4700,apartment,58.75
+Holon,3.5,3,1,4,85,5400,apartment,63.53
+Holon,3,3,0,1,73,5200,apartment,71.23
+Holon,3,3,0,0,90,4700,apartment,52.22
+Holon,5,5,0,7,130,7500,apartment,57.69
+Holon,4,4,0,5,96,7200,apartment,75
+Holon,5,5,0,9,120,7500,apartment,62.5
+Holon,5,5,0,6,109,6500,penthouse,59.63
+Holon,4,4,0,3,109,5300,apartment,48.62
+Holon,4,4,0,1,100,5500,apartment,55
+Holon,4,4,0,1,104,6100,apartment,58.65
+Holon,3,3,0,1,60,4800,other,80
+Holon,3.5,3,1,2,80,5200,apartment,65
+Holon,2.5,2,1,2,70,3400,apartment,48.57
+Holon,1,1,0,1,1,2000,apartment,2000
+Holon,3,3,0,2,72,5550,apartment,77.08
+Holon,3,3,0,2,50,3500,apartment,70
+Holon,3,3,0,4,75,5300,apartment,70.67
+Holon,2.5,2,1,1,60,3950,apartment,65.83
+Holon,5,5,0,3,125,9300,apartment,74.4
+Holon,3,3,0,1,52,5000,apartment,96.15
+Holon,3,3,0,2,60,3850,other,64.17
+Holon,3.5,3,1,2,85,5500,apartment,64.71
+Holon,4,4,0,2,100,4800,apartment,48
+Holon,5,5,0,8,155,9300,apartment,60
+Holon,3.5,3,1,0,80,6600,house,82.5
+Holon,4,4,0,1,83,4500,apartment,54.22
+Holon,5,5,0,8,120,8000,apartment,66.67
+Holon,2.5,2,1,2,51,3600,apartment,70.59
+Holon,2,2,0,0,40,4000,garden apartment,100
+Holon,4,4,0,2,91,6300,apartment,69.23
+Holon,4,4,0,1,95,5500,apartment,57.89
+Holon,3,3,0,1,75,5500,apartment,73.33
+Holon,5,5,0,1,115,7900,apartment,68.7
+Holon,4,4,0,2,120,5500,apartment,45.83
+Holon,4,4,0,3,81,7200,apartment,88.89
+Holon,5,5,0,2,140,7000,apartment,50
+Holon,2,2,0,3,70,4000,apartment,57.14
+Holon,3,3,0,3,170,3500,apartment,20.59
+Holon,4,4,0,2,100,6000,apartment,60
+Holon,3,3,0,1,70,4200,apartment,60
+Holon,1,1,0,1,100,5800,apartment,58
+Holon,4,4,0,2,80,6000,apartment,75
+Holon,3,3,0,3,62,4500,apartment,72.58
+Holon,3,3,0,1,75,5000,apartment,66.67
+Holon,6,6,0,0,350,12200,house,34.86
+Holon,3,3,0,5,70,4800,apartment,68.57
+Holon,4,4,0,2,76,5200,apartment,68.42
+Holon,4,4,0,0,95,6200,house,65.26
+Holon,3.5,3,1,2,72,4450,apartment,61.81
+Holon,3,3,0,2,80,4500,apartment,56.25
+Holon,4,4,0,0,110,6800,garden apartment,61.82
+Holon,7,7,0,3,130,5200,penthouse,40
+Holon,3,3,0,3,60,4200,apartment,70
+Holon,3,3,0,3,70,4500,apartment,64.29
+Holon,5,5,0,6,195,6700,penthouse,34.36
+Holon,4,4,0,17,173,9500,apartment,54.91
+Holon,3,3,0,4,100,6000,penthouse,60
+Holon,4,4,0,4,112,5000,apartment,44.64
+Holon,2,2,0,1,55,3500,apartment,63.64
+Holon,4.5,4,1,5,100,6800,apartment,68
+Holon,3,3,0,1,55,3850,apartment,70
+Holon,5.5,5,1,9,270,8000,penthouse,29.63
+Holon,3,3,0,3,60,4500,apartment,75
+Holon,3,3,0,1,78,3500,apartment,44.87
+Holon,3,3,0,2,76,4400,apartment,57.89
+Holon,3,3,0,2,80,4000,apartment,50
+Holon,1,1,0,0,40,5200,housing unit,130
+Holon,4,4,0,4,120,8199,apartment,68.33
+Holon,3,3,0,3,70,4900,other,70
+Holon,5,5,0,1,96,6200,apartment,64.58
+Holon,3,3,0,4,80,3800,apartment,47.5
+Holon,3,3,0,2,73,5100,apartment,69.86
+Holon,3.5,3,1,3,80,5300,apartment,66.25
+Holon,3,3,0,3,65,4000,apartment,61.54
+Holon,3,3,0,2,72,4000,apartment,55.56
+Holon,3,3,0,3,60,4200,apartment,70
+Holon,3.5,3,1,5,90,4800,apartment,53.33
+Holon,3,3,0,0,100,6600,house,66
+Holon,3.5,3,1,4,120,5800,apartment,48.33
+Holon,6,6,0,5,240,7300,penthouse,30.42
+Holon,3,3,0,2,65,4300,apartment,66.15
+Holon,3,3,0,3,80,3300,apartment,41.25
+Holon,3,3,0,3,55,4500,apartment,81.82
+Holon,4,4,0,2,110,5000,apartment,45.45
+Holon,2.5,2,1,3,50,3800,apartment,76
+Holon,3,3,0,1,86,4500,apartment,52.33
+Holon,4,4,0,7,130,7200,apartment,55.38
+Holon,2,2,0,3,54,3600,apartment,66.67
+Holon,4,4,0,1,100,5200,apartment,52
+Holon,4,4,0,4,110,7000,apartment,63.64
+Holon,3.5,3,1,3,80,5100,apartment,63.75
+Holon,4,4,0,1,84,5200,apartment,61.9
+Holon,2.5,2,1,2,70,4450,apartment,63.57
+Holon,4,4,0,3,90,5200,penthouse,57.78
+Holon,4,4,0,4,185,5800,penthouse,31.35
+Holon,4,4,0,6,110,5800,apartment,52.73
+Holon,2,2,0,0,60,5600,garden apartment,93.33
+Holon,4,4,0,2,90,6000,apartment,66.67
+Holon,4,4,0,7,120,6000,apartment,50
+Holon,2,2,0,1,55,3200,apartment,58.18
+Holon,4,4,0,4,96,7400,apartment,77.08
+Holon,4,4,0,3,110,5300,apartment,48.18
+Holon,2.5,2,1,2,65,4100,apartment,63.08
+Holon,4,4,0,4,100,5200,apartment,52
+Holon,4,4,0,1,100,5300,apartment,53
+Holon,5,5,0,7,140,8000,apartment,57.14
+Holon,3.5,3,1,3,80,4100,other,51.25
+Holon,3,3,0,1,70,5000,apartment,71.43
+Holon,6,6,0,3,260,7000,penthouse,26.92
+Holon,4.5,4,1,3,120,5500,apartment,45.83
+Holon,3,3,0,1,52,4700,apartment,90.38
+Holon,1,1,0,2,80,5000,apartment,62.5
+Holon,3.5,3,1,7,80,5500,apartment,68.75
+Holon,3,3,0,2,60,4000,apartment,66.67
+Holon,3,3,0,1,98,5900,apartment,60.2
+Holon,3,3,0,1,70,4700,apartment,67.14
+Holon,3,3,0,1,70,4500,apartment,64.29
+Holon,3,3,0,7,75,4800,apartment,64
+Holon,4,4,0,2,80,5900,apartment,73.75
+Holon,3.5,3,1,1,180,5000,apartment,27.78
+Holon,3,3,0,3,75,4950,apartment,66
+Holon,5,5,0,6,140,8000,apartment,57.14
+Holon,1,1,0,1,27,3000,housing unit,111.11
+Holon,1,1,0,0,45,3650,apartment,81.11
+Holon,1,1,0,1,20,3000,housing unit,150
+Holon,4,4,0,8,100,6900,apartment,69
+Holon,2.5,2,1,1,50,4000,apartment,80
+Holon,3,3,0,3,94,4800,apartment,51.06
+Holon,3,3,0,4,55,3500,apartment,63.64
+Holon,4,4,0,2,110,5300,apartment,48.18
+Holon,4.5,4,1,5,96,4900,apartment,51.04
+Holon,5,5,0,6,130,7800,apartment,60
+Holon,1.5,1,1,1,30,3300,apartment,110
+Holon,3,3,0,2,85,4750,apartment,55.88
+Holon,5,5,0,5,125,7700,apartment,61.6
+Holon,5,5,0,3,162,9400,apartment,58.02
+Holon,2.5,2,1,3,70,3800,apartment,54.29
+Holon,3,3,0,1,80,5100,apartment,63.75
+Holon,5,5,0,9,125,7500,apartment,60
+Holon,4,4,0,1,110,6150,apartment,55.91
+Holon,3,3,0,4,68,4250,apartment,62.5
+Holon,3,3,0,1,74,4100,apartment,55.41
+Holon,4,4,0,2,100,5950,apartment,59.5
+Holon,5,5,0,0,320,9500,garden apartment,29.69
+Bat Yam,2,2,0,18,50,6000,apartment,120
+Bat Yam,2,2,0,3,56,3700,apartment,66.07
+Bat Yam,5,5,0,24,147,8700,apartment,59.18
+Bat Yam,3,3,0,1,80,5600,apartment,70
+Bat Yam,4,4,0,2,82,5000,apartment,60.98
+Bat Yam,2.5,2,1,3,58,4500,apartment,77.59
+Bat Yam,3,3,0,3,80,4500,apartment,56.25
+Bat Yam,4,4,0,32,118,8500,apartment,72.03
+Bat Yam,2.5,2,1,4,75,3900,apartment,52
+Bat Yam,4,4,0,2,95,6500,apartment,68.42
+Bat Yam,3,3,0,1,65,3800,apartment,58.46
+Bat Yam,3.5,3,1,2,84,5200,apartment,61.9
+Bat Yam,3,3,0,3,80,4500,apartment,56.25
+Bat Yam,4,4,0,4,117,7300,apartment,62.39
+Bat Yam,3,3,0,1,65,4500,apartment,69.23
+Bat Yam,3.5,3,1,4,90,5190,apartment,57.67
+Bat Yam,5,5,0,0,140,9500,garden apartment,67.86
+Bat Yam,5,5,0,1,100,7800,apartment,78
+Bat Yam,3,3,0,2,90,8750,apartment,97.22
+Bat Yam,4,4,0,7,240,15000,penthouse,62.5
+Bat Yam,2.5,2,1,2,82,4100,apartment,50
+Bat Yam,5,5,0,14,129,7900,apartment,61.24
+Bat Yam,3,3,0,2,72,4200,apartment,58.33
+Bat Yam,3,3,0,2,60,5500,apartment,91.67
+Bat Yam,4,4,0,3,96,5200,apartment,54.17
+Bat Yam,2.5,2,1,2,70,4200,apartment,60
+Bat Yam,2,2,0,18,50,7000,apartment,140
+Bat Yam,5,5,0,3,113,6000,apartment,53.1
+Bat Yam,4,4,0,8,125,5700,apartment,45.6
+Bat Yam,3,3,0,13,90,7200,apartment,80
+Bat Yam,2,2,0,12,50,5500,apartment,110
+Bat Yam,2,2,0,11,42,8500,apartment,202.38
+Bat Yam,3,3,0,1,95,4600,apartment,48.42
+Bat Yam,4.5,4,1,2,95,5700,apartment,60
+Bat Yam,3,3,0,0,70,5600,garden apartment,80
+Bat Yam,2,2,0,0,58,4000,apartment,68.97
+Bat Yam,2,2,0,1,40,3350,apartment,83.75
+Bat Yam,2,2,0,0,48,3700,apartment,77.08
+Bat Yam,2,2,0,5,45,5000,apartment,111.11
+Bat Yam,5,5,0,24,147,8700,apartment,59.18
+Bat Yam,5,5,0,33,128,8200,apartment,64.06
+Bat Yam,4,4,0,22,160,9000,apartment,56.25
+Bat Yam,2.5,2,1,2,50,3600,apartment,72
+Bat Yam,3,3,0,3,70,4200,apartment,60
+Bat Yam,3,3,0,6,90,5900,apartment,65.56
+Bat Yam,3,3,0,3,70,4200,apartment,60
+Bat Yam,3,3,0,2,70,4400,apartment,62.86
+Bat Yam,2.5,2,1,3,60,4100,apartment,68.33
+Bat Yam,3,3,0,2,73,5350,apartment,73.29
+Bat Yam,4,4,0,1,100,6900,apartment,69
+Bat Yam,4,4,0,2,120,7500,apartment,62.5
+Bat Yam,3,3,0,3,80,4300,apartment,53.75
+Bat Yam,4,4,0,2,120,4000,apartment,33.33
+Bat Yam,2.5,2,1,3,65,4700,apartment,72.31
+Bat Yam,3.5,3,1,7,98,5500,apartment,56.12
+Bat Yam,4,4,0,2,100,5600,apartment,56
+Bat Yam,3,3,0,27,105,8200,apartment,78.1
+Bat Yam,2.5,2,1,2,60,4200,apartment,70
+Bat Yam,3,3,0,6,83,7000,apartment,84.34
+Bat Yam,2,2,0,4,63,4190,apartment,66.51
+Bat Yam,2,2,0,0,55,5200,garden apartment,94.55
+Bat Yam,4,4,0,5,114,8800,apartment,77.19
+Bat Yam,4,4,0,4,100,5900,apartment,59
+Bat Yam,2.5,2,1,0,55,3500,apartment,63.64
+Bat Yam,2,2,0,0,60,3200,apartment,53.33
+Bat Yam,4,4,0,30,148,9200,apartment,62.16
+Bat Yam,4.5,4,1,1,105,5400,penthouse,51.43
+Bat Yam,3.5,3,1,2,90,4000,apartment,44.44
+Bat Yam,2,2,0,18,50,6000,apartment,120
+Bat Yam,5.5,5,1,25,320,24000,penthouse,75
+Bat Yam,8.5,8,1,4,450,15500,penthouse,34.44
+Bat Yam,4,4,0,1,100,6000,apartment,60
+Bat Yam,3,3,0,3,75,2800,apartment,37.33
+Bat Yam,3,3,0,22,125,8000,apartment,64
+Bat Yam,3,3,0,5,90,8500,apartment,94.44
+Bat Yam,4,4,0,7,110,7500,apartment,68.18
+Bat Yam,2,2,0,0,60,4300,garden apartment,71.67
+Bat Yam,3,3,0,1,70,4600,apartment,65.71
+Bat Yam,3,3,0,3,70,3800,apartment,54.29
+Bat Yam,2,2,0,5,38,4000,apartment,105.26
+Bat Yam,3,3,0,1,85,4700,apartment,55.29
+Bat Yam,3,3,0,3,61,4500,apartment,73.77
+Bat Yam,2.5,2,1,3,62,4000,apartment,64.52
+Bat Yam,2.5,2,1,4,60,4200,apartment,70
+Bat Yam,4,4,0,1,80,4700,apartment,58.75
+Bat Yam,2,2,0,0,55,4400,apartment,80
+Bat Yam,3,3,0,27,95,8200,apartment,86.32
+Bat Yam,3,3,0,3,87,4500,apartment,51.72
+Bat Yam,1,1,0,2,16,2700,housing unit,168.75
+Bat Yam,4,4,0,2,80,4900,apartment,61.25
+Bat Yam,3,3,0,1,80,4200,apartment,52.5
+Bat Yam,3,3,0,2,60,3500,apartment,58.33
+Bat Yam,3.5,3,1,3,75,4300,apartment,57.33
+Bat Yam,1,1,0,11,20,3850,housing unit,192.5
+Bat Yam,2,2,0,1,35,250,apartment,7.14
+Bat Yam,1.5,1,1,0,51,4000,apartment,78.43
+Bat Yam,1,1,0,2,30,2900,housing unit,96.67
+Bat Yam,2.5,2,1,1,79,4500,apartment,56.96
+Bat Yam,2,2,0,1,70,3700,apartment,52.86
+Bat Yam,3,3,0,16,80,8500,apartment,106.25
+Bat Yam,3,3,0,2,80,6300,apartment,78.75
+Bat Yam,4,4,0,12,112,8000,other,71.43
+Bat Yam,3,3,0,1,70,4500,apartment,64.29
+Bat Yam,1,1,0,5,25,4200,other,168
+Bat Yam,3,3,0,2,85,5500,apartment,64.71
+Bat Yam,4,4,0,4,150,6700,penthouse,44.67
+Bat Yam,3,3,0,3,75,4300,apartment,57.33
+Bat Yam,3,3,0,15,80,9000,apartment,112.5
+Bat Yam,3,3,0,4,70,3500,apartment,50
+Bat Yam,3,3,0,2,80,4300,apartment,53.75
+Bat Yam,4,4,0,23,100,12000,apartment,120
+Bat Yam,4,4,0,4,95,5000,apartment,52.63
+Bat Yam,3,3,0,4,79,7000,apartment,88.61
+Bat Yam,3,3,0,2,75,4250,apartment,56.67
+Bat Yam,2,2,0,9,45,5000,apartment,111.11
+Bat Yam,5,5,0,10,125,7750,apartment,62
+Bat Yam,4,4,0,22,105,8700,apartment,82.86
+Bat Yam,2.5,2,1,4,67,3850,apartment,57.46
+Bat Yam,3,3,0,3,64,5000,apartment,78.13
+Bat Yam,2.5,2,1,2,54,4200,apartment,77.78
+Bat Yam,2.5,2,1,1,80,4600,garden apartment,57.5
+Bat Yam,2.5,2,1,1,40,3500,apartment,87.5
+Bat Yam,3,3,0,1,71,4500,apartment,63.38
+Bat Yam,4,4,0,2,100,7200,apartment,72
+Bat Yam,2,2,0,0,33,3800,apartment,115.15
+Bat Yam,3,3,0,3,75,5200,apartment,69.33
+Bat Yam,3.5,3,1,4,85,5200,apartment,61.18
+Bat Yam,3.5,3,1,3,110,5600,apartment,50.91
+Bat Yam,5,5,0,4,145,7800,apartment,53.79
+Bat Yam,4,4,0,1,80,4900,apartment,61.25
+Bat Yam,2.5,2,1,4,60,4300,apartment,71.67
+Bat Yam,2.5,2,1,0,70,3750,apartment,53.57
+Bat Yam,2,2,0,3,55,4000,apartment,72.73
+Bat Yam,2,2,0,4,56,4000,housing unit,71.43
+Bat Yam,3,3,0,1,85,4200,apartment,49.41
+Bat Yam,3,3,0,7,85,6700,apartment,78.82
+Bat Yam,3,3,0,1,52,7000,apartment,134.62
+Bat Yam,3,3,0,1,70,4000,apartment,57.14
+Bat Yam,3.5,3,1,3,93,3500,apartment,37.63
+Bat Yam,2,2,0,3,56,3700,apartment,66.07
+Bat Yam,4,4,0,5,100,7800,apartment,78
+Bat Yam,2,2,0,3,57,3800,apartment,66.67
+Bat Yam,1,1,0,0,40,3300,garden apartment,82.5
+Bat Yam,2,2,0,3,60,4200,apartment,70
+Bat Yam,2,2,0,0,60,4500,garden apartment,75
+Bat Yam,4,4,0,4,90,6800,apartment,75.56
+Bat Yam,4,4,0,3,133,7200,duplex,54.14
+Bat Yam,4,4,0,6,90,8500,apartment,94.44
+Bat Yam,4,4,0,32,120,10000,apartment,83.33
+Bat Yam,2,2,0,0,42,3300,apartment,78.57
+Bat Yam,3,3,0,9,82,6500,apartment,79.27
+Bat Yam,4,4,0,6,103,7000,apartment,67.96
+Bat Yam,4,4,0,2,100,6499,apartment,64.99
+Bat Yam,5,5,0,12,145,9000,apartment,62.07
+Bat Yam,3,3,0,2,107,6400,apartment,59.81
+Bat Yam,3.5,3,1,3,90,5700,apartment,63.33
+Bat Yam,3,3,0,2,74,4300,apartment,58.11
+Bat Yam,3,3,0,3,80,4300,apartment,53.75
+Bat Yam,2.5,2,1,4,64,4000,apartment,62.5
+Bat Yam,5,5,0,3,120,6000,apartment,50
+Bat Yam,3,3,0,1,75,4500,apartment,60
+Bat Yam,3,3,0,2,88,6000,apartment,68.18
+Bat Yam,4,4,0,20,120,8400,apartment,70
+Bat Yam,5,5,0,5,190,9200,penthouse,48.42
+Bat Yam,3,3,0,0,80,4400,apartment,55
+Bat Yam,3,3,0,1,60,4800,apartment,80
+Bat Yam,3,3,0,1,55,4900,apartment,89.09
+Bat Yam,1,1,0,0,20,2500,apartment,125
+Bat Yam,2.5,2,1,2,75,4200,apartment,56
+Bat Yam,2,2,0,0,30,3500,housing unit,116.67
+Bat Yam,3,3,0,3,70,3950,apartment,56.43
+Bat Yam,4,4,0,1,90,5500,apartment,61.11
+Bat Yam,3,3,0,1,55,4700,apartment,85.45
+Bat Yam,3,3,0,29,95,8200,apartment,86.32
+Bat Yam,4,4,0,34,100,8600,apartment,86
+Bat Yam,3,3,0,5,90,6500,apartment,72.22
+Bat Yam,4.5,4,1,3,85,4800,apartment,56.47
+Bat Yam,4,4,0,24,285,11800,penthouse,41.4
+Bat Yam,5,5,0,33,370,20000,penthouse,54.05
+Bat Yam,3,3,0,0,190,7500,garden apartment,39.47
+Bat Yam,4,4,0,5,96,8500,apartment,88.54
+Bat Yam,2,2,0,0,59,4000,apartment,67.8
+Bat Yam,2,2,0,5,35,3900,apartment,111.43
+Bat Yam,3,3,0,1,73,4900,apartment,67.12
+Bat Yam,3,3,0,1,70,5200,apartment,74.29
+Bat Yam,4,4,0,6,110,6000,apartment,54.55
+Bat Yam,2,2,0,8,60,4700,apartment,78.33
+Bat Yam,5,5,0,22,130,9100,apartment,70
+Bat Yam,3,3,0,28,75,6800,apartment,90.67
+Bat Yam,2,2,0,0,25,3000,housing unit,120
+Bat Yam,4,4,0,13,98,7800,apartment,79.59
+Bat Yam,4,4,0,22,160,9000,apartment,56.25
+Bat Yam,3,3,0,29,94,8200,apartment,87.23
+Bat Yam,5,5,0,15,150,9000,apartment,60
+Bat Yam,4,4,0,6,106,5800,apartment,54.72
+Bat Yam,5,5,0,2,121,6000,apartment,49.59
+Bat Yam,2.5,2,1,4,65,3800,apartment,58.46
+Bat Yam,3,3,0,3,64,4400,apartment,68.75
+Bat Yam,3,3,0,3,75,3800,apartment,50.67
+Bat Yam,2.5,2,1,4,70,5000,apartment,71.43
+Bat Yam,3.5,3,1,1,80,5000,apartment,62.5
+Bat Yam,2,2,0,4,70,3500,apartment,50
+Bat Yam,1,1,0,3,35,4200,apartment,120
+Bat Yam,3,3,0,2,65,4800,apartment,73.85
+Bat Yam,3,3,0,11,85,7000,apartment,82.35
+Bat Yam,3,3,0,0,60,4200,apartment,70
+Bat Yam,1,1,0,1,47,4200,housing unit,89.36
+Bat Yam,2,2,0,2,50,3600,apartment,72
+Bat Yam,3,3,0,1,82,4500,apartment,54.88
+Bat Yam,2,2,0,4,58,4000,apartment,68.97
+Bat Yam,1.5,1,1,1,70,3650,apartment,52.14
+Bat Yam,3,3,0,1,68,4200,apartment,61.76
+Bat Yam,4,4,0,13,98,7800,apartment,79.59
+Bat Yam,2,2,0,1,50,4200,apartment,84
+Bat Yam,1.5,1,1,0,20,2950,apartment,147.5
+Bat Yam,5,5,0,14,125,8000,apartment,64
+Bat Yam,4,4,0,2,90,5800,apartment,64.44
+Bat Yam,1.5,1,1,0,30,2700,apartment,90
+Bat Yam,4,4,0,1,85,5800,apartment,68.24
+Bat Yam,2,2,0,0,38,2500,apartment,65.79
+Bat Yam,3,3,0,1,90,5200,apartment,57.78
+Bat Yam,3.5,3,1,2,83,5200,apartment,62.65
+Bat Yam,3,3,0,1,70,4950,apartment,70.71
+Bat Yam,2,2,0,0,55,3900,apartment,70.91
+Bat Yam,2,2,0,2,60,4000,apartment,66.67
+Bat Yam,3,3,0,14,91,7000,apartment,76.92
+Bat Yam,2.5,2,1,2,55,3500,apartment,63.64
+Bat Yam,4,4,0,0,250,7500,house,30
+Bat Yam,3,3,0,1,60,4300,apartment,71.67
+Bat Yam,2.5,2,1,2,30,3600,apartment,120
+Bat Yam,1,1,0,1,15,2600,housing unit,173.33
+Bat Yam,2.5,2,1,2,70,4150,apartment,59.29
+Bat Yam,2,2,0,1,35,2800,apartment,80
+Bat Yam,2,2,0,1,63,3600,apartment,57.14
+Bat Yam,2,2,0,0,44,3200,apartment,72.73
+Bat Yam,3,3,0,1,74,4800,apartment,64.86
+Bat Yam,4,4,0,6,112,7500,apartment,66.96
+Bat Yam,3,3,0,1,65,3900,apartment,60
+Bat Yam,2,2,0,4,60,3850,apartment,64.17
+Bat Yam,3.5,3,1,1,65,3800,apartment,58.46
+Bat Yam,3.5,3,1,3,75,4500,apartment,60
+Bat Yam,3,3,0,4,74,4600,apartment,62.16
+Bat Yam,4,4,0,2,100,6000,apartment,60
+Bat Yam,3,3,0,3,74,4400,apartment,59.46
+Bat Yam,3,3,0,1,66,4000,apartment,60.61
+Bat Yam,2,2,0,0,55,3900,apartment,70.91
+Bat Yam,3,3,0,4,85,5800,apartment,68.24
+Bat Yam,3.5,3,1,3,90,4200,apartment,46.67
+Bat Yam,4,4,0,4,98,6800,apartment,69.39
+Bat Yam,3,3,0,1,65,6200,apartment,95.38
+Bat Yam,4,4,0,2,100,5400,apartment,54
+Bat Yam,3,3,0,2,90,4600,apartment,51.11
+Bat Yam,3,3,0,3,85,4000,apartment,47.06
+Bat Yam,3,3,0,28,75,6900,apartment,92
+Bat Yam,4.5,4,1,3,110,5500,penthouse,50
+Bat Yam,3,3,0,3,67,4900,apartment,73.13
+Bat Yam,4,4,0,14,114,9000,apartment,78.95
+Bat Yam,3,3,0,2,75,4250,apartment,56.67
+Bat Yam,4,4,0,1,120,8500,apartment,70.83
+Bat Yam,2,2,0,1,50,3750,apartment,75
+Bat Yam,6,6,0,33,260,26000,duplex,100
+Bat Yam,4.5,4,1,1,105,5400,penthouse,51.43
+Bat Yam,2.5,2,1,1,250,3700,garden apartment,14.8
+Bat Yam,4,4,0,4,80,4999,apartment,62.49
+Bat Yam,3.5,3,1,4,80,4900,apartment,61.25
+Bat Yam,5,5,0,30,146,15000,apartment,102.74
+Bat Yam,2.5,2,1,1,45,4500,apartment,100
+Bat Yam,2.5,2,1,2,55,3900,apartment,70.91
+Bat Yam,3,3,0,1,80,4950,apartment,61.88
+Bat Yam,5,5,0,4,120,8500,penthouse,70.83
+Bat Yam,2.5,2,1,3,60,4400,apartment,73.33
+Bat Yam,3,3,0,3,74,4200,apartment,56.76
+Bat Yam,2,2,0,0,65,4200,garden apartment,64.62
+Bat Yam,3,3,0,1,60,4250,apartment,70.83
+Bat Yam,1,1,0,1,24,4800,apartment,200
+Bat Yam,3,3,0,4,76,6000,apartment,78.95
+Bat Yam,1,1,0,4,25,3250,housing unit,130
+Bat Yam,3,3,0,3,68,4900,apartment,72.06
+Bat Yam,3,3,0,4,80,4950,apartment,61.88
+Bat Yam,2.5,2,1,2,76,3000,apartment,39.47
+Bat Yam,5,5,0,0,600,10999,garden apartment,18.33
+Bat Yam,3,3,0,2,65,4300,apartment,66.15
+Bat Yam,2,2,0,1,40,3200,apartment,80
+Bat Yam,4,4,0,2,85,5000,apartment,58.82
+Bat Yam,2,2,0,4,60,3800,apartment,63.33
+Bat Yam,3,3,0,3,65,3900,apartment,60
+Bat Yam,3.5,3,1,2,92,5200,apartment,56.52
+Bat Yam,4,4,0,2,95,6900,apartment,72.63
+Bat Yam,3,3,0,2,70,3650,apartment,52.14
+Bat Yam,3.5,3,1,3,100,5500,apartment,55
+Bat Yam,2.5,2,1,3,60,3500,apartment,58.33
+Bat Yam,3.5,3,1,3,84,4000,apartment,47.62
+Bat Yam,2.5,2,1,2,65,4700,apartment,72.31
+Bat Yam,3,3,0,2,90,4700,apartment,52.22
+Bat Yam,3,3,0,8,90,7000,apartment,77.78
+Bat Yam,2,2,0,0,55,4500,apartment,81.82
+Bat Yam,3,3,0,1,65,4000,apartment,61.54
+Bat Yam,4,4,0,23,114,10000,apartment,87.72
+Bat Yam,3,3,0,20,117,8000,apartment,68.38
+Bat Yam,5.5,5,1,33,220,25000,penthouse,113.64
+Bat Yam,2,2,0,4,35,3600,housing unit,102.86
+Bat Yam,4,4,0,7,100,8500,apartment,85
+Bat Yam,3,3,0,2,85,5100,apartment,60
+Bat Yam,3,3,0,2,72,4500,apartment,62.5
+Bat Yam,4,4,0,2,100,6600,apartment,66
+Bat Yam,3,3,0,1,80,5300,apartment,66.25
+Bat Yam,3.5,3,1,3,75,3800,apartment,50.67
+Bat Yam,3,3,0,3,68,6300,apartment,92.65
+Bat Yam,2.5,2,1,0,67,4000,apartment,59.7
+Bat Yam,3,3,0,1,75,3950,apartment,52.67
+Bat Yam,1,1,0,1,7,2100,apartment,300
+Bat Yam,1.5,1,1,3,40,3500,apartment,87.5
+Bat Yam,1,1,0,0,125,7500,garden apartment,60
+Bat Yam,4,4,0,1,90,5450,apartment,60.56
+Bat Yam,3,3,0,2,75,4300,apartment,57.33
+Bat Yam,3.5,3,1,2,115,5000,apartment,43.48
+Bat Yam,2,2,0,3,67,4500,apartment,67.16
+Bat Yam,1,1,0,1,60,4200,apartment,70
+Bat Yam,4,4,0,23,114,10000,apartment,87.72
+Bat Yam,4,4,0,5,85,6000,apartment,70.59
+Bat Yam,6,6,0,33,250,26000,duplex,104
+Bat Yam,3,3,0,2,65,4200,apartment,64.62
+Bat Yam,4,4,0,1,105,6500,apartment,61.9
+Bat Yam,3,3,0,1,75,4300,apartment,57.33
+Bat Yam,1,1,0,0,40,2800,garden apartment,70
+Bat Yam,4,4,0,13,112,9500,other,84.82
+Bat Yam,3,3,0,1,71,5400,apartment,76.06
+Bat Yam,2,2,0,5,45,5000,apartment,111.11
+Bat Yam,4,4,0,6,100,5500,apartment,55
+Bat Yam,4,4,0,2,95,6900,apartment,72.63
+Bat Yam,2,2,0,0,40,3250,apartment,81.25
+Bat Yam,3.5,3,1,3,95,6000,apartment,63.16
+Bat Yam,3,3,0,2,90,4600,apartment,51.11
+Bat Yam,5,5,0,12,125,8250,apartment,66
+Bat Yam,4,4,0,11,100,11900,apartment,119
+Bat Yam,3,3,0,3,70,3800,apartment,54.29
+Bat Yam,2,2,0,16,150,550,penthouse,3.67
+Bat Yam,2,2,0,2,55,3500,apartment,63.64
+Bat Yam,4,4,0,3,85,5500,apartment,64.71
+Bat Yam,1,1,0,1,30,3300,housing unit,110
+Bat Yam,2,2,0,0,60,4200,apartment,70
+Bat Yam,2.5,2,1,2,56,4500,apartment,80.36
+Bat Yam,3,3,0,4,75,4200,apartment,56
+Bat Yam,2.5,2,1,3,55,4200,apartment,76.36
+Bat Yam,1,1,0,4,75,4700,apartment,62.67
+Bat Yam,3.5,3,1,1,85,5400,apartment,63.53
+Bat Yam,3,3,0,6,180,7500,penthouse,41.67
+Bat Yam,3,3,0,3,65,2900,other,44.62
+Bat Yam,3,3,0,1,100,5400,apartment,54
+Bat Yam,2.5,2,1,4,70,4400,apartment,62.86
+Bat Yam,3.5,3,1,3,74,4450,apartment,60.14
+Bat Yam,4,4,0,2,100,5900,apartment,59
+Bat Yam,5,5,0,18,200,13000,penthouse,65
+Bat Yam,2,2,0,2,40,4500,apartment,112.5
+Bat Yam,5,5,0,12,125,8250,apartment,66
+Bat Yam,3,3,0,2,70,4200,apartment,60
+Bat Yam,1,1,0,0,35,3200,apartment,91.43
+Bat Yam,1,1,0,9,30,3750,apartment,125
+Bat Yam,2,2,0,12,50,7500,apartment,150
+Bat Yam,3,3,0,3,79,5800,apartment,73.42
+Bat Yam,4,4,0,4,90,6700,apartment,74.44
+Bat Yam,5,5,0,10,130,9000,apartment,69.23
+Bat Yam,3,3,0,1,65,3500,apartment,53.85
+Bat Yam,3,3,0,2,75,4100,apartment,54.67
+Bat Yam,3,3,0,3,75,4350,apartment,58
+Bat Yam,3,3,0,4,80,5000,apartment,62.5
+Bat Yam,2.5,2,1,2,65,4200,apartment,64.62
+Bat Yam,5,5,0,0,117,8800,apartment,75.21
+Bat Yam,3.5,3,1,2,80,5500,apartment,68.75
+Bat Yam,3,3,0,2,107,6400,apartment,59.81
+Bat Yam,3.5,3,1,29,120,7999,apartment,66.66
+Bat Yam,2,2,0,4,60,3600,apartment,60
+Bat Yam,3,3,0,3,80,4250,apartment,53.13
+Bat Yam,3,3,0,4,1,4100,apartment,4100
+Bat Yam,1,1,0,1,50,3200,apartment,64
+Bat Yam,4,4,0,1,86,6300,apartment,73.26
+Bat Yam,3,3,0,4,80,4900,apartment,61.25
+Bat Yam,3,3,0,4,70,4300,apartment,61.43
+Bat Yam,3,3,0,3,92,5400,apartment,58.7
+Bat Yam,1,1,0,1,80,4700,apartment,58.75
+Bat Yam,3.5,3,1,3,80,6000,apartment,75
+Bat Yam,2,2,0,1,32,3500,apartment,109.38
+Bat Yam,1,1,0,3,40,3480,apartment,87
+Bat Yam,2,2,0,2,60,5000,apartment,83.33
+Bat Yam,3,3,0,1,65,4500,apartment,69.23
+Bat Yam,3,3,0,5,104,7200,apartment,69.23
+Bat Yam,4,4,0,2,95,5200,apartment,54.74
+Bat Yam,2.5,2,1,1,45,4000,apartment,88.89
+Bat Yam,5,5,0,5,170,10500,apartment,61.76
+Bat Yam,3,3,0,3,85,4800,apartment,56.47
+Bat Yam,2,2,0,11,50,4750,apartment,95
+Bat Yam,4,4,0,3,120,6999,apartment,58.33
+Bat Yam,5,5,0,12,145,9000,apartment,62.07
+Bat Yam,5,5,0,8,136,8500,apartment,62.5
+Bat Yam,5,5,0,23,130,10250,apartment,78.85
+Bat Yam,1.5,1,1,1,30,2900,housing unit,96.67
+Bat Yam,5,5,0,39,130,9700,other,74.62
+Bat Yam,4,4,0,2,112,10500,apartment,93.75
+Bat Yam,4,4,0,22,150,8600,apartment,57.33
+Bat Yam,4,4,0,1,85,5800,apartment,68.24
+Bat Yam,3,3,0,3,75,4000,apartment,53.33
+Bat Yam,3,3,0,5,96,6800,apartment,70.83
+Bat Yam,2,2,0,2,60,4000,apartment,66.67
+Bat Yam,2,2,0,10,40,5200,apartment,130
+Bat Yam,3,3,0,20,82,8800,apartment,107.32
+Bat Yam,3.5,3,1,3,85,5900,apartment,69.41
+Bat Yam,4,4,0,3,101,5800,apartment,57.43
+Bat Yam,4,4,0,1,95,8500,apartment,89.47
+Bat Yam,3,3,0,3,60,4100,apartment,68.33
+Bat Yam,3.5,3,1,1,90,5000,apartment,55.56
+Bat Yam,2.5,2,1,3,62,4100,apartment,66.13
+Bat Yam,3,3,0,1,70,4490,apartment,64.14
+Bat Yam,2,2,0,4,45,4300,apartment,95.56
+Bat Yam,3.5,3,1,3,85,5300,apartment,62.35
+Bat Yam,2.5,2,1,4,81,4800,apartment,59.26
+Bat Yam,3.5,3,1,2,95,6000,apartment,63.16
+Bat Yam,2.5,2,1,1,75,5400,apartment,72
+Bat Yam,3,3,0,5,75,5300,apartment,70.67
+Bat Yam,3,3,0,4,75,3700,apartment,49.33
+Bat Yam,2.5,2,1,4,60,3600,apartment,60
+Bat Yam,4,4,0,4,112,5600,apartment,50
+Bat Yam,4.5,4,1,3,117,9300,apartment,79.49
+Bat Yam,2,2,0,1,58,3700,apartment,63.79
+Bat Yam,3,3,0,3,70,4800,apartment,68.57
+Bat Yam,3,3,0,1,97,4500,apartment,46.39
+Bat Yam,2.5,2,1,1,52,4200,apartment,80.77
+Bat Yam,2,2,0,4,45,4200,apartment,93.33
+Bat Yam,3.5,3,1,2,95,7000,apartment,73.68
+Bat Yam,4,4,0,15,106,6598,apartment,62.25
+Bat Yam,2.5,2,1,3,65,3800,apartment,58.46
+Bat Yam,4,4,0,22,117,9000,other,76.92
+Bat Yam,3,3,0,2,77,5300,apartment,68.83
+Bat Yam,3,3,0,8,93,7300,apartment,78.49
+Bat Yam,2.5,2,1,1,50,4200,apartment,84
+Bat Yam,3,3,0,1,75,5000,apartment,66.67
+Bat Yam,3,3,0,43,90,7800,apartment,86.67
+Bat Yam,3,3,0,20,117,8000,apartment,68.38
+Bat Yam,3,3,0,2,78,5500,apartment,70.51
+Bat Yam,1,1,0,2,30,3300,apartment,110
+Bat Yam,3,3,0,12,88,6300,apartment,71.59
+Bat Yam,3,3,0,17,120,7800,apartment,65
+Bat Yam,5,5,0,10,125,7750,apartment,62
+Bat Yam,4,4,0,7,110,16500,penthouse,150
+Bat Yam,3.5,3,1,3,85,4200,apartment,49.41
+Bat Yam,3,3,0,27,119,9100,other,76.47
+Bat Yam,3,3,0,4,76,3800,apartment,50
+Bat Yam,2,2,0,9,60,4350,apartment,72.5
+Bat Yam,2,2,0,0,65,3500,garden apartment,53.85
+Bat Yam,3,3,0,3,75,4900,apartment,65.33
+Bat Yam,2,2,0,1,110,5000,garden apartment,45.45
+Bat Yam,1,1,0,7,80,5400,apartment,67.5
+Bat Yam,5,5,0,13,125,8250,apartment,66
+Bat Yam,3,3,0,6,80,5300,apartment,66.25
+Bat Yam,3,3,0,2,80,6000,apartment,75
+Bat Yam,4,4,0,1,200,5800,penthouse,29
+Bat Yam,3.5,3,1,0,999,5000,apartment,5.01
+Bat Yam,2.5,2,1,4,60,3600,apartment,60
+Bat Yam,3,3,0,3,80,5200,apartment,65
+Bat Yam,4,4,0,3,98,5700,apartment,58.16
+Bat Yam,3.5,3,1,2,86,3500,apartment,40.7
+Bat Yam,3,3,0,4,75,4000,apartment,53.33
+Bat Yam,3,3,0,3,65,4200,apartment,64.62
+Bat Yam,3.5,3,1,3,74,4850,apartment,65.54
+Bat Yam,3,3,0,8,87,7000,apartment,80.46
+Bat Yam,3.5,3,1,2,92,5200,apartment,56.52
+Bat Yam,1,1,0,0,16,2400,apartment,150
+Bat Yam,4.5,4,1,2,130,4800,apartment,36.92
+Bat Yam,5,5,0,33,128,8200,apartment,64.06
+Bat Yam,3,3,0,0,78,6000,garden apartment,76.92
+Bat Yam,4,4,0,4,116,8300,apartment,71.55
+Bat Yam,3,3,0,3,73,3850,apartment,52.74
+Bat Yam,4,4,0,11,118,9500,other,80.51
+Bat Yam,3,3,0,14,91,7000,apartment,76.92
+Bat Yam,2.5,2,1,1,65,4900,apartment,75.38
+Bat Yam,4,4,0,7,250,19000,penthouse,76
+Bat Yam,3,3,0,20,110,8000,apartment,72.73
+Bat Yam,2,2,0,16,50,6200,apartment,124
+Bat Yam,2.5,2,1,0,50,4300,apartment,86
+Bat Yam,4,4,0,3,100,5600,apartment,56
+Bat Yam,3,3,0,4,75,4200,apartment,56
+Bat Yam,5,5,0,10,130,9000,apartment,69.23
+Bat Yam,3,3,0,1,70,5200,apartment,74.29
+Bat Yam,2.5,2,1,1,55,3800,apartment,69.09
+Bat Yam,3,3,0,1,82,4700,apartment,57.32
+Bat Yam,3,3,0,1,65,5300,garden apartment,81.54
+Bat Yam,2.5,2,1,0,315,3600,apartment,11.43
+Bat Yam,5,5,0,9,145,12000,apartment,82.76
+Bat Yam,3.5,3,1,3,80,5600,apartment,70
+Bat Yam,3,3,0,0,110,5250,garden apartment,47.73
+Bat Yam,1.5,1,1,2,20,3500,other,175
+Bat Yam,3.5,3,1,5,87,6000,apartment,68.97
+Bat Yam,2.5,2,1,4,65,3800,apartment,58.46
+Bat Yam,2,2,0,2,50,3500,apartment,70
+Bat Yam,3,3,0,4,60,4200,apartment,70
+Bat Yam,1,1,0,1,28,2700,apartment,96.43
+Bat Yam,4,4,0,3,100,6800,apartment,68
+Bat Yam,2,2,0,2,55,3900,apartment,70.91
+Bat Yam,2,2,0,1,40,3500,apartment,87.5
+Bat Yam,2,2,0,0,45,4300,house,95.56
+Bat Yam,1,1,0,3,100,3000,apartment,30
+Bat Yam,5,5,0,10,130,9000,apartment,69.23
+Bat Yam,1,1,0,2,18,2700,apartment,150
+Bat Yam,3,3,0,3,75,4950,apartment,66
+Bat Yam,3,3,0,3,75,4700,apartment,62.67
+Bat Yam,2,2,0,7,40,4900,apartment,122.5
+Bat Yam,5,5,0,18,200,12000,apartment,60
+Bat Yam,5,5,0,39,128,12900,other,100.78
+Bat Yam,5,5,0,0,117,9500,apartment,81.2
+Bat Yam,2,2,0,1,60,4000,apartment,66.67
+Bat Yam,4,4,0,4,100,7200,apartment,72
+Bat Yam,3,3,0,2,75,4500,apartment,60
+Bat Yam,3.5,3,1,1,80,4800,apartment,60
+Bat Yam,4,4,0,1,90,6500,apartment,72.22
+Bat Yam,3,3,0,3,75,4300,apartment,57.33
+Bat Yam,1.5,1,1,4,30,3200,apartment,106.67
+Bat Yam,3,3,0,0,50,3800,apartment,76
+Bat Yam,4,4,0,3,95,3000,apartment,31.58
+Bat Yam,4,4,0,2,70,5400,apartment,77.14
+Bat Yam,3,3,0,2,78,5900,apartment,75.64
+Bat Yam,5,5,0,3,142,6190,apartment,43.59
+Bat Yam,3,3,0,2,120,8000,apartment,66.67
+Bat Yam,3,3,0,4,75,4400,apartment,58.67
+Bat Yam,3.5,3,1,4,85,2937,apartment,34.55
+Bat Yam,3,3,0,4,87,5800,apartment,66.67
+Bat Yam,6,6,0,0,180,8700,garden apartment,48.33
+Bat Yam,2,2,0,2,50,4000,apartment,80
+Bat Yam,3,3,0,2,70,3900,apartment,55.71
+Bat Yam,3,3,0,3,65,2600,apartment,40
+Bat Yam,3.5,3,1,3,75,4900,apartment,65.33
+Bat Yam,1,1,0,1,35,3700,apartment,105.71
+Bat Yam,2,2,0,0,55,4250,apartment,77.27
+Bat Yam,2.5,2,1,1,50,3850,apartment,77
+Bat Yam,1,1,0,6,61,4700,apartment,77.05
+Bat Yam,2.5,2,1,2,70,2500,apartment,35.71
+Bat Yam,3,3,0,4,70,6300,apartment,90
+Bat Yam,5,5,0,18,138,15500,apartment,112.32
+Bat Yam,2,2,0,0,250,4750,garden apartment,19
+Bat Yam,4,4,0,8,120,6200,apartment,51.67
+Bat Yam,3,3,0,2,75,5100,apartment,68
+Bat Yam,4,4,0,1,95,5500,apartment,57.89
+Bat Yam,1.5,1,1,1,30,2800,apartment,93.33
+Bat Yam,2,2,0,0,56,3450,apartment,61.61
+Bat Yam,3,3,0,2,58,4000,apartment,68.97
+Bat Yam,2.5,2,1,2,65,4900,apartment,75.38
+Bat Yam,2,2,0,1,45,4200,apartment,93.33
+Bat Yam,3.5,3,1,3,85,4200,apartment,49.41
+Bat Yam,3,3,0,2,80,2700,apartment,33.75
+Bat Yam,3,3,0,3,70,5000,apartment,71.43
+Bat Yam,4,4,0,5,100,5600,apartment,56
+Bat Yam,4.5,4,1,3,340,11000,penthouse,32.35
+Bat Yam,4,4,0,2,78,4800,apartment,61.54
+Bat Yam,3.5,3,1,2,65,3850,apartment,59.23
+Bat Yam,3,3,0,2,84,3000,apartment,35.71
+Bat Yam,1,1,0,3,28,3400,housing unit,121.43
+Bat Yam,3.5,3,1,1,90,5300,apartment,58.89
+Bat Yam,3.5,3,1,1,78,4600,apartment,58.97
+Bat Yam,3.5,3,1,2,80,3300,apartment,41.25
+Bat Yam,3,3,0,12,95,7300,apartment,76.84
+Bat Yam,2.5,2,1,2,75,4300,apartment,57.33
+Bat Yam,4,4,0,8,114,11000,apartment,96.49
+Bat Yam,2,2,0,0,50,3400,apartment,68
+Bat Yam,3,3,0,1,72,4500,apartment,62.5
+Bat Yam,4,4,0,4,115,6000,apartment,52.17
+Bat Yam,1,1,0,3,60,500,other,8.33
+Bat Yam,2.5,2,1,1,40,3500,apartment,87.5
+Bat Yam,1,1,0,1,68,3800,apartment,55.88
+Bat Yam,3.5,3,1,1,80,5500,apartment,68.75
+Bat Yam,3,3,0,1,68,4500,apartment,66.18
+Bat Yam,4,4,0,2,95,7000,penthouse,73.68
+Bat Yam,4,4,0,6,200,13000,penthouse,65
+Bat Yam,4,4,0,4,110,6500,apartment,59.09
+Bat Yam,4,4,0,10,120,9500,apartment,79.17
+Bat Yam,1,1,0,1,35,2700,apartment,77.14
+Bat Yam,2,2,0,3,55,3500,apartment,63.64
+Bat Yam,5,5,0,1,100,7200,apartment,72
+Bat Yam,4,4,0,4,105,7500,apartment,71.43
+Bat Yam,1,1,0,6,30,4500,apartment,150
+Bat Yam,4,4,0,30,120,8000,apartment,66.67
+Bat Yam,4,4,0,4,110,4900,apartment,44.55
+Bat Yam,3,3,0,28,90,7600,apartment,84.44
+Bat Yam,3,3,0,3,75,3000,apartment,40
+Bat Yam,3,3,0,4,80,6000,apartment,75
+Bat Yam,2,2,0,0,48,5000,garden apartment,104.17
+Bat Yam,2,2,0,5,45,3900,apartment,86.67
+Bat Yam,2,2,0,4,60,3800,apartment,63.33
+Bat Yam,2,2,0,1,35,3500,apartment,100
+Bat Yam,2.5,2,1,3,60,4000,apartment,66.67
+Bat Yam,4,4,0,1,89,5470,apartment,61.46
+Bat Yam,3.5,3,1,1,92,5200,apartment,56.52
+Bat Yam,2.5,2,1,1,50,3600,apartment,72
+Bat Yam,3,3,0,4,70,6000,apartment,85.71
+Bat Yam,3,3,0,4,80,4577,apartment,57.21
+Bat Yam,4,4,0,1,120,6000,apartment,50
+Bat Yam,2.5,2,1,2,50,3200,apartment,64
+Bat Yam,3,3,0,7,75,4700,apartment,62.67
+Bat Yam,2.5,2,1,1,42,4400,apartment,104.76
+Bat Yam,2,2,0,3,43,4000,apartment,93.02
+Bat Yam,3,3,0,4,1,4200,apartment,4200
+Bat Yam,2,2,0,3,60,3900,apartment,65
+Bat Yam,2,2,0,0,45,4000,apartment,88.89
+Bat Yam,4,4,0,4,92,7800,apartment,84.78
+Bat Yam,3,3,0,4,60,4300,apartment,71.67
+Bat Yam,3,3,0,3,92,6000,apartment,65.22
+Bat Yam,1,1,0,1,81,4500,apartment,55.56
+Bat Yam,4,4,0,4,92,8000,apartment,86.96
+Bat Yam,2,2,0,1,60,3300,apartment,55
+Bat Yam,3,3,0,3,75,4400,apartment,58.67
+Bat Yam,1,1,0,3,30,2950,housing unit,98.33
+Bat Yam,3.5,3,1,0,85,5000,apartment,58.82
+Bat Yam,5,5,0,20,130,7700,penthouse,59.23
+Bat Yam,4.5,4,1,1,90,7250,apartment,80.56
+Bat Yam,4,4,0,13,116,7800,apartment,67.24
+Bat Yam,3.5,3,1,4,140,6200,penthouse,44.29
+Bat Yam,5,5,0,15,170,11000,apartment,64.71
+Bat Yam,2,2,0,0,39,4400,garden apartment,112.82
+Bat Yam,3,3,0,6,112,8500,apartment,75.89
+Bat Yam,1,1,0,1,20,3000,apartment,150
+Bat Yam,3.5,3,1,4,75,3700,apartment,49.33
+Bat Yam,4,4,0,6,190,11000,apartment,57.89
+Bat Yam,3,3,0,2,85,5000,apartment,58.82
+Bat Yam,3,3,0,1,70,4250,apartment,60.71
+Bat Yam,3,3,0,2,70,4900,apartment,70
+Bat Yam,2.5,2,1,1,54,4500,garden apartment,83.33
+Bat Yam,3,3,0,2,75,4400,apartment,58.67
+Bat Yam,3,3,0,6,107,7250,apartment,67.76
+Bat Yam,4,4,0,12,115,8900,apartment,77.39
+Bat Yam,3,3,0,1,75,5000,apartment,66.67
+Bat Yam,2,2,0,17,42,800,other,19.05
+Bat Yam,4,4,0,3,90,5150,apartment,57.22
+Bat Yam,3.5,3,1,1,100,6000,apartment,60
+Bat Yam,3,3,0,4,78,4000,apartment,51.28
+Bat Yam,3.5,3,1,3,90,5000,apartment,55.56
+Bat Yam,4,4,0,8,134,8600,apartment,64.18
+Bat Yam,3,3,0,1,1,3500,apartment,3500
+Bat Yam,4,4,0,20,160,9200,apartment,57.5
+Bat Yam,1,1,0,3,80,4600,apartment,57.5
+Bat Yam,1.5,1,1,2,48,4200,apartment,87.5
+Bat Yam,2,2,0,4,57,4000,apartment,70.18
+Bat Yam,5,5,0,1,130,6700,apartment,51.54
+Bat Yam,3,3,0,4,90,5400,apartment,60
+Bat Yam,4,4,0,29,158,9900,apartment,62.66
+Bat Yam,3,3,0,1,80,4500,apartment,56.25
+Bat Yam,2,2,0,2,40,3800,apartment,95
+Bat Yam,2,2,0,15,150,550,other,3.67
+Bat Yam,4,4,0,6,95,6900,apartment,72.63
+Bat Yam,4,4,0,27,109,8900,apartment,81.65
+Bat Yam,4,4,0,4,95,5600,apartment,58.95
+Bat Yam,2,2,0,1,60,4000,apartment,66.67
+Bat Yam,4,4,0,7,91,7400,apartment,81.32
+Bat Yam,3,3,0,30,103,8000,apartment,77.67
+Bat Yam,3,3,0,3,85,4100,apartment,48.24
+Bat Yam,2,2,0,5,60,4500,apartment,75
+Bat Yam,4,4,0,14,125,7900,other,63.2
+Bat Yam,2,2,0,4,55,4200,apartment,76.36
+Bat Yam,4,4,0,32,124,10000,apartment,80.65
+Bat Yam,5,5,0,5,130,8000,apartment,61.54
+Bat Yam,4,4,0,5,160,8000,penthouse,50
+Bat Yam,5,5,0,23,125,9000,apartment,72
+Bat Yam,5,5,0,0,250,13000,house,52
+Bat Yam,4,4,0,2,100,6500,apartment,65
+Bat Yam,4.5,4,1,1,95,6500,apartment,68.42
+Bat Yam,2.5,2,1,4,58,4300,apartment,74.14
+Bat Yam,3.5,3,1,1,120,6800,garden apartment,56.67
+Bat Yam,3.5,3,1,4,95,5800,apartment,61.05
+Bat Yam,3,3,0,1,72,2800,apartment,38.89
+Bat Yam,4,4,0,5,160,8000,penthouse,50
+Bat Yam,5,5,0,23,125,9000,apartment,72
+Bat Yam,3,3,0,4,68,4100,apartment,60.29
+Bat Yam,2.5,2,1,3,70,4500,apartment,64.29
+Bat Yam,2.5,2,1,1,70,4000,apartment,57.14
+Bat Yam,6,6,0,37,290,21000,penthouse,72.41
+Bat Yam,3,3,0,13,83,6600,apartment,79.52
+Bat Yam,3.5,3,1,1,85,6000,apartment,70.59
+Bat Yam,3.5,3,1,1,78,6500,apartment,83.33
+Bat Yam,2,2,0,3,45,3950,apartment,87.78
+Bat Yam,3,3,0,2,80,4200,apartment,52.5
+Bat Yam,4,4,0,2,110,7000,apartment,63.64
+Bat Yam,3,3,0,1,100,5200,apartment,52
+Bat Yam,3,3,0,3,95,6500,apartment,68.42
+Bat Yam,4,4,0,4,85,5650,apartment,66.47
+Bat Yam,3,3,0,0,120,4099,garden apartment,34.16
+Bat Yam,3,3,0,27,90,8200,apartment,91.11
+Bat Yam,3,3,0,3,90,4500,apartment,50
+Bat Yam,3,3,0,2,70,3900,apartment,55.71
+Bat Yam,2.5,2,1,0,50,4200,apartment,84
+Bat Yam,3,3,0,7,75,5000,apartment,66.67
+Bat Yam,3,3,0,3,74,5600,apartment,75.68
+Bat Yam,2.5,2,1,2,60,4000,apartment,66.67
+Bat Yam,3,3,0,1,57,5900,apartment,103.51
+Bat Yam,3,3,0,24,125,8000,apartment,64
+Bat Yam,2,2,0,0,59,4000,apartment,67.8
+Bat Yam,2,2,0,1,55,3500,apartment,63.64
+Bat Yam,3,3,0,3,70,6500,apartment,92.86
+Bat Yam,4,4,0,4,95,6500,apartment,68.42
+Bat Yam,3,3,0,2,90,4500,apartment,50
+Bat Yam,5,5,0,2,210,7200,penthouse,34.29
+Bat Yam,4,4,0,2,95,5500,apartment,57.89
+Bat Yam,2,2,0,0,60,3799,apartment,63.32
+Bat Yam,4,4,0,4,240,6000,penthouse,25
+Bat Yam,3,3,0,1,65,4500,apartment,69.23
+Bat Yam,2,2,0,0,60,3400,apartment,56.67
+Bat Yam,3,3,0,4,70,5600,apartment,80
+Bat Yam,3,3,0,2,85,4200,apartment,49.41
+Bat Yam,5,5,0,25,1700,9000,apartment,5.29
+Bat Yam,2.5,2,1,2,75,4000,apartment,53.33
+Bat Yam,2,2,0,4,40,3850,apartment,96.25
+Bat Yam,4,4,0,4,80,4900,apartment,61.25
+Bat Yam,4,4,0,4,100,315,apartment,3.15
+Bat Yam,6,6,0,25,340,24000,other,70.59
+Bat Yam,5,5,0,15,125,9350,apartment,74.8
+Bat Yam,3,3,0,22,112,8100,apartment,72.32
+Bat Yam,3,3,0,1,52,3700,apartment,71.15
+Bat Yam,3,3,0,29,94,8200,apartment,87.23
+Bat Yam,3.5,3,1,3,75,4400,apartment,58.67
+Bat Yam,4,4,0,2,100,6800,apartment,68
+Bat Yam,5,5,0,35,165,11500,apartment,69.7
+Bat Yam,2.5,2,1,1,70,4700,apartment,67.14
+Bat Yam,2,2,0,2,35,3600,apartment,102.86
+Bat Yam,2,2,0,3,50,3000,apartment,60
+Bat Yam,4,4,0,10,106,7500,apartment,70.75
+Bat Yam,3,3,0,2,105,4400,apartment,41.9
+Bat Yam,3,3,0,5,96,7200,apartment,75
+Bat Yam,3.5,3,1,4,95,5000,apartment,52.63
+Bat Yam,5,5,0,14,130,8200,penthouse,63.08
+Bat Yam,2.5,2,1,2,55,3500,apartment,63.64
+Ashkelon,2,2,0,1,60,2200,apartment,36.67
+Ashkelon,4,4,0,5,120,3700,apartment,30.83
+Ashkelon,3,3,0,5,90,3500,apartment,38.89
+Ashkelon,5,5,0,10,139,5000,apartment,35.97
+Ashkelon,4,4,0,2,95,3000,apartment,31.58
+Ashkelon,4,4,0,0,85,5500,house,64.71
+Ashkelon,4,4,0,5,173,8000,penthouse,46.24
+Ashkelon,5,5,0,1,140,4500,apartment,32.14
+Ashkelon,4,4,0,6,120,4300,apartment,35.83
+Ashkelon,2.5,2,1,1,40,2800,housing unit,70
+Ashkelon,5,5,0,9,140,4500,apartment,32.14
+Ashkelon,3,3,0,6,86,3800,apartment,44.19
+Ashkelon,4,4,0,12,124,4300,apartment,34.68
+Ashkelon,4,4,0,3,115,4300,apartment,37.39
+Ashkelon,3,3,0,1,55,3000,apartment,54.55
+Ashkelon,4,4,0,8,114,4200,apartment,36.84
+Ashkelon,4,4,0,1,110,3800,apartment,34.55
+Ashkelon,3,3,0,3,92,3800,apartment,41.3
+Ashkelon,4,4,0,8,118,4300,apartment,36.44
+Ashkelon,2.5,2,1,1,50,2600,apartment,52
+Ashkelon,4,4,0,5,115,4000,apartment,34.78
+Ashkelon,5,5,0,6,125,4800,apartment,38.4
+Ashkelon,4.5,4,1,9,110,6200,apartment,56.36
+Ashkelon,6,6,0,0,500,9500,house,19
+Ashkelon,4,4,0,8,120,5000,apartment,41.67
+Ashkelon,2.5,2,1,0,75,2600,garden apartment,34.67
+Ashkelon,2.5,2,1,3,50,3200,apartment,64
+Ashkelon,5,5,0,5,127,4200,apartment,33.07
+Ashkelon,3,3,0,12,92,3800,apartment,41.3
+Ashkelon,4,4,0,10,121,5100,apartment,42.15
+Ashkelon,3,3,0,4,92,3500,apartment,38.04
+Ashkelon,4,4,0,0,120,4300,apartment,35.83
+Ashkelon,3.5,3,1,1,80,3000,apartment,37.5
+Ashkelon,4,4,0,1,100,4600,apartment,46
+Ashkelon,4,4,0,6,108,3800,apartment,35.19
+Ashkelon,2,2,0,0,65,3000,housing unit,46.15
+Ashkelon,2,2,0,2,55,3400,apartment,61.82
+Ashkelon,6,6,0,8,230,7000,penthouse,30.43
+Ashkelon,4.5,4,1,2,106,3300,apartment,31.13
+Ashkelon,3,3,0,0,70,2800,apartment,40
+Ashkelon,4,4,0,5,110,4000,apartment,36.36
+Ashkelon,2,2,0,0,45,2500,housing unit,55.56
+Ashkelon,4,4,0,1,110,3800,apartment,34.55
+Ashkelon,2.5,2,1,1,50,2600,apartment,52
+Ashkelon,4,4,0,5,115,4000,apartment,34.78
+Ashkelon,4,4,0,6,86,3800,apartment,44.19
+Ashkelon,4,4,0,13,102,4500,apartment,44.12
+Ashkelon,3,3,0,5,75,3200,apartment,42.67
+Ashkelon,2,2,0,1,45,1900,apartment,42.22
+Ashkelon,3,3,0,7,90,3650,apartment,40.56
+Ashkelon,4,4,0,8,130,4500,apartment,34.62
+Ashkelon,3,3,0,3,100,3600,apartment,36
+Ashkelon,5,5,0,1,125,4600,apartment,36.8
+Ashkelon,4,4,0,0,400,5000,house,12.5
+Ashkelon,4,4,0,7,100,4000,apartment,40
+Ashkelon,2,2,0,1,55,1800,apartment,32.73
+Ashkelon,4,4,0,7,100,4000,apartment,40
+Ashkelon,3,3,0,0,300,2800,housing unit,9.33
+Ashkelon,2,2,0,1,90,3200,house,35.56
+Ashkelon,4,4,0,14,124,4400,apartment,35.48
+Ashkelon,4,4,0,10,122,4800,apartment,39.34
+Ashkelon,6,6,0,17,188,12900,penthouse,68.62
+Ashkelon,3,3,0,4,92,3700,apartment,40.22
+Ashkelon,5,5,0,0,215,5300,garden apartment,24.65
+Ashkelon,1,1,0,0,25,2200,housing unit,88
+Ashkelon,2,2,0,0,50,2000,housing unit,40
+Ashkelon,3.5,3,1,4,87,3500,apartment,40.23
+Ashkelon,2,2,0,2,50,3300,apartment,66
+Ashkelon,6,6,0,9,155,7000,penthouse,45.16
+Ashkelon,2,2,0,1,60,3000,housing unit,50
+Ashkelon,4,4,0,6,121,4000,apartment,33.06
+Ashkelon,2,2,0,0,50,3100,housing unit,62
+Ashkelon,4,4,0,13,110,4500,apartment,40.91
+Ashkelon,4,4,0,2,106,4000,apartment,37.74
+Ashkelon,5,5,0,2,140,5000,apartment,35.71
+Ashkelon,5,5,0,2,129,5000,apartment,38.76
+Ashkelon,3,3,0,4,75,3500,apartment,46.67
+Ashkelon,4,4,0,3,90,3500,apartment,38.89
+Ashkelon,3,3,0,4,75,4000,apartment,53.33
+Ashkelon,5,5,0,2,125,4700,apartment,37.6
+Ashkelon,5,5,0,2,140,4500,apartment,32.14
+Ashkelon,3,3,0,1,95,3600,apartment,37.89
+Ashkelon,4,4,0,2,126,4400,apartment,34.92
+Ashkelon,5,5,0,3,125,4500,apartment,36
+Ashkelon,4.5,4,1,4,115,3250,apartment,28.26
+Ashkelon,5,5,0,6,130,4800,apartment,36.92
+Ashkelon,4,4,0,2,73,3200,apartment,43.84
+Ashkelon,4,4,0,10,110,4300,apartment,39.09
+Ashkelon,4,4,0,5,95,4000,apartment,42.11
+Ashkelon,4,4,0,3,110,4200,apartment,38.18
+Ashkelon,3.5,3,1,4,87,3500,apartment,40.23
+Ashkelon,5,5,0,7,150,4900,penthouse,32.67
+Ashkelon,4,4,0,4,148,3600,apartment,24.32
+Ashkelon,4,4,0,1,104,4100,apartment,39.42
+Ashkelon,2,2,0,2,55,1300,housing unit,23.64
+Ashkelon,3,3,0,0,70,2800,apartment,40
+Ashkelon,2,2,0,0,60,3200,housing unit,53.33
+Ashkelon,3,3,0,10,82,3900,apartment,47.56
+Ashkelon,3,3,0,1,80,3500,apartment,43.75
+Ashkelon,4,4,0,1,106,3400,apartment,32.08
+Ashkelon,5,5,0,24,160,20000,penthouse,125
+Ashkelon,5,5,0,5,135,5800,penthouse,42.96
+Ashkelon,2,2,0,0,55,2500,housing unit,45.45
+Ashkelon,4,4,0,11,126,6000,apartment,47.62
+Ashkelon,2,2,0,2,43,2500,apartment,58.14
+Ashkelon,2,2,0,0,55,3000,garden apartment,54.55
+Ashkelon,4,4,0,9,104,4500,apartment,43.27
+Ashkelon,3,3,0,1,80,3200,apartment,40
+Ashkelon,5,5,0,2,140,4400,apartment,31.43
+Ashkelon,5,5,0,4,140,5000,apartment,35.71
+Ashkelon,3,3,0,2,80,2800,apartment,35
+Ashkelon,2,2,0,1,40,2800,housing unit,70
+Ashkelon,2,2,0,1,45,2900,housing unit,64.44
+Ashkelon,4,4,0,1,75,3500,apartment,46.67
+Ashkelon,3,3,0,5,95,3800,apartment,40
+Ashkelon,2,2,0,3,80,2450,apartment,30.63
+Ashkelon,5,5,0,8,126,4800,apartment,38.1
+Ashkelon,5,5,0,5,130,4300,apartment,33.08
+Ashkelon,3,3,0,1,80,3200,apartment,40
+Ashkelon,3,3,0,5,77,3450,apartment,44.81
+Ashkelon,3,3,0,1,93,3700,apartment,39.78
+Ashkelon,4,4,0,13,122,4000,apartment,32.79
+Ashkelon,3,3,0,2,84,3800,apartment,45.24
+Ashkelon,4,4,0,6,106,4000,apartment,37.74
+Ashkelon,5,5,0,5,123,4450,apartment,36.18
+Ashkelon,4,4,0,7,115,4600,apartment,40
+Ashkelon,4,4,0,8,100,4000,apartment,40
+Ashkelon,3,3,0,3,75,3500,apartment,46.67
+Ashkelon,2,2,0,6,47,2600,house,55.32
+Ashkelon,5,5,0,2,152,3800,apartment,25
+Ashkelon,2,2,0,3,50,2300,housing unit,46
+Ashkelon,2,2,0,0,55,2300,housing unit,41.82
+Ashkelon,4,4,0,11,125,4300,apartment,34.4
+Ashkelon,3,3,0,7,96,3700,apartment,38.54
+Ashkelon,5,5,0,2,130,4300,apartment,33.08
+Ashkelon,2,2,0,3,50,2850,apartment,57
+Ashkelon,4,4,0,2,160,3800,apartment,23.75
+Ashkelon,4,4,0,2,115,3800,apartment,33.04
+Ashkelon,4,4,0,4,100,3800,apartment,38
+Ashkelon,5,5,0,8,145,4200,apartment,28.97
+Ashkelon,2,2,0,0,60,2500,garden apartment,41.67
+Ashkelon,4,4,0,5,128,3900,apartment,30.47
+Ashkelon,4,4,0,6,116,4000,apartment,34.48
+Ashkelon,5.5,5,1,12,180,7000,apartment,38.89
+Ashkelon,2,2,0,4,30,1800,apartment,60
+Ashkelon,3.5,3,1,3,75,3000,apartment,40
+Ashkelon,5,5,0,3,143,4200,apartment,29.37
+Ashkelon,5,5,0,5,140,4700,apartment,33.57
+Ashkelon,5,5,0,5,128,5000,apartment,39.06
+Ashkelon,4,4,0,1,119,4800,apartment,40.34
+Ashkelon,4,4,0,1,100,3400,apartment,34
+Ashkelon,3,3,0,5,76,3400,apartment,44.74
+Ashkelon,5,5,0,10,124,4650,apartment,37.5
+Ashkelon,5,5,0,5,138,4700,apartment,34.06
+Ashkelon,3,3,0,4,82,3500,apartment,42.68
+Ashkelon,3,3,0,1,90,3800,apartment,42.22
+Ashkelon,5,5,0,2,140,4500,apartment,32.14
+Ashkelon,4,4,0,4,110,3500,apartment,31.82
+Ashkelon,2,2,0,2,45,3200,apartment,71.11
+Ashkelon,1.5,1,1,1,55,3000,housing unit,54.55
+Ashkelon,5.5,5,1,0,186,6799,house,36.55
+Ashkelon,2.5,2,1,0,60,3500,basement,58.33
+Ashkelon,2,2,0,3,62,3350,apartment,54.03
+Ashkelon,3.5,3,1,2,74,3500,apartment,47.3
+Ashkelon,4,4,0,6,116,4000,apartment,34.48
+Ashkelon,4,4,0,1,90,3700,apartment,41.11
+Ashkelon,3,3,0,3,60,2300,apartment,38.33
+Ashkelon,2,2,0,1,40,2150,apartment,53.75
+Ashkelon,3,3,0,9,91,3800,apartment,41.76
+Ashkelon,3,3,0,1,90,3500,housing unit,38.89
+Ashkelon,3,3,0,4,80,2600,apartment,32.5
+Ashkelon,3.5,3,1,0,99,3600,housing unit,36.36
+Ashkelon,3,3,0,3,80,2400,apartment,30
+Ashkelon,2,2,0,0,45,3000,housing unit,66.67
+Ashkelon,4,4,0,8,110,4200,apartment,38.18
+Ashkelon,4,4,0,2,120,3990,apartment,33.25
+Ashkelon,2,2,0,3,70,1900,housing unit,27.14
+Ashkelon,3,3,0,2,77,3400,apartment,44.16
+Ashkelon,5,5,0,7,145,5499,apartment,37.92
+Ashkelon,2,2,0,2,45,2000,apartment,44.44
+Ashkelon,3,3,0,4,80,2900,apartment,36.25
+Ashkelon,4,4,0,1,150,4300,apartment,28.67
+Ashkelon,4,4,0,11,125,4200,apartment,33.6
+Ashkelon,3,3,0,4,70,3400,apartment,48.57
+Ashkelon,3,3,0,2,94,3900,apartment,41.49
+Ashkelon,5,5,0,8,147,4750,apartment,32.31
+Ashkelon,3,3,0,3,60,2200,apartment,36.67
+Ashkelon,1,1,0,0,155,4500,garden apartment,29.03
+Ashkelon,3,3,0,8,91,4500,apartment,49.45
+Ashkelon,5,5,0,9,140,4500,apartment,32.14
+Ashkelon,3,3,0,2,73,3490,apartment,47.81
+Ashkelon,5,5,0,4,141,4800,apartment,34.04
+Ashkelon,5,5,0,2,136,5000,apartment,36.76
+Ashkelon,5,5,0,11,130,5500,apartment,42.31
+Ashkelon,4,4,0,5,120,4300,apartment,35.83
+Ashkelon,1.5,1,1,0,40,2200,housing unit,55
+Ashkelon,2,2,0,0,36,2600,apartment,72.22
+Ashkelon,4,4,0,2,102,3900,apartment,38.24
+Ashkelon,4.5,4,1,2,112,3600,apartment,32.14
+Ashkelon,1.5,1,1,4,35,1800,housing unit,51.43
+Ashkelon,4.5,4,1,4,126,5100,apartment,40.48
+Ashkelon,4,4,0,4,100,4200,apartment,42
+Ashkelon,6,6,0,8,230,6800,penthouse,29.57
+Ashkelon,5,5,0,1,120,4200,apartment,35
+Ashkelon,3,3,0,0,55,2800,garden apartment,50.91
+Ashkelon,2,2,0,3,50,2300,apartment,46
+Ashkelon,5,5,0,9,130,4800,apartment,36.92
+Ashkelon,3,3,0,0,200,2800,housing unit,14
+Ashkelon,2,2,0,0,55,2400,garden apartment,43.64
+Ashkelon,5,5,0,2,134,5600,apartment,41.79
+Ashkelon,4.5,4,1,3,80,3100,apartment,38.75
+Ashkelon,3,3,0,0,75,4500,duplex,60
+Ashkelon,4,4,0,0,150,6500,garden apartment,43.33
+Ashkelon,3,3,0,1,80,3900,apartment,48.75
+Ashkelon,3,3,0,0,150,2400,housing unit,16
+Ashkelon,3,3,0,4,80,2900,apartment,36.25
+Ashkelon,3,3,0,1,80,3500,housing unit,43.75
+Ashkelon,5,5,0,9,130,4800,apartment,36.92
+Ashkelon,3,3,0,7,90,3650,apartment,40.56
+Ashkelon,2,2,0,3,44,2500,apartment,56.82
+Ashkelon,5,5,0,2,96,3300,apartment,34.38
+Ashkelon,5,5,0,6,140,5500,apartment,39.29
+Ashkelon,4,4,0,4,114,4500,apartment,39.47
+Ashkelon,5,5,0,13,129,4600,apartment,35.66
+Ashkelon,4,4,0,2,121,4550,apartment,37.6
+Ashkelon,4,4,0,9,112,4800,apartment,42.86
+Ashkelon,5,5,0,1,110,3400,apartment,30.91
+Ashkelon,3,3,0,1,65,2590,apartment,39.85
+Ashkelon,2.5,2,1,0,317,3900,house,12.3
+Ashkelon,5,5,0,1,142,4500,apartment,31.69
+Ashkelon,4,4,0,1,105,4000,apartment,38.1
+Ashkelon,5,5,0,1,144,4950,apartment,34.38
+Ashkelon,4,4,0,12,135,4100,apartment,30.37
+Ashkelon,2,2,0,3,55,3500,apartment,63.64
+Ashkelon,5,5,0,12,155,5900,apartment,38.06
+Ashkelon,3,3,0,3,60,2500,apartment,41.67
+Ashkelon,3,3,0,3,65,2400,apartment,36.92
+Ashkelon,6,6,0,0,250,6500,garden apartment,26
+Ashkelon,2,2,0,0,30,2900,housing unit,96.67
+Ashkelon,4,4,0,2,160,4800,apartment,30
+Ashkelon,3,3,0,8,80,3800,apartment,47.5
+Ashkelon,2,2,0,0,30,2200,apartment,73.33
+Ashkelon,4,4,0,4,100,3400,apartment,34
+Ashkelon,3,3,0,2,74,3500,apartment,47.3
+Ashkelon,2,2,0,3,45,2200,housing unit,48.89
+Ashkelon,7,7,0,1,360,13000,house,36.11
+Ashkelon,5,5,0,5,143,2500,apartment,17.48
+Ashkelon,4,4,0,3,100,4000,apartment,40
+Ashkelon,5,5,0,7,150,4000,apartment,26.67
+Ashkelon,4,4,0,5,120,4500,apartment,37.5
+Ashkelon,6,6,0,1,220,8000,house,36.36
+Ashkelon,5,5,0,3,120,3300,apartment,27.5
+Ashkelon,6,6,0,0,350,11000,house,31.43
+Ashkelon,3,3,0,7,90,3700,apartment,41.11
+Ashkelon,5,5,0,4,130,4600,apartment,35.38
+Ashkelon,6,6,0,9,155,7000,penthouse,45.16
+Ashkelon,5,5,0,2,142,5100,apartment,35.92
+Ashkelon,5,5,0,4,126,4300,apartment,34.13
+Ashkelon,3,3,0,6,91,3900,apartment,42.86
+Ashkelon,5,5,0,10,130,5000,apartment,38.46
+Ashkelon,4,4,0,6,121,5200,apartment,42.98
+Ashkelon,5,5,0,7,130,5200,apartment,40
+Ashkelon,2,2,0,5,50,2800,apartment,56
+Ashkelon,2,2,0,0,50,3400,housing unit,68
+Ashkelon,2,2,0,3,65,2600,apartment,40
+Ashkelon,4,4,0,4,85,3000,apartment,35.29
+Ashkelon,5,5,0,1,140,4300,apartment,30.71
+Ashkelon,4,4,0,2,116,3900,apartment,33.62
+Ashkelon,5,5,0,3,140,4600,apartment,32.86
+Ashkelon,4,4,0,3,84,3000,apartment,35.71
+Ashkelon,4,4,0,1,118,4150,apartment,35.17
+Ashkelon,4,4,0,3,119,4100,apartment,34.45
+Ashkelon,4,4,0,5,120,4200,apartment,35
+Ashkelon,4,4,0,1,120,3600,apartment,30
+Ashkelon,4,4,0,2,75,3300,apartment,44
+Ashkelon,2,2,0,2,45,2900,house,64.44
+Ashkelon,4,4,0,3,100,4200,apartment,42
+Ashkelon,2,2,0,3,52,1999,apartment,38.44
+Ashkelon,4,4,0,6,120,3800,apartment,31.67
+Ashkelon,3,3,0,2,80,3500,apartment,43.75
+Ashkelon,5,5,0,11,138,5300,apartment,38.41
+Ashkelon,5,5,0,2,124,4900,apartment,39.52
+Ashkelon,2,2,0,6,50,2800,apartment,56
+Ashkelon,4,4,0,2,80,3000,other,37.5
+Ashkelon,3,3,0,3,90,3800,apartment,42.22
+Ashkelon,5,5,0,5,140,5000,apartment,35.71
+Ashkelon,4,4,0,6,100,3500,apartment,35
+Ashkelon,3,3,0,3,250,2800,apartment,11.2
+Ashkelon,2,2,0,0,55,3000,garden apartment,54.55
+Ashkelon,3,3,0,0,70,4500,garden apartment,64.29
+Ashkelon,4,4,0,3,216,4800,penthouse,22.22
+Ashkelon,4,4,0,5,110,2999,apartment,27.26
+Ashkelon,4,4,0,3,100,4000,apartment,40
+Ashkelon,5,5,0,12,140,5000,apartment,35.71
+Ashkelon,2,2,0,4,45,3300,apartment,73.33
+Ashkelon,4,4,0,7,140,3850,duplex,27.5
+Ashkelon,3.5,3,1,2,64,3200,apartment,50
+Ashkelon,2,2,0,1,70,3200,housing unit,45.71
+Ashkelon,5,5,0,0,240,5500,house,22.92
+Ashkelon,4,4,0,5,118,4400,apartment,37.29
+Ashkelon,4,4,0,5,120,4300,apartment,35.83
+Ashkelon,4,4,0,5,118,4200,apartment,35.59
+Ashkelon,4.5,4,1,4,140,3800,apartment,27.14
+Ashkelon,5,5,0,4,139,5200,apartment,37.41
+Ashkelon,3.5,3,1,4,80,2900,apartment,36.25
+Ashkelon,4,4,0,2,100,4700,apartment,47
+Ashkelon,5,5,0,1,145,4800,apartment,33.1
+Ashkelon,3.5,3,1,2,84,3400,apartment,40.48
+Ashkelon,5,5,0,5,140,4900,apartment,35
+Ashkelon,4,4,0,3,8,2900,apartment,362.5
+Ashkelon,6,6,0,9,188,6000,duplex,31.91
+Ashkelon,4,4,0,5,100,4200,apartment,42
+Ashkelon,2,2,0,0,60,3100,housing unit,51.67
+Ashkelon,4,4,0,5,110,2999,apartment,27.26
+Ashkelon,4,4,0,0,110,5800,garden apartment,52.73
+Ashkelon,4,4,0,12,116,4500,apartment,38.79
+Ashkelon,2,2,0,2,38,1900,housing unit,50
+Ashkelon,5,5,0,12,140,5000,apartment,35.71
+Ashkelon,4.5,4,1,0,150,5000,other,33.33
+Ashkelon,2,2,0,2,50,2300,apartment,46
+Ashkelon,3,3,0,5,90,3750,apartment,41.67
+Ashkelon,4,4,0,1,120,3600,apartment,30
+Ashkelon,2.5,2,1,0,80,4000,garden apartment,50
+Ashkelon,3,3,0,0,300,2400,house,8
+Ashkelon,5,5,0,13,215,6800,penthouse,31.63
+Ashkelon,4,4,0,6,100,3600,apartment,36
+Ashkelon,5,5,0,4,140,5000,apartment,35.71
+Ashkelon,5,5,0,9,190,7000,penthouse,36.84
+Ashkelon,3,3,0,0,80,3500,house,43.75
+Ashkelon,3,3,0,0,100,2500,garden apartment,25
+Ashkelon,2,2,0,1,90,3200,house,35.56
+Ashkelon,2,2,0,0,60,3100,housing unit,51.67
+Ashkelon,5,5,0,3,140,5600,apartment,40
+Ashkelon,5,5,0,1,140,4400,apartment,31.43
+Ashkelon,3,3,0,0,120,3700,other,30.83
+Ashkelon,4,4,0,13,142,5000,apartment,35.21
+Ashkelon,2,2,0,0,60,111,housing unit,1.85
+Ashkelon,4,4,0,2,120,3900,apartment,32.5
+Ashkelon,3,3,0,2,80,3200,apartment,40
+Ashkelon,4,4,0,1,117,4000,apartment,34.19
+Ashkelon,5,5,0,0,500,7300,other,14.6
+Ashkelon,5,5,0,11,148,4900,apartment,33.11
+Ashkelon,4,4,0,5,124,4200,apartment,33.87
+Ashkelon,3,3,0,3,66,2200,apartment,33.33
+Ashkelon,4,4,0,6,112,4500,apartment,40.18
+Ashkelon,4,4,0,13,115,4500,apartment,39.13
+Ashkelon,4,4,0,1,108,3700,apartment,34.26
+Ashkelon,1,1,0,1,30,2300,housing unit,76.67
+Ashkelon,3,3,0,0,100,2500,garden apartment,25
+Ashkelon,5,5,0,6,148,5000,apartment,33.78
+Ashkelon,2,2,0,2,65,2500,housing unit,38.46
+Ashkelon,6.5,6,1,0,350,6200,house,17.71
+Ashkelon,3,3,0,2,75,2900,apartment,38.67
+Ashkelon,5,5,0,4,125,4000,apartment,32
+Ashkelon,5,5,0,3,130,4600,apartment,35.38
+Ashkelon,4,4,0,4,120,3200,apartment,26.67
+Ashkelon,6,6,0,0,130,5300,other,40.77
+Ashkelon,5,5,0,0,300,9000,house,30
+Ashkelon,4,4,0,8,112,4500,apartment,40.18
+Ashkelon,3,3,0,2,80,3100,apartment,38.75
+Ashkelon,3,3,0,2,65,2450,apartment,37.69
+Ashkelon,5,5,0,4,120,4500,apartment,37.5
+Ashkelon,5,5,0,3,125,5000,apartment,40
+Ashkelon,2,2,0,0,50,2200,housing unit,44
+Ashkelon,4,4,0,4,126,4150,apartment,32.94
+Ashkelon,4,4,0,4,120,4599,apartment,38.33
+Ashkelon,4,4,0,2,110,3700,apartment,33.64
+Ashkelon,3,3,0,2,60,2800,apartment,46.67
+Ashkelon,4,4,0,4,100,3800,apartment,38
+Ashkelon,2,2,0,4,40,4500,apartment,112.5
+Ashkelon,5,5,0,5,130,5100,apartment,39.23
+Ashkelon,3,3,0,2,80,3700,apartment,46.25
+Ashkelon,1,1,0,10,50,2500,housing unit,50
+Ashkelon,3,3,0,6,100,3500,apartment,35
+Ashkelon,4,4,0,1,112,4700,apartment,41.96
+Ashkelon,2,2,0,3,30,3300,apartment,110
+Ashkelon,4,4,0,4,110,4500,apartment,40.91
+Ashkelon,5,5,0,10,140,4600,apartment,32.86
+Ashkelon,3,3,0,4,82,3700,apartment,45.12
+Ashkelon,5,5,0,9,220,4950,penthouse,22.5
+Ashkelon,1.5,1,1,0,40,3000,housing unit,75
+Ashkelon,2,2,0,0,125,2000,housing unit,16
+Ashkelon,4,4,0,12,121,4500,apartment,37.19
+Ashkelon,3,3,0,1,80,3800,apartment,47.5
+Ashkelon,3,3,0,9,170,5500,penthouse,32.35
+Ashkelon,4,4,0,3,122,4300,apartment,35.25
+Ashkelon,4,4,0,6,99,3950,apartment,39.9
+Ashkelon,3,3,0,3,70,3200,apartment,45.71
+Ashkelon,5,5,0,5,145,5000,apartment,34.48
+Ashkelon,3,3,0,2,65,2800,apartment,43.08
+Ashkelon,2,2,0,2,50,3300,apartment,66
+Ashkelon,4,4,0,4,112,100,apartment,0.89
+Ashkelon,1.5,1,1,0,35,2200,housing unit,62.86
+Ashkelon,3,3,0,0,80,3500,house,43.75
+Ashkelon,5,5,0,1,136,4600,apartment,33.82
+Ashkelon,5,5,0,5,130,4499,apartment,34.61
+Ashkelon,3,3,0,1,70,2900,apartment,41.43
+Ashkelon,4,4,0,2,105,3400,apartment,32.38
+Ashkelon,3,3,0,8,85,3700,apartment,43.53
+Ashkelon,4,4,0,6,90,3600,apartment,40
+Ashkelon,5,5,0,11,140,4500,apartment,32.14
+Ashkelon,4,4,0,6,115,4500,apartment,39.13
+Ashkelon,1,1,0,2,60,2200,apartment,36.67
+Ashkelon,4,4,0,3,125,4000,apartment,32
+Ashkelon,4,4,0,5,110,4800,apartment,43.64
+Ashkelon,5.5,5,1,0,360,9500,other,26.39
+Ashkelon,3,3,0,0,80,2800,apartment,35
+Ashkelon,4,4,0,4,90,3500,apartment,38.89
+Ashkelon,3,3,0,3,60,2600,apartment,43.33
+Ashkelon,3,3,0,1,55,2900,apartment,52.73
+Ashkelon,1,1,0,0,38,2400,housing unit,63.16
+Ashkelon,3,3,0,0,80,3500,apartment,43.75
+Ashkelon,3,3,0,2,50,2800,apartment,56
+Ashkelon,3,3,0,4,85,3800,apartment,44.71
+Ashkelon,3,3,0,4,70,3400,apartment,48.57
+Ashkelon,4,4,0,1,90,3600,apartment,40
+Ashkelon,3,3,0,1,75,3200,apartment,42.67
+Ashkelon,6,6,0,9,150,6300,penthouse,42
+Ashkelon,5,5,0,9,200,4000,penthouse,20
+Ashkelon,4,4,0,1,100,3200,apartment,32
+Ashkelon,2.5,2,1,0,65,3400,housing unit,52.31
+Ashkelon,4,4,0,8,115,4000,apartment,34.78
+Ashkelon,3.5,3,1,3,75,2600,apartment,34.67
+Ashkelon,2,2,0,0,130,1999,housing unit,15.38
+Ashkelon,5,5,0,0,120,4000,apartment,33.33
+Ashkelon,3,3,0,3,70,1999,apartment,28.56
+Ashkelon,3,3,0,5,85,2800,apartment,32.94
+Ashkelon,4,4,0,0,100,4500,garden apartment,45
+Ashkelon,4,4,0,2,105,3700,apartment,35.24
+Ashkelon,4,4,0,11,114,4200,apartment,36.84
+Ashkelon,5,5,0,1,130,4500,apartment,34.62
+Ashkelon,4,4,0,3,125,4300,apartment,34.4
+Ashkelon,4,4,0,5,110,4000,apartment,36.36
+Ashkelon,2,2,0,0,60,3200,housing unit,53.33
+Ashkelon,3,3,0,5,90,3500,apartment,38.89
+Ashkelon,3.5,3,1,8,95,4000,apartment,42.11
+Ashkelon,3,3,0,2,95,3600,apartment,37.89
+Ashkelon,5,5,0,4,140,4500,apartment,32.14
+Ashkelon,3,3,0,5,55,3900,apartment,70.91
+Ashkelon,5,5,0,3,140,5200,apartment,37.14
+Ashkelon,4,4,0,8,100,4250,apartment,42.5
+Ashkelon,3,3,0,1,65,3200,apartment,49.23
+Ashkelon,4,4,0,6,110,3650,apartment,33.18
+Ashkelon,4,4,0,2,112,4300,apartment,38.39
+Ashkelon,5,5,0,1,140,5000,apartment,35.71
+Ashkelon,1,1,0,3,122,4300,apartment,35.25
+Ashkelon,3,3,0,10,76,3700,apartment,48.68
+Ashkelon,3,3,0,11,94,3900,apartment,41.49
+Ashkelon,5,5,0,4,125,4500,duplex,36
+Ashkelon,2,2,0,1,40,2700,housing unit,67.5
+Ashkelon,4,4,0,1,120,4200,apartment,35
+Ashkelon,3,3,0,3,82,3900,apartment,47.56
+Ashkelon,2.5,2,1,1,65,3100,housing unit,47.69
+Ashkelon,2,2,0,0,55,2300,housing unit,41.82
+Ashkelon,3,3,0,0,75,2850,housing unit,38
+Ashkelon,4,4,0,3,105,4000,apartment,38.1
+Ashkelon,3,3,0,7,60,4000,house,66.67
+Ashkelon,5,5,0,6,125,4400,apartment,35.2
+Ashkelon,2,2,0,2,45,2000,apartment,44.44
+Ashkelon,4,4,0,5,100,4200,apartment,42
+Ashkelon,3,3,0,3,62,3100,apartment,50
+Ashkelon,4,4,0,1,112,3000,apartment,26.79
+Ashkelon,4,4,0,5,122,5000,apartment,40.98
+Ashkelon,2,2,0,0,50,3500,housing unit,70
+Ashkelon,4,4,0,2,100,3200,apartment,32
+Ashkelon,2,2,0,0,60,3100,housing unit,51.67
+Ashkelon,4,4,0,2,90,3700,apartment,41.11
+Ashkelon,3,3,0,2,80,3100,apartment,38.75
+Ashkelon,3.5,3,1,3,85,2800,apartment,32.94
+Ashkelon,5.5,5,1,12,180,7000,apartment,38.89
+Ashkelon,4.5,4,1,3,80,3500,apartment,43.75
+Ashkelon,2.5,2,1,1,65,3100,housing unit,47.69
+Ashkelon,5,5,0,4,125,4800,apartment,38.4
+Ashkelon,4.5,4,1,6,106,4000,apartment,37.74
+Ashkelon,4,4,0,3,107,4000,apartment,37.38
+Ashkelon,2,2,0,0,70,3400,housing unit,48.57
+Ashkelon,4,4,0,6,118,4100,apartment,34.75
+Ashkelon,3,3,0,5,83,3800,apartment,45.78
+Ashkelon,4,4,0,2,120,4200,apartment,35
+Ashkelon,1,1,0,0,35,2500,housing unit,71.43
+Ashkelon,3.5,3,1,0,400,3700,house,9.25
+Ashkelon,2,2,0,0,70,3500,housing unit,50
+Ashkelon,3,3,0,0,70,3200,housing unit,45.71
+Ashkelon,3,3,0,2,81,4000,apartment,49.38
+Ashkelon,4,4,0,10,110,4300,apartment,39.09
+Ashkelon,4,4,0,2,110,4600,apartment,41.82
+Ashkelon,4,4,0,3,110,4500,apartment,40.91
+Ashkelon,5,5,0,3,121,3950,apartment,32.64
+Ashkelon,3,3,0,0,190,4100,house,21.58
+Ashkelon,2,2,0,3,50,2200,apartment,44
+Ashkelon,4,4,0,4,116,4100,apartment,35.34
+Ashkelon,5,5,0,5,126,5000,apartment,39.68
+Ashkelon,4,4,0,9,200,5000,penthouse,25
+Ashkelon,3,3,0,5,80,3700,apartment,46.25
+Ashkelon,1.5,1,1,1,30,1500,housing unit,50
+Ashkelon,2,2,0,0,40,2500,garden apartment,62.5
+Ashkelon,3,3,0,0,70,2500,garden apartment,35.71
+Ashkelon,4,4,0,3,120,3900,apartment,32.5
+Ashkelon,5,5,0,9,152,5200,apartment,34.21
+Ashkelon,2,2,0,4,30,1800,apartment,60
+Ashkelon,2,2,0,11,1,3500,other,3500
+Ashkelon,3,3,0,2,65,2450,apartment,37.69
+Ashkelon,2.5,2,1,1,50,1800,apartment,36
+Ashkelon,4,4,0,10,113,7500,apartment,66.37
+Ashkelon,5,5,0,9,145,4600,apartment,31.72
+Ashkelon,5,5,0,2,139,4600,apartment,33.09
+Ashkelon,3,3,0,1,70,2798,apartment,39.97
+Ashkelon,3,3,0,3,80,3600,apartment,45
+Ashkelon,3,3,0,11,90,4000,apartment,44.44
+Ashkelon,4,4,0,3,120,4400,apartment,36.67
+Ashkelon,4,4,0,6,120,4800,apartment,40
+Ashkelon,3,3,0,3,55,3600,apartment,65.45
+Ashkelon,4,4,0,1,115,4500,apartment,39.13
+Ashkelon,4,4,0,10,121,4500,apartment,37.19
+Ashkelon,4,4,0,3,109,4200,apartment,38.53
+Ashkelon,5,5,0,7,140,4600,apartment,32.86
+Ashkelon,3,3,0,3,88,3800,apartment,43.18
+Ashkelon,4,4,0,6,100,3350,apartment,33.5
+Ashkelon,4,4,0,2,115,3999,apartment,34.77
+Ashkelon,5,5,0,7,145,4800,apartment,33.1
+Ashkelon,2,2,0,0,40,2700,housing unit,67.5
+Ashkelon,3.5,3,1,5,78,3000,apartment,38.46
+Ashkelon,4,4,0,10,122,4750,apartment,38.93
+Ashkelon,5,5,0,7,14,4700,apartment,335.71
+Ashkelon,3.5,3,1,3,75,3500,apartment,46.67
+Ashkelon,6,6,0,0,100,5700,garden apartment,57
+Ashkelon,5,5,0,2,139,4600,apartment,33.09
+Ashkelon,4,4,0,1,100,3500,apartment,35
+Ashkelon,2,2,0,1,60,3000,housing unit,50
+Ashkelon,4,4,0,1,98,3700,duplex,37.76
+Ashkelon,4,4,0,3,80,3600,apartment,45
+Ashkelon,4,4,0,13,135,4900,apartment,36.3
+Ashkelon,2,2,0,3,50,2100,apartment,42
+Ashkelon,3,3,0,5,100,3600,apartment,36
+Ashkelon,5,5,0,1,137,4800,apartment,35.04
+Ashkelon,5,5,0,1,160,4600,apartment,28.75
+Ashkelon,4,4,0,5,103,1000,apartment,9.71
+Ashkelon,4.5,4,1,15,120,5500,apartment,45.83
+Ashkelon,3,3,0,2,90,2400,apartment,26.67
+Ashkelon,5,5,0,3,150,4800,apartment,32
+Ashkelon,3,3,0,6,83,3950,apartment,47.59
+Ashkelon,2,2,0,2,60,2200,apartment,36.67
+Ashkelon,2,2,0,3,50,2100,housing unit,42
+Ashkelon,6,6,0,17,188,12900,penthouse,68.62
+Ashkelon,5,5,0,5,145,5000,apartment,34.48
+Ashkelon,2,2,0,6,55,3300,apartment,60
+Ashkelon,4,4,0,7,114,4450,apartment,39.04
+Ashkelon,4,4,0,3,122,4500,apartment,36.89
+Ashkelon,4,4,0,7,100,4300,apartment,43
+Ashkelon,4,4,0,2,110,4300,apartment,39.09
+Ashkelon,3,3,0,3,92,4050,apartment,44.02
+Ashkelon,3.5,3,1,3,83,3100,apartment,37.35
+Ashkelon,4,4,0,8,132,4250,apartment,32.2
+Ashkelon,3,3,0,3,85,3500,apartment,41.18
+Ashkelon,1,1,0,1,28,2300,housing unit,82.14
+Ashkelon,4,4,0,2,110,4500,apartment,40.91
+Ashkelon,5,5,0,11,140,4600,apartment,32.86
+Ashkelon,5,5,0,4,136,4600,apartment,33.82
+Ashkelon,3,3,0,0,80,3700,housing unit,46.25
+Ashkelon,4,4,0,1,115,4500,apartment,39.13
+Ashkelon,4,4,0,1,128,5000,apartment,39.06
+Ashkelon,2,2,0,0,65,3500,housing unit,53.85
+Ashkelon,4,4,0,3,119,4500,apartment,37.82
+Ashkelon,2,2,0,2,35,1800,apartment,51.43
+Ashkelon,4,4,0,4,117,4300,apartment,36.75
+Ashkelon,5,5,0,9,160,9200,penthouse,57.5
+Ashkelon,4,4,0,4,100,3000,apartment,30
+Ashkelon,5,5,0,13,120,4900,apartment,40.83
+Ashkelon,3,3,0,3,90,2800,apartment,31.11
+Ashkelon,3,3,0,3,90,3550,apartment,39.44
+Ashkelon,2,2,0,0,150,2800,garden apartment,18.67
+Ashkelon,4,4,0,3,100,4400,apartment,44
+Ashkelon,4,4,0,6,120,4000,apartment,33.33
+Ashkelon,2.5,2,1,0,70,100,housing unit,1.43
+Ashkelon,4,4,0,5,115,4400,apartment,38.26
+Ashkelon,5,5,0,7,122,4800,apartment,39.34
+Ashkelon,4,4,0,3,100,4000,apartment,40
+Ashkelon,3,3,0,4,75,3200,apartment,42.67
+Ashkelon,3,3,0,1,70,2798,apartment,39.97
+Ashkelon,7,7,0,0,500,7000,house,14
+Ashkelon,4,4,0,2,89,3000,apartment,33.71
+Ashkelon,2,2,0,1,50,2600,apartment,52
+Ashkelon,5,5,0,2,124,4900,apartment,39.52
+Ashkelon,3.5,3,1,4,80,3700,apartment,46.25
+Ashkelon,4,4,0,10,130,4400,apartment,33.85
+Ashkelon,4.5,4,1,2,120,3900,apartment,32.5
+Ashkelon,2.5,2,1,3,55,2950,apartment,53.64
+Ashkelon,3,3,0,0,200,4400,other,22
+Ashkelon,4,4,0,4,126,4300,apartment,34.13
+Ashkelon,4,4,0,3,90,3100,apartment,34.44
+Ashkelon,3,3,0,2,85,2900,apartment,34.12
+Ashkelon,3,3,0,11,82,4500,apartment,54.88
+Ashkelon,3,3,0,2,80,3100,apartment,38.75
+Ashkelon,2,2,0,2,40,2500,apartment,62.5
+Ashkelon,1,1,0,4,50,3700,apartment,74
+Ashkelon,4,4,0,1,90,3500,apartment,38.89
+Ashkelon,3,3,0,1,67,3600,apartment,53.73
+Ashkelon,5,5,0,5,142,4800,apartment,33.8
+Ashkelon,2,2,0,1,60,3500,housing unit,58.33
+Ashkelon,5,5,0,11,125,4900,apartment,39.2
+Ashkelon,4,4,0,5,122,4500,apartment,36.89
+Ashkelon,4,4,0,1,100,4400,apartment,44
+Ashkelon,2,2,0,4,,2600,apartment,#DIV/0!
+Ashkelon,5,5,0,6,151,6000,apartment,39.74
+Ashkelon,5,5,0,0,400,5999,house,15
+Ashkelon,2,2,0,0,45,2300,housing unit,51.11
+Ashkelon,4,4,0,2,107,4300,apartment,40.19
+Ashkelon,2.5,2,1,3,60,3200,apartment,53.33
+Ashkelon,2,2,0,1,60,2200,apartment,36.67
+Ashkelon,2,2,0,0,155,2200,housing unit,14.19
+Ashkelon,3,3,0,8,70,3700,apartment,52.86
+Ashkelon,3,3,0,4,80,2900,apartment,36.25
+Ashkelon,4,4,0,1,95,3600,apartment,37.89
+Ashkelon,4,4,0,2,120,3700,apartment,30.83
+Ashkelon,4,4,0,2,93,3400,apartment,36.56
+Ashkelon,3,3,0,0,150,2500,housing unit,16.67
+Ashkelon,4,4,0,4,100,3800,apartment,38
+Ashkelon,5,5,0,2,125,4500,apartment,36
+Ashkelon,4.5,4,1,8,124,3500,apartment,28.23
+Ashkelon,3,3,0,2,75,2900,apartment,38.67
+Ashkelon,5,5,0,4,145,4600,apartment,31.72
+Ashkelon,2,2,0,2,40,2500,apartment,62.5
+Ashkelon,3,3,0,1,60,2700,apartment,45
+Ashkelon,2,2,0,3,30,2500,apartment,83.33
+Ashkelon,4,4,0,4,130,4500,apartment,34.62
+Ashkelon,1,1,0,3,75,2800,apartment,37.33
+Ashkelon,3,3,0,1,95,4300,apartment,45.26
+Ashkelon,3,3,0,0,120,3800,house,31.67
+Ashkelon,4,4,0,5,120,4000,apartment,33.33
+Ashkelon,2,2,0,0,70,3300,basement,47.14
+Ashkelon,1,1,0,1,1,2500,housing unit,2500
+Ashkelon,5,5,0,7,147,6200,apartment,42.18
+Ashkelon,5,5,0,2,142,4500,apartment,31.69
+Ashkelon,2,2,0,0,100,3450,housing unit,34.5
+Ashkelon,3.5,3,1,1,95,3000,apartment,31.58
+Ashkelon,1,1,0,2,80,3600,apartment,45
+Ashkelon,3,3,0,7,100,4099,apartment,40.99
+Ashkelon,2,2,0,0,46,3000,housing unit,65.22
+Ashkelon,4.5,4,1,8,124,3500,apartment,28.23
+Ashkelon,3,3,0,1,55,2500,apartment,45.45
+Ashkelon,3,3,0,5,85,3470,apartment,40.82
+Ashkelon,3,3,0,2,70,2800,apartment,40
+Ashkelon,3,3,0,5,90,2900,apartment,32.22
+Ashkelon,2.5,2,1,0,70,3300,garden apartment,47.14
+Ashkelon,6,6,0,13,240,7500,penthouse,31.25
+Ashkelon,4,4,0,5,115,4300,apartment,37.39
+Ashkelon,2,2,0,4,65,2700,apartment,41.54
+Ashkelon,5,5,0,14,230,10500,penthouse,45.65
+Ashkelon,4,4,0,14,115,4300,apartment,37.39
+Ashkelon,5,5,0,6,200,7000,penthouse,35
+Ashkelon,4,4,0,4,130,3600,apartment,27.69
+Ashkelon,1,1,0,2,30,1900,housing unit,63.33
+Ashkelon,4,4,0,10,130,5000,apartment,38.46
+Ashkelon,2,2,0,0,60,2000,housing unit,33.33
+Ashkelon,4,4,0,1,100,3200,apartment,32
+Ashkelon,2,2,0,0,46,3000,housing unit,65.22
+Ashkelon,3,3,0,4,50,2500,apartment,50
+Ashkelon,4.5,4,1,6,140,4300,apartment,30.71
+Ashkelon,4,4,0,7,127,5000,penthouse,39.37
+Ashkelon,5,5,0,9,145,4700,apartment,32.41
+Ashkelon,2,2,0,2,35,3100,apartment,88.57
+Ashkelon,5,5,0,5,140,4800,apartment,34.29
+Ashkelon,4,4,0,9,100,3700,apartment,37
+Ashkelon,3,3,0,1,65,2900,apartment,44.62
+Ashkelon,5,5,0,6,140,4500,apartment,32.14
+Ashkelon,2,2,0,4,50,2700,housing unit,54
+Ashkelon,5,5,0,8,140,5000,apartment,35.71
+Ashkelon,4,4,0,2,80,3300,apartment,41.25
+Ashkelon,1,1,0,1,40,2200,housing unit,55
+Ashkelon,2,2,0,1,40,2200,housing unit,55
+Ashkelon,4,4,0,4,120,4300,apartment,35.83
+Ashkelon,3.5,3,1,6,83,3900,apartment,46.99
+Ashkelon,5,5,0,3,140,4400,apartment,31.43
+Ashkelon,2,2,0,0,60,2000,housing unit,33.33
+Ashkelon,5,5,0,16,140,10000,apartment,71.43
+Ashkelon,3,3,0,3,85,3200,apartment,37.65
+Ashkelon,4,4,0,0,180,3599,garden apartment,19.99
+Ashkelon,4,4,0,7,110,4500,apartment,40.91
+Ashkelon,5,5,0,3,100,3500,apartment,35
+Ashkelon,2,2,0,0,45,2199,housing unit,48.87
+Ashkelon,4,4,0,7,104,3900,apartment,37.5
+Ashkelon,5,5,0,4,146,5500,apartment,37.67
+Ashkelon,4,4,0,2,90,3150,apartment,35
+Ashkelon,3,3,0,9,80,2799,apartment,34.99
+Ashkelon,5,5,0,12,160,5200,apartment,32.5
+Ashkelon,1,1,0,0,30,2000,housing unit,66.67
+Ashkelon,5,5,0,3,140,4400,apartment,31.43
+Ashkelon,4,4,0,1,107,4500,apartment,42.06
+Ashkelon,3,3,0,8,113,3900,apartment,34.51
+Ashkelon,3,3,0,1,60,9800,other,163.33
+Ashkelon,5,5,0,6,145,5500,apartment,37.93
+Ashkelon,3,3,0,4,56,2800,apartment,50
+Ashkelon,2,2,0,0,67,2850,housing unit,42.54
+Ashkelon,1,1,0,7,20,2200,housing unit,110
+Ashkelon,4,4,0,1,85,3500,apartment,41.18
+Ashkelon,5,5,0,1,150,4400,apartment,29.33
+Ashkelon,3,3,0,3,71,3350,apartment,47.18
+Ashkelon,5,5,0,7,130,5500,apartment,42.31
+Ashkelon,3,3,0,5,70,3400,apartment,48.57
+Ashkelon,4,4,0,2,120,3800,apartment,31.67
+Ashkelon,4,4,0,1,119,4400,apartment,36.97
+Ashkelon,3,3,0,-1,70,3000,housing unit,42.86
+Ashkelon,3,3,0,5,88,3900,apartment,44.32
+Ashkelon,3,3,0,1,71,3500,apartment,49.3
+Ashkelon,2,2,0,0,50,3200,housing unit,64
+Ashkelon,4,4,0,5,120,3700,apartment,30.83
+Ashkelon,3,3,0,3,80,3500,apartment,43.75
+Ashkelon,3,3,0,10,160,5500,penthouse,34.38
+Ashkelon,5,5,0,6,142,4700,apartment,33.1
+Ashkelon,3,3,0,2,100,3700,apartment,37
+Ashkelon,4,4,0,5,115,4000,apartment,34.78
+Ashkelon,4,4,0,4,120,4200,apartment,35
+Ashkelon,4,4,0,7,110,4700,penthouse,42.73
+Ashkelon,3,3,0,6,75,3300,apartment,44
+Ashkelon,3,3,0,5,90,3500,housing unit,38.89
+Ashkelon,5,5,0,1,140,4400,apartment,31.43
+Ashkelon,3,3,0,1,90,3800,apartment,42.22
+Ashkelon,2,2,0,0,70,3400,housing unit,48.57
+Ashkelon,3,3,0,5,65,3700,apartment,56.92
+Ashkelon,3,3,0,5,75,3000,apartment,40
+Ashkelon,2,2,0,7,54,2400,apartment,44.44
+Ashkelon,4,4,0,3,96,2700,apartment,28.13
