@@ -3,7 +3,7 @@
 ---
 
 ### **Objective:**  
-To identify and explore temporal patterns, correlations, and potential causal relationships between temperature, energy consumption, and flu contagion in Pittsburgh during 2013–2015.
+To identify and explore temporal patterns, correlations, and potential causal relationships between temperature, energy consumption, and flu contagion in Pittsburgh.
 
 ---
 ### **Key Files:**
